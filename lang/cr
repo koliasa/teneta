@@ -1,0 +1,1000 @@
+Prijaviti se
+Registar
+Gost
+Korisničko ime
+E-mail
+Zaporka
+Nova lozinka
+Zapamti me
+Ili se prijavite sa
+Zaboravili ste lozinku?
+Email adresa
+Potvrdi lozinku
+Idemo !
+Oporavak
+Vraćanje izvorne lozinke
+Resetiraj
+pogrešan token
+Netočno korisničko ime ili lozinka
+Vaš račun je onemogućen, kontaktirajte nas.
+Morate aktivirati svoj račun.
+Uspješno ste prijavljeni, pričekajte..
+Provjerite svoje podatke.
+Korisničko ime već postoji.
+Korisničko ime mora biti između 5 / 32
+Nevažeći znakovi korisničkog imena
+Nevažeći znakovi zaporke
+Ovaj email se već koristi
+Ova e-pošta nije važeća.
+Lozinka je prekratka.
+Lozinka se ne podudara.
+Provjerite re-captcha.
+Uspješno ste se pridružili, pričekajte..
+Aktivacija računa
+Registracija uspješna! Poslali smo vam e-poštu. Provjerite svoju pristiglu poštu/neželjenu poštu kako biste potvrdili svoju e-poštu.
+Ne možemo pronaći ovu e-poštu.
+Zahtjev za ponovno postavljanje lozinke
+E-mail je uspješno poslan
+Pronađena je pogreška tijekom obrade vašeg zahtjeva, pokušajte ponovno kasnije.
+Lozinka uspješno promijenjena !
+Odaberite točan datum.
+Postavka je uspješno ažurirana!
+Trenutna lozinka ne odgovara
+Web stranica nije važeća.
+Račun je uspješno izbrisan, pričekajte..
+Dom
+Napredno pretraživanje
+Tražite ljude, stranice, grupe i #hashtagove
+Nema rezultata za prikaz
+Zadnje viđeno:
+Prihvatiti
+Otkazati
+Izbrisati
+Moj profil
+Spremljene objave
+postavke
+Administratorsko područje
+Odjavite se
+Nemate nijednu obavijest
+Nemate nikakvih zahtjeva
+pratio te
+spomenuo vas je u komentaru.
+spomenuo vas je u objavi.
+objavljeno na vašoj vremenskoj traci.
+posjetili su vaš profil.
+prihvatio sam tvoj zahtjev za prijateljstvo.
+prihvatio je vaš zahtjev za praćenjem.
+sviđa mi se tvoj komentar &quot;{comment}&quot;
+pitao sam se za tvoj komentar &quot;{comment}&quot;
+sviđa mi se tvoj {postType} {post}
+pitao sam se tvoj {postType} {post}
+podijelio je svoju {postType} {post}
+komentirao je tvoj {postType} {post}
+sviđa se {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+pitao se {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+podijelio je {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+komentirao je {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+video.
+objaviti.
+fotografija.
+datoteka.
+video dolazi.
+zvuk.
+profilna slika.
+404 Greška
+Žao nam je, stranica nije pronađena!
+Stranica koju tražite nije pronađena. Provjerite vezu koju ste slijedili da biste došli ovdje i pokušajte ponovo.
+Vaš račun je uspješno aktiviran!
+Možete se &lt;a href=&quot;{site_url}&quot;&gt;{prijaviti}&lt;/a&gt;!
+Opće postavke
+Postavka prijave
+Upravljanje korisnicima
+Upravljanje objavama
+Upravljanje izvješćima
+Oglas
+Više
+Sustav predmemorije
+Sustav za chat
+Provjera valjanosti e-pošte
+Obavijest e-poštom
+Glatke veze
+SEO prijateljski url
+Dijeljenje datoteka
+Teme
+Korisničke postavke
+Postavka stranice
+Omogućite sustav predmemorije da biste ubrzali svoju web stranicu, Preporučeno više od 10.000 aktivnih korisnika.
+Omogućite chat sustav za razgovor s prijateljima na dnu stranice
+Omogućite provjeru e-pošte za slanje aktivacijske veze kada se korisnik registrira.
+Omogućite obavijest putem e-pošte za slanje obavijesti korisniku putem e-pošte.
+Omogućite glatke veze, npr. {site_url}/home.
+Omogućite url prilagođen SEO-u, npr. {site_url}//1_hello-how-are-you-doing.html
+Omogućite dijeljenje datoteka za dijeljenje i prijenos videozapisa, slika, datoteka, zvukova itd.
+Predmemorija
+Informacije o stranici
+Ime i naslov stranice:
+Ime stranice
+Naslov stranice
+Ključne riječi i opis stranice:
+Ključne riječi stranice
+opis stranice
+E-mail stranice
+Zadani jezik
+Postavka teme
+Aktiviran
+Verzija:
+Autor:
+Status korisnika
+(online/zadnji put viđen)
+Omogućiti
+Onemogući
+Dopustite korisnicima da izbrišu svoje račune
+Obavijest o posjeti profilu
+Prikaz dobi korisnika kao
+Datum
+Dob
+Sustav povezivanja
+&lt;span style=&quot;color:red;&quot;&gt;Napomena:&lt;/span&gt; Ako promijenite sustav na drugi, svi postojeći pratitelji, sljedbenici, prijatelji bit će izbrisani.&lt;/small&gt;
+Sustav prijatelja
+Slijedite sustav
+Maksimalna veličina prijenosa za videozapise, slike, zvukove i datoteke
+Maksimalna duljina znakova
+Dopuštena proširenja
+Postavka reCaptcha
+Potreban je reCaptcha ključ
+reCaptcha ključ
+Google Analytics
+Google analytics kod
+Postavka predmemorije
+Toplo se preporučuje brisanje predmemorije.
+Veličina predmemorije:
+Očisti predmemoriju
+Prijava na društvene mreže
+API-ji za prijavu na društvene mreže
+Facebook
+Google+
+Cvrkut
+Linkedin
+Vkontakte
+Facebook API
+Google API
+Twitter API
+Linkedin API
+Vkontakte API
+ID aplikacije
+Tajni ključ aplikacije
+Prijavite se sa
+iskaznica
+Izvor
+Status
+U tijeku
+Ime
+Prezime
+O meni
+Web stranica
+Akcijski
+Prikaži više korisnika
+Nema više korisnika za prikaz
+Jeste li sigurni da želite izbrisati ovog korisnika?
+Jeste li sigurni da želite izbrisati ovaj post?
+Prikaži više postova
+Nema više postova
+Nema postova za prikaz
+Izdavač
+Za sada nema novih objava
+Post link
+Vrijeme
+Post
+{name} još nije ništa objavio
+traži
+Na
+Isključeno
+Uštedjeti
+Spremljeno!
+Reporter
+Prijavljeno vrijeme
+Za sada nema novih izvješća.
+Otvori post
+Označi Sigurno
+Izbriši objavu
+Postavka oglasa
+Više postavki
+E-mail lista
+Poslati
+Predmet..
+Poruka..
+Obavijest
+Nova najava
+Dodati
+Pogledi
+Nema aktivnih objava.
+Nema neaktivnih objava.
+Dodaj prijatelja
+slijediti
+Praćenje
+Praćenje
+Sljedbenici
+Poruka
+Zatraženo
+Prijatelji
+Na liniji
+Izvan mreže
+Trenutno ste izvan mreže, uključite chat da biste započeli chat.
+Nema izvanmrežnih korisnika.
+Nema online korisnika.
+Tražite korisnike
+Nema korisnika za prikaz
+viđeno
+Učitaj još postova
+Učitaj više korisnika
+Nema rezultata za vaš upit.
+Nemate spremljenih postova.
+Poruke
+Napisati nešto ..
+Nema više poruka
+Prikaži više poruka
+Nažalost, ne možete odgovoriti ovom korisniku.
+Odaberite jednog od svojih prijatelja
+i reci zdravo!
+preuzimanje datoteka
+Ažurirajte svoje podatke
+Izaberi svoje korisničko ime:
+Izradite svoju novu lozinku:
+Ažuriraj
+Izbriši komentar
+Jeste li sigurni da želite izbrisati ovaj komentar?
+Jeste li sigurni da želite izbrisati ovaj post?
+Uredi objavu
+Vrijeme isteklo
+Vaša je sesija istekla, prijavite se ponovno.
+Zemlja
+svi
+Spol
+Žena
+Muški
+Profilna slika
+Proizlaziti
+Da
+Ne
+Provjereni korisnik
+Promjena lozinke
+Trenutna lozinka
+ponovi lozinku
+Općenito
+Profil
+Privatnost
+Izbriši račun
+Jeste li sigurni da želite izbrisati svoj račun i napustiti našu mrežu?
+Ne, razmislit ću
+Provjereno
+Nije provjereno
+Administrator
+Korisnik
+Verifikacija
+Tip
+Rođendan
+Aktivan
+neaktivan
+Postavke privatnosti
+Tko me može pratiti?
+Svatko
+Moji prijatelji
+Nitko
+Ljudi koje pratim
+Ljudi me slijede
+Samo ja
+Tko mi može poslati poruku?
+Tko može objavljivati na mojoj vremenskoj traci?
+Prikaži moje aktivnosti?
+Pokazati
+Sakriti
+Potvrditi zahtjev kada vas netko slijedi?
+Prikaži moje posljednje viđenje?
+(npr.: http://www.siteurl.com)
+Postavka profila
+Prikvačeno
+Pin Post
+Otkvači objavu
+Otvori objavu u novoj kartici
+Poništi spremanje posta
+Spremi objavu
+Poništi prijavu posta
+Prijavi objavu
+Podijelio je ovu objavu
+promijenio profilnu sliku
+promijenila profilnu sliku
+Prijavite se da biste lajkali, čudili se, dijelili i komentirali!
+sviđanja
+Kao
+Čudo
+čuda
+Udio
+Komentari
+Još nema lajkova
+Još nema čuda
+Napišite komentar i pritisnite enter
+Pogledajte više komentara
+Dobrodošli na svoj News Feed!
+Reci zdravo !
+Što se događa? #Hashtag.. @Spominjanje.. Link..
+Youtube Link
+Vinska veza
+Veza na SoundCloud
+Gdje si ?
+Post
+Tekst
+Fotografije
+Zvukovi
+Video zapisi
+Karte
+Datoteke
+Ne prati nijednog korisnika
+Još nema sljedbenika
+pojedinosti
+Društvene veze
+razgovor
+Oko
+Kontaktirajte nas
+Politika privatnosti
+Uvjeti korištenja
+Programeri
+Jezik
+© {date} {site_name}
+godina
+mjesec
+dan
+sat
+minuta
+drugi
+godine
+mjeseca
+dana
+sati
+minuta
+sekundi
+prije
+od sada
+svakog trenutka
+Upravo sad
+prije otprilike minutu
+prije %d minuta
+Prije otprilike sat vremena
+prije %d sati
+jučer
+Prije %d dana
+prije mjesec dana
+prije %d mjeseci
+prije otprilike godinu dana
+prije %d godina
+Najnovije aktivnosti
+Nema novih aktivnosti
+U trendu!
+Učitaj više aktivnosti
+Nema više aktivnosti
+Ljudi koje možda poznaješ
+Predugo
+Prekratko.
+Dostupno !
+U uporabi.
+Korisničko ime ne smije sadržavati nikakve posebne znakove, simbole ili razmake.
+Sviđa mi se
+Moje stranice
+Sviđa mi se vaša stranica ({page_name})
+Ovaj tjedan
+postovi
+Smješten u
+Telefon
+Društvo
+Kategorija
+Traži postove
+Stvori novu stranicu
+Naziv stranice
+Naslov stranice
+Naslov vaše stranice
+Kategorija stranice
+Opis stranice
+Opis vaše stranice, između 10 i 200 znakova max.
+Stvoriti
+Naziv stranice već postoji.
+Naziv stranice mora biti između 5 / 32
+Nevažeći znakovi u nazivu stranice
+Uredi
+Informacije o stranici
+Izbriši stranicu
+Mjesto
+Stranice koje bi vam se mogle svidjeti
+Prikaži više stranica
+Nema više stranica za prikaz
+Jeste li sigurni da želite izbrisati ovu stranicu?
+Upravljanje stranicama
+Vlasnik
+Nema stranica za prikaz
+Čudo
+Spojiti
+Udio
+Otkriti
+Pronađi Više
+Prilagođeno mobilnim uređajima
+Wonder (NOVO), mogućnost čuditi se postu ako vam se ne sviđa.
+Povežite se sa svojom obitelji i prijateljima i podijelite svoje trenutke.
+Podijelite novosti i životne trenutke sa svojim prijateljima.
+Otkrijte nove ljude, stvorite nove veze i steknite nova prijateljstva.
+Pronađite više onoga što tražite uz WoWonder Search.
+100% prilagodljiv zaslon na svim tabletima i pametnim telefonima.
+Raditi u
+Odnos
+Nijedan
+Avatar
+Pokriti
+Pozadina
+Tema
+Zadano
+Moja pozadina
+Web stranica tvrtke
+Sviđa mi se moja stranica
+Ne sviđa mi se
+Nesviđanja
+ne sviđa mi se vaš {postType} {post}
+ne sviđa mi se tvoj komentar &quot;{comment}&quot;
+ne sviđa mi se &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt; korisnika {user}.
+Vrsta gumba za drugi post
+Grupno ime
+Naslov grupe
+Moje grupe
+Škola
+Primjer: društvena stranica, čudo, društvena stranica
+Poruka viđena
+Preporuča se za moćne poslužitelje
+Sustav tipkanja za chat
+reCaptcha
+Instagram
+ako ne podijelite svoj događaj posjete, nećete moći vidjeti druge osobe kako posjećuju vaš profil.
+Izbriši račun
+IP adresa
+Upravljanje grupama
+Jeste li sigurni da želite izbrisati ovu grupu?
+Nema više grupa za prikaz
+Prikaži više grupa
+članovi
+Zahtjevi za provjeru
+Potvrdi
+Zanemariti
+Stranica
+Nema novih zahtjeva za provjeru
+Ban korisnika
+zabranjeno
+Nema zabranjenih ip-ova.
+Nevažeća IP adresa.
+IP adresa je uspješno zabranjena.
+IP adresa već postoji
+Dodajte IP adresu
+IP adresa uspješno izbrisana
+Pošalji mi e-poštu kada
+Nekome su se svidjele moje objave
+Netko se čudio mojim postovima
+Netko je komentirao moje objave
+Netko je podijelio moje objave
+Netko me pratio
+Netko je lajkao moje stranice
+Netko je posjetio moj profil
+Netko me spomenuo
+Netko se pridružio mojim grupama
+Netko je prihvatio moj zahtjev za prijateljstvo/praćenje
+Netko je objavio na mojoj vremenskoj liniji
+Nema grupa za prikaz
+Informacije o grupi
+Izbriši grupu
+Naziv grupe već postoji.
+Nevažeći znakovi u nazivu grupe
+Naziv grupe mora biti između 5 / 32
+Nema zahtjeva za prikaz
+Ukloniti
+Nema članova za prikaz
+Grupa je uspješno izbrisana
+Stvori novu grupu
+Moje igre
+Nema igara za prikaz
+grupe
+Još nema prijatelja
+Još se nije pridružio nijednoj grupi
+Učitaj više stranica
+Učitaj više grupa
+Pridružio se vašoj grupi ({group_name})
+Sretan
+voljena
+tužno
+Jako tužno
+Ljut
+Zbunjen
+vruće
+Slomljen
+bezizražajan
+Cool
+smiješno
+Umoran
+Lijep
+Blagoslovljen
+Šokiran
+pospano
+Prilično
+dosadno
+Ukupno korisnika
+Korisnici
+Stranice
+Igre
+Online korisnici
+Nedavna pretraživanja
+Čisto
+Filter pretraživanja
+Ključna riječ
+Što tražite?
+promijenio naslovnicu profila
+promijenila naslovnicu profila
+Najnovije igrice
+Još niste stvorili nijedan album.
+Stvori album
+Moji albumi
+Naziv albuma
+Učitaj
+Dodajte fotografije
+Odgovori
+Odgovorite na komentar
+odgovorio na tvoj komentar &quot;{comment}&quot;
+spomenuo vas je u odgovoru &quot;{komentar}&quot;
+odgovorio na komentar &quot;{comment}&quot;
+sviđa mi se tvoj odgovor &quot;{comment}&quot;
+pitao sam se za tvoj odgovor &quot;{komentar}&quot;
+nije mi se svidio tvoj odgovor &quot;{comment}&quot;
+Poslati obavijest korisnicima kada posjetim njihov profil?
+ako ne podijelite svoje zadnje viđenje , nećete moći vidjeti druge ljude zadnje viđeno.
+Tko može vidjeti moj rođendan?
+ljudi vole ovo
+Pozovite prijatelje da lajkaju ovu stranicu
+Pozovite svoje prijatelje/sljedbenike
+Nemaš više prijatelja za poziv
+Pozvati
+pozvao vas je da lajkate ({page_name})
+prihvatio/la vaš zahtjev za sviđanje ({page_name})
+Poziv na akciju
+Poziv na ciljni url
+Web-lokacija poziva na radnju nije važeća
+Avatar i omot
+Omogućite mrežnim korisnicima prikaz aktivnih korisnika na bočnoj traci.
+Nije aktivan
+ženke
+mužjaci
+Nadzorna ploča
+Albumi
+Ime
+Igrači
+Dodaj novu igru
+Igra dodana
+Ovaj URL nije podržan
+Dodajte url igre
+Aktivne najave
+Neaktivne najave
+Zabrana
+Novi e-mail
+Html dopušten
+Pošalji na moj e-mail
+Testna poruka
+Pridruženi članovi
+Zahtjevi za pridruživanje
+Provjerene stranice
+Ekstenzije za dijeljenje datoteka (odvojene zarezom,)
+Riječi koje treba cenzurirati, odvojene zarezom (,)
+Pridružiti
+Spojen
+Zahtjev
+Uredi komentar
+Zadnja reprodukcija:
+igra
+Potvrditi zahtjev kada se netko pridruži ovoj grupi?
+Tko može vidjeti postove grupe?
+Pridruženi korisnici
+Živjeti u
+Oblikovati
+Ljudi koje biste možda željeli upoznati
+dodao nove fotografije u
+se osjeća
+putuje u
+sluša
+igra se
+gleda
+Osjećaj
+Putovanje u
+Gledanje
+Igranje
+Slušati
+Što osjećaš?
+gdje putujete
+Što gledate ?
+Što sviraš ?
+Što slušate ?
+Što radiš ?
+Studira na
+Web stranica tvrtke nije važeća
+Stranica je uspješno izbrisana
+naslovna slika.
+Predložene grupe
+prihvatio je vaš zahtjev za pridruživanje ({group_name})
+je zatražio da se pridruži vašoj grupi
+Nema postova za prikaz
+Dodajte svoje prijatelje u ovu grupu
+Nema prijatelja za dodavanje
+vas je dodao u grupu ({group_name})
+Tip grupe
+Javnost
+Privatni
+Izvještaji
+Još nema negativnih ocjena
+Ne sviđa mi se
+zapitao se
+Stranice s uvjetima
+Privatnost korisničkog profila
+Omogućite ga kako biste korisnicima koji nisu prijavljeni omogućili pregled korisničkih profila.
+Prijenos videozapisa
+Omogućite prijenos videozapisa za dijeljenje i prijenos videozapisa na web mjesto.
+Prijenos zvuka
+Omogućite prijenos zvuka za dijeljenje i prijenos zvukova na web mjesto.
+Čitaj više
+Čitaj manje
+Dodajte fotografiju.
+Pokažite svoju jedinstvenu osobnost i stil.
+Ili za sada preskočite ovaj korak.
+Spremi i nastavi
+Recite nam nešto o sebi.
+Podijelite svoje podatke s našom zajednicom.
+Saznajte najnovije aktivnosti naših popularnih korisnika.
+Pratite naše poznate korisnike.
+Slijedite {number} i završite
+Izgleda dobro.
+Kasnije ćete moći dodati više na svoj profil.
+Učitajte svoju fotografiju
+Molimo pričekajte..
+Korisničko ime ili email
+Postavka e-pošte
+godine
+Rođendani prijatelja
+Postavka SMS-a
+Glatko učitavanje
+Pojačane stranice već mogu vidjeti svi članovi naše zajednice.
+Ti si {type_name}, možeš samo poboljšati {can_boost} stranica u isto vrijeme.
+Vi ste {type_name}, možete samo poboljšati {can_boost} postova u isto vrijeme.
+Još nema pojačanih stranica.
+Još nema pojačanih objava.
+Otkrijte više značajki uz {sitename} PRO pakete!
+Zvijezda
+vruće
+Posljednji
+Vip
+Istaknuti član
+Pogledajte posjetitelje profila
+Prikaži/sakrij zadnji put viđen
+Potvrđena značka
+Objavi promociju&lt;br&gt;
+Promocija stranica&lt;br&gt;
+0% popusta
+10% popusta
+20% popusta
+60% popusta
+Za tjedan
+Na mjesec
+Godišnje
+doživotno
+Nadograditi sada
+Pojačani postovi
+Poboljšane stranice
+Stavi me ovdje
+Unaprijeđen
+Ups! Nešto je pošlo po zlu.
+Pokušajte ponovno
+Boost stranica
+Stranica pojačana
+Un-Boost stranica
+Uredi postavke stranice
+Blokirani korisnici
+Odblokiraj
+CSS datoteka
+Zadani dizajn
+Moja CSS datoteka
+Možete u potpunosti dizajnirati svoj profil učitavanjem vlastite CSS datoteke
+Pozovi prijatelje
+Poslati pozivnicu
+Boost Post
+UnBoost Post
+Povucite za promjenu položaja poklopca
+Blokirati korisnika
+Uredi korisnika
+Čestitamo ! Sada ste &lt;span style=&quot;color:{color}&quot;&gt;&lt;i class=&quot;fa fa-{icon} fa-fw&quot;&gt;&lt;/i&gt;{type_name}
+Počnite pregledavati nove značajke
+Ups, izgleda da vaš račun još nije aktiviran.
+Odaberite metodu u nastavku da aktivirate svoj račun.
+E-poštom
+Putem telefonskog broja
+Ili
+Pošalji kod za potvrdu
+Niste dobili kod?
+Ponovno pošalji
+Trebali biste primiti kod unutar
+Potvrdi
+Telefonski broj (npr. +905...)
+Pogreška prilikom aktivacije vašeg računa.
+Pogrešan kod za potvrdu.
+Slanje koda za potvrdu nije uspjelo.
+Pogrešan broj telefona.
+Telefonski broj je već korišten.
+SMS je uspješno poslan.
+Pogreška prilikom slanja SMS-a, pokušajte s drugim brojem.
+Slanje potvrdnog koda nije uspjelo, odaberite jedan od načina aktivacije.
+E-pošta je uspješno poslana, provjerite svoju pristiglu poštu ili spam mapu za link za aktivaciju.
+Ograničenje je premašeno, pokušajte ponovno kasnije.
+Pogreška prilikom slanja SMS-a, pokušajte s drugim brojem ili aktivirajte svoj račun putem e-pošte prijavom na svoj račun.
+Besplatan član
+Član zvijezde
+Vrući član
+Ultima član
+Vip član
+Moderator
+Vrsta člana
+Članstvo
+Nadogradnja
+Greška, pokušajte ponovo kasnije.
+Nadogradi na pro
+Nema odgovora
+Molimo pokušajte ponovo kasnije.
+Odgovoreno !
+Poziv je odbijen
+Primatelj je odbio poziv, pokušajte ponovno kasnije.
+Novi video poziv
+želi video chat s vama.
+Odbiti
+Prihvati i započni
+zovem
+Molimo pričekajte odgovor vašeg prijatelja.
+Vi ste prijatelji na {site_name}
+Slijediš
+Vidi sve
+Mi
+Povećajte do {monthly_boosts} objava&lt;br&gt;
+Povećajte do {monthly_boosts} stranica&lt;br&gt;
+Povećajte do {yearly_boosts} postova&lt;br&gt;
+Povećajte do {yearly_boosts} stranica&lt;br&gt;
+Povećajte do {lifetime_boosts} objava&lt;br&gt;
+Povećajte do {lifetime_boosts} stranica&lt;br&gt;
+Prijavite se
+YouTube
+Moji proizvodi
+Odaberite način plaćanja
+PayPal
+Kreditna kartica
+Bitcoin
+Kategorije
+Najnoviji proizvodi
+Tražite proizvode
+Tražite proizvode u {category_name}
+Nema dostupnih proizvoda za prikaz.
+Učitaj još proizvoda
+Prodaj novi proizvod
+Opis
+Opišite svoj proizvod.
+korišteno
+Novi
+Cijena
+Cijena vašeg proizvoda u valuti USD ($), npr. (10,99)
+Uredi proizvod
+Objaviti
+Više informacija
+Kontaktirajte prodavača
+Autor &lt;a href=&quot;{product_url}&quot;&gt;{product_name}&lt;/a&gt;, objavljeno {product_time}, u &lt;a href=&quot;{product_category}&quot;&gt;{product_category_name}&lt;/a&gt;
+Plaćanje je odbijeno, pokušajte ponovno kasnije.
+Potvrđivanje plaćanja, molimo pričekajte..
+Zaradite do {amount} USD za svakog korisnika kojeg nam preporučite!
+Zaradite do {amount} USD za svakog korisnika kojeg nam preporučite i pretplatite se na bilo koji od naših profesionalnih paketa.
+Moje podružnice
+Trenutno stanje
+Vaša affiliate veza je
+Vaš saldo je ${balance}, minimalni zahtjev za isplatu je ${m_withdrawal}
+Vaša ravnoteža je
+PayPal email
+Iznos (USD)
+Zahtjev za povlačenje
+Povijest plaćanja
+Iznos
+Odbijeno
+Odobreno
+Ukupno glasova
+Označi proizvod kao prodan
+dodan novi proizvod za prodaju.
+ime proizvoda
+Na lageru
+prodano
+Odgovor
+Dodajte odgovor
+Provjera autentičnosti
+Dobrodošao natrag!
+Dobrodošli!
+Povežite se s ljudima.
+Upoznati nove prijatelje.
+Podijelite svoja sjećanja.
+Stvorite nove odnose.
+Otkrijte nova mjesta.
+Zaboravili ste zaporku?
+Nevažeća oznaka, molimo pokušajte ponovno postaviti lozinku
+Idi natrag
+Stvaranjem svog računa pristajete na naše
+Odaberite cijenu za svoj proizvod
+Odaberite ispravnu vrijednost za svoju cijenu
+Molimo prenesite barem 1 fotografiju
+Već ste glasali u ovoj anketi.
+Već imate zahtjev na čekanju.
+Nevažeća vrijednost iznosa
+Nevažeća vrijednost iznosa, vaš iznos je:
+Nevažeća vrijednost iznosa, minimalni zahtjev za isplatu je:
+Vaš zahtjev je poslan, uskoro ćete dobiti e-mail s detaljima plaćanja.
+Isključite zvuk obavijesti
+Uključite zvuk obavijesti
+Pregledajte {count} novih postova
+Pohranjuj postove prema
+Novi audio poziv
+želi razgovarati s tobom.
+Audio poziv
+razgovaram sa
+Tržište
+Komentar
+Po
+Učitaj još članaka
+Blog
+Nema pronađenih članaka
+Najnoviji članci
+Napravi novi članak
+Moji članci
+Titula
+Sadržaj
+Odaberi
+Oznake
+Sličica
+Objavljeno
+Vaš članak je uspješno ažuriran
+Vaš članak je uspješno dodan
+Naslov treba sadržavati više od 10 znakova
+Opis treba imati više od 32 znaka
+Molimo ispunite polje oznaka
+Pronađena je pogreška, pokušajte ponovno kasnije
+Objavljeno {BLOG_TIME} u {CATEGORY_NAME}.
+stvorio je novi članak
+Forum
+Zadnji post
+tema
+Pretraživanje niti
+Napravi novu temu
+Skoči na
+Moje niti
+Moje poruke
+Naslov
+Vaš post
+Odgovor
+Započeo
+Administrator stranice
+Registriran
+Odgovorite na ovu temu
+Pregled teme
+Tvoj odgovor
+Popis korisnika
+Postovi se broje
+Preporuke
+Zadnji posjet
+Opći pojmovi pretraživanja
+Traži pojam
+Traži u
+Pretražite forume
+Traži u temama
+Traži u porukama
+Samo predmet pretraživanja
+niti
+Objavljeno
+Nema foruma za prikaz
+Nikada
+Nema odgovora za prikaz
+Nema niti za prikaz
+Nema odjeljaka za prikaz
+napisao
+Uredi temu
+Vaš odgovor je uspješno spremljen
+Vaš odgovor je uspješno dodan
+Vaš forum je uspješno dodan
+Pomozite
+Unesite jedan ili više pojmova za pretraživanje, svaki mora imati najmanje 4 znaka
+Događaji
+ide
+Zainteresiran
+Pastor
+pozvani
+Ti ideš
+Ti si zainteresiran
+Početni datum
+Datum završetka
+Događaj
+Nema događaja za prikaz
+Događaji koji bi vam se mogli svidjeti
+Odlaze ljudi
+Zainteresirani ljudi
+Pozvani ljudi
+Vaš događaj je uspješno dodan
+Vaš događaj je uspješno spremljen.
+Sigurni ste da želite izbrisati ovaj događaj
+Učitaj više
+Predmet
+Ići
+stvorio novi događaj
+Moji događaji
+zainteresiran je za vaš događaj &quot;{event_name}&quot;
+ide na vaš događaj &quot;{event_name}&quot;
+pozvao vas je da idete na događaj &quot;{event_name}&quot;
+odgovorio na tvoju temu
+Filmovi
+Prevedi
+Žanr
+Preporučeno
+Najgledaniji
+Zvijezde
+Nema filmova za prikazivanje
+Proizvođač
+Otpuštanje
+Kvaliteta
+Još ovako
+Novčanik
+Nadmetanje
+Klikovi
+Url
+Publika
+Odaberite sliku
+Dopuni moj saldo
+Nastaviti
+Vaš saldo je nadopunjen za
+Oglašavanje
+Jeste li sigurni da želite izbrisati ovu kampanju? Ova se radnja ne može poništiti.
+Izbriši kampanju
+Nema pronađenih oglasa. Izradite novi oglas i počnite dobivati promet!
+Plasman
+Bočna traka
+Odaberite stranicu ili unesite vezu na svoju stranicu
+Priča
+Maksimalan broj ne smije premašiti 20 datoteka odjednom!
+Vaš status je uspješno dodan!
+Stvori novi status
+Sponzorirano
+Vaša obavijest je uspješno poslana
+Sakrij objavu
+Vaš zahtjev za verifikaciju uskoro će biti razmotren!
+Verifikacija profila!
+Čestitamo, vaš profil je potvrđen!
+Upload dokumenata
+Učitajte fotografiju s putovnicom/osobnom iskaznicom i svojom jasnom fotografijom
+Kopija putovnice ili osobne iskaznice
+Vaše fotografije
+Odaberite putovnicu/osobnu iskaznicu i fotografiju!
+Slika putovnice/osobne iskaznice mora biti slika
+Korisnička slika mora biti slika
+Vaš zahtjev je uspješno poslan, razmotrit ćemo ga u vrlo skoroj budućnosti!
+podijeljeno
+Objava je uspješno dodana na vašu vremensku traku!
+Važno!
+Imajte na umu da ako promijenite korisničko ime izgubit ćete potvrdu
+Tko može vidjeti moje prijatelje?
+dodao je vašeg administratora grupe
+dodao je administratora vaše stranice
+Ovdje još nema poruka.
+Razgovor je izbrisan!
+Zatvoriti
+Izlaz iz grupe
+Obriši povijest
+Članovi grupe
+Dodajte sudionika
+Otkaži izvješće
+Prijavi ovog korisnika
+Prijavi ovu stranicu
+Prijavite ovu grupu
+Već ste ocijenili ovu stranicu!
+Ocjena
+Recenzije
