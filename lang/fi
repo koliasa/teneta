@@ -1,0 +1,1000 @@
+Mag log in
+Magrehistro
+Bisita
+Username
+E-mail
+Password
+Bagong password
+Tandaan mo ako
+O mag-log in gamit ang
+Nakalimutan ang password?
+E-mail address
+Kumpirmahin ang Password
+Tara na!
+Mabawi
+I-reset ang Iyong Password
+I-reset
+Di-wastong Token
+Maling username o password
+Ang iyong account ay hindi pinagana, mangyaring makipag-ugnay sa amin .
+Kailangan mong i-activate ang iyong account.
+Matagumpay na Naka-log in, Mangyaring maghintay..
+Mangyaring suriin ang iyong mga detalye.
+Umiiral na ang username.
+Ang username ay dapat nasa pagitan ng 5 / 32
+Di-wastong mga character ng username
+Di-wastong mga character ng password
+Ginagamit na ang e-mail na ito
+Ang e-mail na ito ay hindi wasto.
+Masyadong maikli ang password.
+Hindi tugma ang password.
+Pakisuri ang re-captcha.
+Matagumpay na sumali, Mangyaring maghintay..
+Pag-activate ng Account
+Maayos ang pagrehistro! Nagpadala kami sa iyo ng isang email, Mangyaring suriin ang iyong inbox/spam upang i-verify ang iyong email.
+Hindi namin mahanap ang email na ito.
+Kahilingan sa pag-reset ng password
+Matagumpay na naipadala ang e-mail
+May nakitang error habang pinoproseso ang iyong kahilingan, pakisubukang muli sa ibang pagkakataon.
+Matagumpay na nabago ang password!
+Mangyaring pumili ng tamang petsa.
+Matagumpay na na-update ang setting!
+Hindi tugma ang kasalukuyang password
+Di-wasto ang website.
+Matagumpay na natanggal ang account, mangyaring maghintay..
+Bahay
+Masusing Paghahanap
+Maghanap ng mga tao, page, grupo at #hashtags
+Walang ipapakitang resulta
+Huling nakita:
+Tanggapin
+Kanselahin
+Tanggalin
+Aking Profile
+Naka-save na Mga Post
+Mga setting
+Admin Area
+Log Out
+Wala kang anumang mga notification
+Wala kang anumang mga kahilingan
+sinundan kita
+nabanggit ka sa isang komento.
+binanggit ka sa isang post.
+nai-post sa iyong timeline.
+bumisita sa iyong profile.
+tinanggap ang iyong kahilingan sa kaibigan.
+tinanggap ang iyong follow request.
+ni-like ang iyong komentong &quot;{comment}&quot;
+nagtaka sa iyong komento na &quot;{comment}&quot;
+nagustuhan ang iyong {postType} {post}
+nagtaka sa iyong {postType} {post}
+ibinahagi ang iyong {postType} {post}
+nagkomento sa iyong {postType} {post}
+nagustuhan ni {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+tanong ni {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+ibinahagi ng {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+nagkomento sa {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+video.
+post.
+larawan.
+file.
+darating ang video.
+tunog.
+larawan sa profile.
+404 Error
+Paumanhin, hindi nahanap ang pahina!
+Ang pahinang iyong hinahanap ay hindi matagpuan. Pakisuri ang link na iyong sinundan upang makarating dito at subukang muli.
+Ang iyong account ay matagumpay na na-activate!
+Malaya kang &lt;a href=&quot;{site_url}&quot;&gt;{login}&lt;/a&gt; !
+Pangkalahatang Setting
+Setting ng Pag-login
+Pamahalaan ang mga User
+Pamahalaan ang Mga Post
+Pamahalaan ang Mga Ulat
+Advertisement
+Higit pa
+Sistema ng Cache
+Sistema ng Chat
+Pagpapatunay ng email
+Notification sa email
+Makinis na mga link
+SEO friendly na url
+Pagbabahagi ng file
+Mga tema
+Mga Setting ng User
+Setting ng Site
+Paganahin ang cache system upang pabilisin ang iyong website, Inirerekomenda ang higit sa 10,000 aktibong user.
+Paganahin ang chat system upang makipag-chat sa mga kaibigan sa buttom ng page
+I-enable ang email validation para magpadala ng activation link kapag nakarehistro ang user.
+Paganahin ang notification sa email upang magpadala ng notification ng user sa pamamagitan ng email.
+Paganahin ang mga makinis na link, hal{site_url}/home.
+Paganahin ang SEO friendly na url, hal.{site_url}//1_hello-how-are-you-doing.html
+Paganahin ang pagbabahagi ng File upang magbahagi at mag-upload ng mga video, larawan, file, tunog, atbp.
+Cache
+Impormasyon sa Site
+Pangalan at Pamagat ng Site:
+Pangalan ng site
+Pamagat ng site
+Mga Keyword at Paglalarawan ng Site:
+Mga Keyword ng Site
+Paglalarawan ng Site
+Site E-mail
+Default na wika
+Setting ng Tema
+Na-activate
+Bersyon:
+May-akda:
+Katayuan ng user
+(online/huling nakita)
+Paganahin
+Huwag paganahin
+Payagan ang mga user na tanggalin ang kanilang account
+Notification ng pagbisita sa profile
+Ipakita ang edad ng user bilang
+Petsa
+Edad
+Sistema ng Pagkakakonekta
+&lt;span style=&quot;color:red;&quot;&gt;Tandaan:&lt;/span&gt; Kung babaguhin mo ang system sa isa pa, ang lahat ng umiiral na mga sumusunod, mga tagasunod, mga kaibigan ay tatanggalin.&lt;/small&gt;
+Sistema ng mga kaibigan
+Sundin ang sistema
+Max na laki ng pag-upload para sa mga video, larawan, tunog, at file
+Max na haba ng mga character
+Mga pinapayagang extension
+Setting ng reCaptcha
+Kinakailangan ang reCaptcha key
+reCaptcha Key
+Google Analytics
+Google analytics code
+Setting ng Cache
+Lubos na inirerekomenda na i-clear ang cache.
+Laki ng Cache:
+I-clear ang Cache
+Social login
+Social login API&#39;S
+Facebook
+Google+
+Twitter
+Linkin
+Vkontakte
+Facebook API
+Google API
+Twitter API
+Linkin API
+Vkontakte API
+App ID
+App Secret Key
+Mag-login gamit ang
+ID
+Pinagmulan
+Katayuan
+Nakabinbin
+Pangalan
+Huling pangalan
+Tungkol sa Akin
+Website
+Aksyon
+Magpakita ng higit pang mga user
+Wala nang maipapakitang mga user
+Sigurado ka bang gusto mong tanggalin ang user na ito?
+Sigurado ka bang gusto mong tanggalin ang post na ito?
+Magpakita ng higit pang mga post
+Wala nang mga post
+Walang maipapakitang post
+Publisher
+Wala pang bagong post sa ngayon
+Mag-post ng link
+Oras
+Post
+Wala pang nai-post si {name}.
+Maghanap
+Naka-on
+Naka-off
+I-save
+Nai-save na !
+Tagapagbalita
+Iniulat ng Oras
+Walang mga bagong ulat sa ngayon.
+Buksan ang Post
+Mark Safe
+Tanggalin ang Post
+Setting ng Advertisement
+Higit pang Setting
+Mailing list
+Ipadala
+Paksa..
+Mensahe..
+Anunsyo
+Bagong anunsyo
+Idagdag
+Mga view
+Walang mga aktibong anunsyo.
+Walang mga hindi aktibong anunsyo.
+Magdagdag ng Kaibigan
+Sundin
+Sumusunod
+Sumusunod
+Mga tagasunod
+Mensahe
+Hiniling
+Mga kaibigan
+Online
+Offline
+Kasalukuyan kang offline, i-on ang chat para magsimulang makipag-chat.
+Walang mga offline na gumagamit.
+Walang mga online na gumagamit.
+Maghanap para sa mga gumagamit
+Walang maipapakitang mga user
+Nakita
+Mag-load ng higit pang mga post
+Mag-load ng mas maraming user
+Walang nakitang mga resulta para sa iyong query.
+Wala kang anumang mga naka-save na post.
+Mga mensahe
+Sumulat ng isang bagay..
+Wala nang mensahe
+Tingnan ang higit pang mga mensahe
+Paumanhin, hindi ka makakasagot sa user na ito.
+Pumili ng isa sa iyong mga kaibigan
+At sabihin Hello!
+I-download
+I-update ang iyong impormasyon
+Piliin ang iyong username:
+Lumikha ng iyong bagong password:
+Update
+Tanggalin ang Komento
+Sigurado ka bang gusto mong tanggalin ang komentong ito?
+Sigurado ka bang gusto mong tanggalin ang post na ito?
+I-edit ang Post
+Nag-expire na ang Session
+Ang iyong Session ay nag-expire na, mangyaring mag-login muli.
+Bansa
+Lahat
+Kasarian
+Babae
+Lalaki
+Larawan sa Profile
+Resulta
+Oo
+Hindi
+Na-verify na User
+Palitan ANG password
+Kasalukuyang Password
+Ulitin ang password
+Heneral
+Profile
+Pagkapribado
+Tanggalin ang Account
+Sigurado ka bang gusto mong tanggalin ang iyong account, at umalis sa aming network ?
+Hindi, Pag-iisipan Ko
+Na-verify
+Hindi napatunayan
+Admin
+Gumagamit
+Pagpapatunay
+Uri
+Birthday
+Aktibo
+hindi aktibo
+Setting ng Privacy
+Sino ang makakasunod sa akin?
+lahat
+Aking Mga kaibigan
+Walang katawan
+Mga Taong Sinusundan Ko
+Sinusundan Ako ng mga Tao
+Ako lang
+Sino ang maaaring magmessage sa akin?
+Sino ang maaaring mag-post sa aking timeline?
+Ipakita ang aking mga aktibidad?
+Ipakita
+Tago
+Kumpirmahin ang kahilingan kapag may sumusunod sa iyo?
+Ipakita ang huli kong nakita?
+(hal: http://www.siteurl.com)
+Setting ng Profile
+Naka-pin
+Pin Post
+I-unpin ang Post
+Buksan ang post sa bagong tab
+Huwag I-save ang Post
+I-save ang Post
+I-unulat ang Post
+Mag-ulat ng Post
+Ibinahagi ang post na ito
+nagpalit ng profile picture niya
+nagpalit ng profile picture niya
+Mangyaring mag-log in upang mag-like, magtaka, magbahagi at magkomento!
+Mga gusto
+Gusto
+Nagtataka
+Mga kababalaghan
+Ibahagi
+Mga komento
+Wala pang likes
+Wala pang kababalaghan
+Sumulat ng komento at pindutin ang enter
+Tingnan ang higit pang mga komento
+Maligayang pagdating sa iyong News Feed!
+Bumati ka !
+Ano ang nangyayari? #Hashtag.. @Mention.. Link..
+Link sa Youtube
+Link ng baging
+Link ng SoundCloud
+Nasaan ka ?
+Post
+Text
+Mga larawan
+Mga tunog
+Mga video
+Mga mapa
+Mga file
+Hindi sumusunod sa sinumang gumagamit
+Wala pang followers
+Mga Detalye
+Mga Social Link
+Chat
+Tungkol sa
+Makipag-ugnayan sa amin
+Patakaran sa Privacy
+Mga Tuntunin ng Paggamit
+Mga developer
+Wika
+© {date} {site_name}
+taon
+buwan
+araw
+oras
+minuto
+pangalawa
+taon
+buwan
+araw
+oras
+minuto
+segundo
+kanina
+mula ngayon
+anumang sandali ngayon
+Ngayon lang
+mga isang minutong nakaraan
+%d minuto ang nakalipas
+halos isang oras na ang nakalipas
+%d oras ang nakalipas
+Kahapon
+%d araw ang nakalipas
+halos isang buwan na ang nakalipas
+%d buwan ang nakalipas
+mga isang taon na ang nakalipas
+%d taon na ang nakalipas
+Pinakabagong Aktibidad
+Walang bagong aktibidad
+Trending !
+Mag-load ng higit pang aktibidad
+Wala nang mga aktibidad
+Mga taong maaaring kilala mo
+Masyadong mahaba
+Masyadong maikli.
+Available na!
+Sa paggamit.
+Ang username ay hindi dapat maglaman ng anumang mga espesyal na character, simbolo o espasyo.
+Nagustuhan
+Aking Mga Pahina
+Nagustuhan ang iyong pahina ({page_name})
+Ngayong linggo
+mga post
+Matatagpuan sa
+Telepono
+kumpanya
+Kategorya
+Maghanap ng mga post
+Lumikha ng Bagong Pahina
+Pangalan ng pahina
+Pamagat ng pahina
+Pamagat ng iyong pahina
+Kategorya ng Pahina
+Paglalarawan ng pahina
+Ang paglalarawan ng iyong Pahina, Sa pagitan ng 10 at 200 character max.
+Lumikha
+Umiiral na ang pangalan ng page.
+Ang pangalan ng page ay dapat nasa pagitan ng 5 / 32
+Di-wastong mga character ng pangalan ng page
+I-edit
+Impormasyon sa Pahina
+Tanggalin ang Pahina
+Lokasyon
+Mga page na maaaring magustuhan mo
+Magpakita ng higit pang mga pahina
+Wala nang mga pahinang ipapakita
+Sigurado ka bang gusto mong tanggalin ang pahinang ito?
+Pamahalaan ang Mga Pahina
+May-ari
+Walang ipapakitang pahina
+Nagtataka
+Kumonekta
+Ibahagi
+Matuklasan
+Maghanap ng higit pa
+Mobile Friendly
+Wonder (BAGO), kakayahang magtaka ng post kung hindi mo ito gusto.
+Kumonekta sa iyong pamilya at mga kaibigan at ibahagi ang iyong mga sandali.
+Ibahagi kung ano ang bago at mga sandali ng buhay sa iyong mga kaibigan.
+Tumuklas ng mga bagong tao, lumikha ng mga bagong koneksyon at magkaroon ng mga bagong kaibigan.
+Maghanap ng higit pa sa hinahanap mo sa Wowonder Search.
+100% screen adaptable sa lahat ng tablet at smartphone.
+Nagtatrabaho sa
+Relasyon
+wala
+Avatar
+Takpan
+Background
+Tema
+Default
+Ang aking background
+Website ng kumpanya
+Ni-like ang Aking Pahina
+hindi gusto
+Mga ayaw
+hindi nagustuhan ang iyong {postType} {post}
+hindi nagustuhan ang iyong komentong &quot;{comment}&quot;
+hindi nagustuhan ng {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+Pangalawang post na uri ng button
+Pangalan ng grupo
+Pamagat ng pangkat
+Aking Mga Grupo
+Paaralan
+Halimbawa: social, wonder, social site
+Nakita ang Mensahe
+Inirerekomenda para sa makapangyarihang mga server
+Sistema ng pag-type ng chat
+reCaptcha
+Instagram
+kung hindi mo ibabahagi ang iyong kaganapan sa pagbisita , hindi mo makikita ang ibang tao na bumibisita sa iyong profile.
+Tanggalin ang Account
+IP address
+Pamahalaan ang Mga Grupo
+Sigurado ka bang gusto mong tanggalin ang grupong ito?
+Wala nang mga grupong ipapakita
+Magpakita ng higit pang mga grupo
+Mga miyembro
+Mga Kahilingan sa Pagpapatunay
+I-verify
+Huwag pansinin
+Pahina
+Walang bagong kahilingan sa pag-verify
+I-ban ang Gumagamit
+Pinagbawalan
+Walang ipinagbabawal na ips.
+Di-wastong ip address.
+Matagumpay na na-ban ang IP address.
+Umiiral na ang IP address
+Mangyaring magdagdag ng isang ip address
+Matagumpay na natanggal ang IP address
+I-email ako kung kailan
+May nag-like sa mga post ko
+May nagtaka sa mga post ko
+May nagcomment sa mga post ko
+May nagshare sa mga post ko
+May sumunod sa akin
+May naglike ng page ko
+May bumisita sa profile ko
+May nagbanggit sa akin
+May sumali sa mga grupo ko
+May tumanggap sa aking kaibigan/follow requset
+May nagpost sa timeline ko
+Walang mga grupong ipapakita
+Impormasyon ng pangkat
+Tanggalin ang Grupo
+Ang pangalan ng grupo ay mayroon na.
+Di-wastong mga character ng pangalan ng pangkat
+Ang pangalan ng grupo ay dapat nasa pagitan ng 5 / 32
+Walang mga kahilingang ipakita
+Alisin
+Walang maipapakitang miyembro
+Matagumpay na natanggal ang pangkat
+Lumikha ng Bagong Grupo
+Aking Mga Laro
+Walang maipapakitang laro
+Mga grupo
+Wala pang kaibigan
+Hindi pa sumali sa anumang grupo
+Mag-load ng higit pang mga pahina
+Mag-load ng higit pang mga grupo
+Sumali sa iyong grupo ({group_name})
+Masaya
+Minahal
+Malungkot
+Napakalungkot
+Galit
+Nalilito
+Mainit
+Nasira
+walang ekspresyon
+Malamig
+Nakakatawa
+Pagod
+kaibig-ibig
+pinagpala
+Nagulat
+Inaantok
+maganda
+Nababagot
+Kabuuang mga User
+Mga gumagamit
+Mga pahina
+Mga laro
+Mga Online User
+Mga Kamakailang Paghahanap
+Maaliwalas
+Filter ng paghahanap
+Keyword
+Ano ang hinahanap?
+binago ang kanyang profile cover
+binago ang kanyang profile cover
+Pinakabagong laro
+Hindi ka pa nakakagawa ng anumang mga album.
+Lumikha ng album
+Aking Mga Album
+Pangalan ng album
+Mag-upload
+Magdagdag ng mga larawan
+Mga tugon
+Tumugon sa komento
+tumugon sa iyong komento na &quot;{comment}&quot;
+binanggit ka sa isang tugon na &quot;{comment}&quot;
+tumugon sa komentong &quot;{comment}&quot;
+Nagustuhan ang iyong tugon na &quot;{comment}&quot;
+nagtaka sa iyong tugon na &quot;{comment}&quot;
+hindi nagustuhan ang iyong tugon na &quot;{comment}&quot;
+Magpadala ng notification sa mga user kapag binisita ko ang kanilang profile?
+kung hindi mo ibabahagi ang iyong huling nakita , hindi mo makikita ang ibang mga tao na huling nakita.
+Sino ang makakakita sa aking kaarawan?
+mga taong ganito
+Mag-imbita ng mga kaibigan na i-like ang Page na ito
+Imbitahan ang iyong mga kaibigan/tagasunod
+Wala ka nang mga kaibigan na maimbitahan
+Mag-anyaya
+inimbitahan kang i-like ({page_name})
+tinanggap ang iyong kahilingang i-like si ({page_name})
+Call to action
+Tumawag sa target na url
+Di-wasto ang website ng call to action
+Avatar at Cover
+Paganahin ang mga online na user na magpakita ng mga aktibong user sa sidebar.
+Hindi aktibo
+Babae
+Mga lalaki
+Dashboard
+Mga album
+Pangalan
+Mga manlalaro
+Magdagdag ng Bagong Laro
+Idinagdag ang laro
+Ang url na ito ay hindi suportado
+Mangyaring magdagdag ng url ng laro
+Mga aktibong anunsyo
+Mga hindi aktibong anunsyo
+Pagbabawal
+Bagong E-mail
+Pinapayagan ang HTML
+Ipadala sa aking email
+Mensahe ng pagsubok
+Sumali sa mga Miyembro
+Mga Kahilingan sa Pagsali
+Mga Na-verify na Pahina
+Mga extension sa pagbabahagi ng file (na pinaghihiwalay ng kuwit,)
+Mga salitang ise-censor, pinaghihiwalay ng kuwit (,)
+Sumali
+Sumali
+Kahilingan
+I-edit ang komento
+Huling Paglalaro:
+Maglaro
+Kumpirmahin ang kahilingan kapag may sumali sa grupong ito?
+Sino ang makakakita sa mga post ng grupo ?
+Sumali sa mga user
+Nakatira sa
+Disenyo
+Mga taong maaaring gusto mong makilala
+nagdagdag ng mga bagong larawan sa
+ay nakakaramdam
+ay naglalakbay sa
+ay nakikinig sa
+Ay naglalaro
+ay nanonood
+Pakiramdam
+Papunta sa
+Nanonood
+Naglalaro
+Nakikinig sa
+Ano ang nararamdaman mo ?
+Saan ka naglalakbay?
+ano pinapanood mo
+Ano ang nilalaro mo ?
+Ano ang iyong pinapakinggan ?
+Anong ginagawa mo ?
+Nag-aaral sa
+Ang website ng kumpanya ay hindi wasto
+Matagumpay na natanggal ang pahina
+larawan ng pabalat.
+Mga iminungkahing grupo
+tinanggap ang iyong kahilingang sumali ({group_name})
+hiniling na sumali sa iyong grupo
+Walang mga post na ipapakita
+Idagdag ang iyong mga kaibigan sa grupong ito
+Walang mga kaibigan na magdadagdag sa kanila
+idinagdag ka sa pangkat ({group_name})
+Uri ng pangkat
+Pampubliko
+Pribado
+Mga ulat
+Wala pang ayaw
+Hindi nagustuhan
+Nagtaka
+Mga Pahina ng Tuntunin
+Privacy ng Profile ng User
+Paganahin ito upang payagan ang mga hindi naka-log na user na tingnan ang mga profile ng mga user.
+Pag-upload ng Video
+Paganahin ang pag-upload ng video upang magbahagi at mag-upload ng mga video sa site.
+Pag-upload ng Audio
+Paganahin ang pag-upload ng audio upang magbahagi at mag-upload ng mga tunog sa site.
+Magbasa pa
+Magbasa nang mas kaunti
+Magdagdag ng Litrato.
+Ipakita ang iyong natatanging personalidad at istilo.
+O Laktawan ang hakbang na ito sa ngayon.
+I-save at Magpatuloy
+Sabihin sa amin ang tungkol sa iyo.
+Ibahagi ang iyong impormasyon sa aming komunidad.
+Kumuha ng mga pinakabagong aktibidad mula sa aming mga sikat na user.
+Sundin ang aming mga sikat na user.
+Sundin ang {number} at Tapusin
+Mukhang maayos.
+Magagawa mong magdagdag ng higit pa sa iyong profile sa ibang pagkakataon.
+I-upload ang iyong mga larawan
+Pakihintay..
+Username o E-mail
+Setting ng E-mail
+taong gulang
+Mga Kaarawan ng Kaibigan
+Setting ng SMS
+Makinis na Naglo-load
+Ang mga pinalakas na pahina ay makikita na ng lahat ng miyembro ng aming komunidad.
+Isa kang {type_name}, Nagagawa mo lang na i-boost ang {can_boost} na mga page nang sabay-sabay.
+Isa kang {type_name}, Nagagawa mo lang na i-boost ang {can_boost} na mga post nang sabay-sabay.
+Wala pang mga boosted page.
+Wala pang boosted posts.
+Tumuklas ng higit pang mga feature gamit ang {sitename} PRO packages!
+Bituin
+Mainit
+Huli
+Vip
+Itinatampok na miyembro
+Tingnan ang mga bisita sa profile
+Ipakita / Itago ang huling nakita
+Na-verify na badge
+Mga post na promo&lt;br&gt;
+Pag-promote ng mga pahina&lt;br&gt;
+0% na diskwento
+10% na diskwento
+20% na diskwento
+60% na diskwento
+Para sa Linggo
+Kada buwan
+Kada taon
+habang buhay
+Mag-upgrade na ngayon
+Pinalakas na Mga Post
+Mga Pinalakas na Pahina
+Ilagay Ako Dito
+Na-promote
+Oops! Nagkaproblema.
+Subukan muli
+Boost Page
+Pinalakas ang Pahina
+I-un-Boost Page
+I-edit ang Mga Setting ng Pahina
+Mga Naka-block na User
+I-unblock
+CSS file
+Default na disenyo
+Aking CSS file
+Maaari mong ganap na idisenyo ang iyong profile sa pamamagitan ng pag-upload ng iyong sariling CSS file
+Imbitahan ang Iyong Mga Kaibigan
+Magpadala ng imbitasyon
+Boost Post
+I-unBoost ang Post
+Hilahin para mailagay sa tamang posisyon ang cover
+I-block ang User
+I-edit ang User
+Congratulations! Isa ka na ngayong &lt;span style=&quot;color:{color}&quot;&gt;&lt;i class=&quot;fa fa-{icon} fa-fw&quot;&gt;&lt;/i&gt;{type_name}
+Simulan ang pag-browse sa mga bagong feature
+Oops, mukhang hindi pa aktibo ang iyong account.
+Mangyaring pumili ng paraan sa ibaba upang i-activate ang iyong account.
+Gamit ang email
+Sa pamamagitan ng Numero ng Telepono
+O kaya
+Ipadala ang Confirmation Code
+Hindi nakuha ang code?
+Muling ipadala
+Dapat mong matanggap ang code sa loob
+Kumpirmahin
+Numero ng telepono (hal. +905...)
+Error habang ina-activate ang iyong account.
+Maling confirmation code.
+Nabigong ipadala ang confirmation code.
+Maling numero ng telepono.
+Nagamit na ang numero ng telepono.
+Matagumpay na naipadala ang SMS.
+Error habang ipinapadala ang SMS, mangyaring sumubok ng ibang numero.
+Nabigong ipadala ang confirmation code, mangyaring pumili ng isa sa mga paraan ng pag-activate.
+Matagumpay na naipadala ang e-mail, mangyaring suriin ang iyong inbox o folder ng spam para sa link sa pag-activate.
+Lumampas sa limitasyon, pakisubukang muli sa ibang pagkakataon.
+Error habang nagpapadala ng SMS, mangyaring sumubok ng ibang numero o i-activate ang iyong account sa pamamagitan ng email sa pamamagitan ng pag-log in sa iyong account.
+Libreng Miyembro
+Star Member
+Mainit na Miyembro
+Ultima Member
+Vip Member
+Moderator
+Uri ng Miyembro
+Membership
+Mag-upgrade
+Error, Pakisubukang muli mamaya.
+Mag-upgrade sa Pro
+Walang sagot
+Subukang muli mamaya.
+Sinagot !
+Tinanggihan ang tawag
+Tinanggihan ng tatanggap ang tawag, pakisubukang muli sa ibang pagkakataon.
+Bagong video call
+gustong makipag-video chat sa iyo.
+Tanggihan
+Tanggapin at Simulan
+Tumatawag
+Pakihintay ang sagot ng iyong kaibigan.
+Magkaibigan kayo sa {site_name}
+Sinusundan mo
+Ipakita lahat
+Ako
+I-boost ang hanggang {monthly_boost} na mga post&lt;br&gt;
+I-boost ang hanggang {monthly_boost} na pahina&lt;br&gt;
+I-boost ang hanggang {yearly_boost} na mga post&lt;br&gt;
+I-boost ang hanggang {yearly_boost} na mga pahina&lt;br&gt;
+I-boost ang hanggang {lifetime_boost} na mga post&lt;br&gt;
+I-boost ang hanggang {lifetime_boost} na mga pahina&lt;br&gt;
+Mag-sign up
+YouTube
+Aking Mga Produkto
+Pumili ng paraan ng pagbabayad
+PayPal
+Credit Card
+Bitcoin
+Mga kategorya
+Pinakabagong produkto
+Maghanap ng mga produkto
+Maghanap ng mga produkto sa {category_name}
+Walang maipapakitang mga produkto.
+Mag-load ng higit pang mga produkto
+Magbenta ng bagong produkto
+Paglalarawan
+Pakilarawan ang iyong produkto.
+Ginamit
+Bago
+Presyo
+Ang presyo ng iyong produkto sa USD currency ($), hal (10.99)
+I-edit ang produkto
+I-publish
+Karagdagang impormasyon
+Makipag-ugnayan sa nagbebenta
+Ni &lt;a href=&quot;{product_url}&quot;&gt;{product_name}&lt;/a&gt;, na-post noong {product_time}, sa &lt;a href=&quot;{product_category}&quot;&gt;{product_category_name}&lt;/a&gt;
+Tinanggihan ang pagbabayad, pakisubukang muli sa ibang pagkakataon.
+Kinukumpirma ang pagbabayad, mangyaring maghintay..
+Makakuha ng hanggang ${amount} para sa bawat user na iyong tinutukoy sa amin!
+Makakuha ng hanggang ${amount} para sa bawat user na iyong tinutukoy sa amin at magsu-subscribe sa alinman sa aming mga pro package.
+Aking Mga Kaakibat
+Kasalukuyang balanse
+Ang iyong kaakibat na link ay
+Ang iyong balanse ay ${balance}, ang minimum na kahilingan sa withdrawal ay ${m_withdrawal}
+Ang iyong balanse ay
+Paypal Email
+Halaga (USD)
+Humiling ng withdrawal
+Kasaysayan ng pagbabayad
+Halaga
+Tinanggihan
+Naaprubahan
+Kabuuang mga boto
+Markahan ang Produkto Bilang Nabenta
+nagdagdag ng bagong produkto para ibenta.
+pangalan ng Produkto
+Sa stock
+Nabenta
+Sagot
+Magdagdag ng sagot
+Nagpapatotoo
+Maligayang pagbabalik!
+Maligayang pagdating!
+Kumonekta sa mga tao.
+Makipagkaibigan.
+Ibahagi ang iyong mga alaala.
+Lumikha ng mga bagong relasyon.
+Tumuklas ng mga bagong lugar.
+Nakalimutan ang iyong password?
+Di-wastong markup, pakisubukang i-reset muli ang iyong password
+Bumalik ka
+Sa pamamagitan ng paggawa ng iyong account, sumasang-ayon ka sa aming
+Mangyaring pumili ng presyo para sa iyong produkto
+Mangyaring pumili ng tamang halaga para sa iyong presyo
+Mangyaring mag-upload ng hindi bababa sa 1 larawan
+Naboto mo na ang poll na ito.
+Mayroon ka nang nakabinbing kahilingan.
+Di-wastong halaga ng halaga
+Di-wastong halaga ng halaga, ang iyong halaga ay:
+Di-wastong halaga ng halaga, ang minimum na kahilingan sa pag-withdraw ay:
+Naipadala na ang iyong kahilingan, makakatanggap ka ng email tungkol sa mga detalye ng pagbabayad sa lalong madaling panahon.
+I-off ang tunog ng notification
+I-on ang tunog ng notification
+Tingnan ang {count} mga bagong post
+Mag-imbak ng mga post ni
+Bagong audio call
+gustong makipag-usap sa iyo.
+Audio call
+nakikipag-usap sa
+Merkado
+Magkomento
+Sa pamamagitan ng
+Mag-load ng higit pang mga artikulo
+Blog
+Walang nakitang mga artikulo
+Pinakabagong mga artikulo
+Gumawa ng bagong artikulo
+Aking mga artikulo
+Pamagat
+Nilalaman
+Pumili
+Mga tag
+Thumbnail
+Nai-publish
+Ang iyong artikulo ay matagumpay na na-update
+Ang iyong artikulo ay matagumpay na naidagdag
+Ang pamagat ay dapat na higit sa 10 mga character
+Ang paglalarawan ay dapat na higit sa 32 character
+Mangyaring punan ang field ng mga tag
+May nakitang error, pakisubukang muli sa ibang pagkakataon
+Na-post noong {BLOG_TIME} sa {CATEGORY_NAME}.
+lumikha ng bagong artikulo
+Forum
+Huling Post
+paksa
+Paghahanap ng mga thread
+Gumawa ng bagong paksa
+Tumalon sa
+Aking Mga Thread
+Aking Mga Mensahe
+Headline
+Iyong post
+Sumagot
+Sinimulan ni
+Admin ng Site
+Nakarehistro
+Tumugon sa paksang ito
+Pagsusuri ng paksa
+Iyong sagot
+Listahan ng mga gumagamit
+Bilang ng mga post
+Mga referral
+Huling Bisita
+Pangkalahatang termino para sa paghahanap
+Maghanap ng termino
+Maghanap sa
+Maghanap ng mga Forum
+Maghanap sa mga thread
+Maghanap sa mga mensahe
+Maghanap ng paksa lamang
+mga thread
+Nai-post
+Walang mga forum na ipapakita
+Hindi kailanman
+Walang maipapakitang tugon
+Walang mga thread na ipapakita
+Walang mga seksyong ipapakita
+nagsulat
+I-edit ang paksa
+Matagumpay na na-save ang iyong tugon
+Ang iyong tugon ay matagumpay na naidagdag
+Ang iyong forum ay matagumpay na naidagdag
+Tulong
+Mag-type ng isa o higit pang mga termino para sa paghahanap, ang bawat isa ay dapat na hindi bababa sa 4 na character
+Mga kaganapan
+Pupunta
+Interesado
+Pastor
+imbitado
+Pupunta ka
+Ikaw ay interesado
+Petsa ng pagsisimula
+Petsa ng pagtatapos
+Kaganapan
+Walang mga kaganapang ipapakita
+Mga kaganapan na maaaring gusto mo
+Pupunta mga tao
+Mga taong interesado
+Mga inimbitahang tao
+Matagumpay na naidagdag ang iyong kaganapan
+Matagumpay na na-save ang iyong kaganapan.
+Sigurado ka na gusto mong tanggalin ang kaganapang ito
+Mag-load pa
+Paksa
+Pumunta ka
+lumikha ng bagong kaganapan
+Aking mga kaganapan
+ay interesado sa iyong kaganapan na &quot;{event_name}&quot;
+ay pupunta sa iyong kaganapan na &quot;{event_name}&quot;
+inimbitahan kang pumunta sa kaganapang &quot;{event_name}&quot;
+sumagot sa iyong paksa
+Mga pelikula
+Isalin
+Genre
+Inirerekomenda
+Pinapanood ng karamihan
+Mga bituin
+Walang palabas na pelikula
+Producer
+Palayain
+Kalidad
+Mas ganito
+Wallet
+Bidding
+Mga pag-click
+Url
+Madla
+Pumili ng larawan
+Punan muli ang aking balanse
+Magpatuloy
+Ang iyong balanse ay napunan ng
+Advertising
+Sigurado ka bang gusto mong tanggalin ang kampanyang ito? Ang pagkilos na ito ay hindi maaaring i-undo.
+Tanggalin ang kampanya
+Walang nakitang mga ad. Gumawa ng bagong ad at magsimulang makakuha ng trapiko!
+Paglalagay
+Sidebar
+Pumili ng pahina o maglagay ng link sa iyong site
+Kwento
+Ang maximum na bilang ay hindi maaaring lumampas sa 20 mga file sa isang pagkakataon!
+Ang iyong katayuan ay matagumpay na naidagdag!
+Lumikha ng Bagong Katayuan
+Naka-sponsor
+Ang iyong abiso ay matagumpay na naipadala
+Itago ang post
+Isasaalang-alang ang iyong kahilingan sa pag-verify sa lalong madaling panahon!
+Pagpapatunay ng profile!
+Binabati kita, na-verify na ang iyong profile!
+Mag-upload ng mga dokumento
+Mangyaring mag-upload ng larawan kasama ang iyong pasaporte / ID at ang iyong natatanging larawan
+Kopya ng iyong pasaporte o ID card
+Ang iyong larawan
+Mangyaring piliin ang iyong pasaporte/id at larawan!
+Ang larawan ng pasaporte/id ay dapat isang imahe
+Ang larawan ng gumagamit ay dapat na isang imahe
+Matagumpay na naipadala ang iyong kahilingan, sa malapit na hinaharap ay isasaalang-alang namin ito!
+ibinahagi
+Matagumpay na naidagdag ang post sa iyong timeline!
+Mahalaga!
+Pakitandaan na kung babaguhin mo ang username mawawalan ka ng verification
+Sino ang makakakita sa aking mga kaibigan?
+idinagdag ka ng admin ng grupo
+idinagdag ka ng admin ng page
+Wala pang mensahe dito.
+Ang pag-uusap ay tinanggal!
+Isara
+Lumabas sa grupo
+I-clear ang kasaysayan
+Mga miyembro ng grupo
+Magdagdag ng kalahok
+Kanselahin ang Ulat
+Iulat ang User na ito
+Iulat ang Pahinang ito
+Iulat ang Grupong ito
+Na-rate mo na ang pahinang ito!
+Marka
+Mga pagsusuri
