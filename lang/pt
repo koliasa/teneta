@@ -1,0 +1,1000 @@
+Login
+Registrar
+Visitante
+Nome de usuário
+E-mail
+Senha
+Nova senha
+Lembrar
+Ou ent&amp;atilde;o fa&amp;ccedil;a login por
+Esqueceu sua senha?
+E-mail
+Confirmar senha
+Vamos lá!
+Recuperar
+Redefinir senha
+Resetar
+Token inv&amp;aacute;lido
+Nome de usu&amp;aacute;rio ou senha incorreto
+Sua conta foi desativada.
+Voc&amp;ecirc; tem que ativar sua conta.
+Login efetuado com sucesso. Por favor aguarde...
+Por favor marque os detalhes
+Desculpe, este nome de usu&amp;aacute;rio j&amp;aacute; esta em uso.
+O nome de usu&amp;aacute;rio deve conter entre 5 / 32 caracteres.
+Caracteres inv&amp;aacute;lidos
+Caracteres inv&amp;aacute;lidos
+J&amp;aacute; existe uma conta registrar nesse e-mail.
+E-mail inv&amp;aacute;lido.
+Senha muito pequena.
+As senhas n&amp;atilde;o conferem.
+Por favor, verifique o re-captcha.
+Registrado com sucesso, Por favor aguarde..
+Ativa&ccedil;&atilde;o de Conta
+Registrado com sucesso! Enviamos um email, verifique a caixa de entrada/spam para verificar seu e-mail.
+n&amp;atilde;o podemos encontrar este e-mail.
+Pedido para resetar senha
+E-mail enviado com sucesso.
+Algo de errado aconteceu. Por favor, tente novamente mais tarde.
+Senha trocada com sucesso !
+Selecione uma data correta.
+Configura&amp;ccedil;&amp;otilde;es atualizadas !
+Sua senha atual n&amp;atilde;o confere
+Site inv&amp;aacute;lido.
+Conta deletada, por favor aguarde..
+In&amp;iacute;cio
+Pesquisa avan&amp;ccedil;ada
+Procurar pessoas, #hashtags ou coisas
+Nada encontrado
+Visto por &amp;uacute;ltimo:
+Aceitar
+Cancelar
+Deletar
+Meu Perfil
+Posts Salvos
+Configura&amp;ccedil;&amp;otilde;es
+Admin
+Sair
+Voc&amp;ecirc; tem 0 notifica&amp;ccedil;&amp;otilde;es
+Voc&amp;ecirc; tem 0 pedidos de amizade
+Seguiu voc&amp;ecirc;
+mencionou voc&amp;ecirc; em um coment&amp;aacute;rio.
+mencionou voc&amp;ecirc; em um post.
+postou algo em sua linha do tempo.
+te visitou.
+aceitou seu pedido de amizade.
+aceitou que voc&amp;ecirc; siga ele.
+curtiu seu coment&amp;aacute;rio &quot;{comment}&quot;
+n&amp;atilde;o curtiu seu coment&amp;aacute;rio &quot;{comment}&quot;
+curtiu seu {postType} {post}
+n&amp;atilde;o curtiu seu {postType} {post}
+compartilhou {postType} {post}
+comentou em seu {postType} {post}
+curtiu {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+n&amp;atilde;o curtiu {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+compartilhou {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+Comentou no {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+v&amp;iacute;deo.
+post.
+foto.
+arquivo.
+Vine.
+som.
+imagem de perfil.
+Erro 404
+P&amp;aacute;gina n&amp;atilde;o encontrada!
+A p&amp;aacute;gina que voc&amp;ecirc; esta procurando n&amp;atilde;o foi encontrada. Confira o link e tente novamente.
+Conta ativada!
+Fa&amp;ccedil;a &lt;a href=&quot;http://localhost/wowonder_update&quot;&gt;{login}&lt;/a&gt; !
+Configura&amp;ccedil;&amp;otilde;es gerais
+Configura&amp;ccedil;&amp;otilde;es de login
+Editar usu&amp;aacute;rios
+Editar posts
+Vizualizar reports
+Divulga&amp;ccedil;&amp;atilde;o
+Mais
+Cache
+Sistema do chat
+Valida&amp;ccedil;&amp;atilde;o de Email
+Notifica&amp;ccedil;&amp;atilde;o de Email
+Links permitidos
+URL
+Compartilhar arquivo
+Temas
+Configurações do usuário
+Configura&amp;ccedil;&amp;otilde;es do site
+Ativar o cache para aumentar a velocidade do site, Recomendado se tiver mais de 10,000 usu&amp;aacute;rios ativos.
+Ativar sistema de chat para conversas com seus amigos no rodap&amp;eacute; da p&amp;aacute;gina
+Ativar valida&amp;ccedil;&amp;atilde;o de e-mail quando um usu&amp;aacute;rio se registrar.
+Enviar notifica&amp;ccedil;&amp;otilde;es por e-mail.
+Ativar links limpos, exemplo.http://localhost/wowonder_update/home.
+Ativar SEO URL, exemplo.http://localhost/wowonder_update//1_hello-how-are-you-doing.html
+Ativar o compartilhamento de arquivos, para compartilhar videos,imagens,arquivos,sons,etc..
+Cache
+Informa&amp;ccedil;&amp;otilde;es do Site
+Nome e t&amp;iacute;tulo do Site:
+Nome do Site
+T&amp;iacute;tulo do Site
+Descri&amp;ccedil;&amp;atilde;o das palavras-chaves:
+Palavras-chaves do site
+Descri&amp;ccedil;&amp;atilde;o do site
+E-mail do site
+Linguagem padr&amp;ccedil;o
+Configura&amp;ccedil;&amp;otilde;es do tema
+Ativado
+Vers&amp;ccedil;o:
+Autor:
+Status do usu&amp;aacute;rio
+(online/visto por &amp;uacute;ltimo)
+Ativar
+Desativar
+Permitir que usu&amp;uacute;rios deletem suas contas
+Notifica&amp;ccedil;&amp;atilde;o de visita no perfil
+Mostrar idade como
+Data
+Idade
+Conectividade do sistema
+&lt;span style=&quot;color:red;&quot;&gt;Observa&amp;ccedil;&amp;atilde;o:&lt;/span&gt; Se voc&amp;ecirc; mudar o sistema, todos aqueles que voc&amp;ecirc; segue, que te seguem e seus amigos ser&amp;ccedil;o perdidos.&lt;/small&gt;
+Sistema de amigos
+Sistema de seguidores
+Tamanho m&amp;aacute;ximo de v&amp;iacute;deos, imagens, sons e arquivos
+Max characters length
+Extens&amp;otilde;es permitidas
+Configura&amp;ccedil;&amp;atilde;o do reCaptcha
+a chave do reCaptcha &amp;eacute; necess&amp;aacute;ria
+chave do reCaptcha
+Google Analytics
+C&amp;oacute;digo do Google analytics
+Configura&amp;ccedil;&amp;atilde;o de Cache
+&amp;eacute; recomend&amp;aacute;vel que voc&amp;ecirc; limpe o cache.
+Tamanho do cache:
+Limpar Cache
+Login
+Login API
+Facebook
+Google+
+Twitter
+Linkedin
+Vkontakte
+Facebook API
+Google API
+Twitter API
+Linkedin API
+Vkontakte API
+App ID
+Chave Secreta APP
+Logar com
+ID
+Source
+Status
+Pendente
+Primeiro nome
+&uacute;ltimo nome
+Sobre
+Website
+Açao
+Mostrar mais usu&amp;uacute;rios
+N&amp;atilde;o me mostre mais usu&amp;uacute;rios
+Gostaria mesmo de deletar esse usu&amp;uacute;rio?
+Gostaria mesmo de deletar esse post?
+Mostrar mais posts
+N&amp;atilde;o me mostre mais posts
+Nenhum post encontrado
+Publicador
+Nenhum post novo
+Link do post
+Tempo
+Post
+{name} n&amp;atilde;o postou nada ainda
+Procurar
+On
+Off
+Salvar
+Salvo !
+Usu&amp;uacute;rio
+Hor&amp;aacute;rio
+Nenhum report novo.
+Abrir Post
+Marcar como seguro
+Deletar Post
+Configura&amp;ccedil;&amp;otilde;es de divulga&amp;ccedil;&amp;atilde;o
+Mais configura&amp;ccedil;&amp;otilde;es
+Lista dos emails
+Enviar
+T&amp;iacute;tulo..
+Mensagem..
+Aviso
+Novo aviso
+Add
+Visualizações
+Nenhum aviso novo.
+Nenhum aviso inativo.
+Adicionar como amigo
+Seguir
+Seguindo
+Seguindo
+Seguidores
+Mensagem
+Requeridos
+Amigos
+Online
+Offline
+Voc&amp;ecirc; esta offline
+Nenhum usu&amp;uacute;rio offline.
+Nenhum usu&amp;uacute;rio Online.
+Procurar usu&amp;uacute;rios
+Nenhum usu&amp;uacute;rio encontrado.
+Visto
+Carregar mais posts
+Carregar mais usu&amp;uacute;rios
+Nenhum resultado encontrado.
+Voc&amp;ecirc; n&amp;atilde;o tem nenhum post salvo.
+Mensagens
+Escreva algo ..
+Nenhuma mensagem nova
+Ver mais mensagens
+Voc&amp;ecirc; n&amp;atilde;o pode responder este usu&amp;uacute;rio.
+Escolha um de seus amigos
+E diga ol&amp;aacute; !
+Download
+Atualizar sua informa&amp;ccedil;&amp;atilde;o
+Escolha seu nome de usu&amp;uacute;rio:
+Nova Senha:
+Atualizar
+Deletar coment&amp;aacute;rio
+Deletar coment&amp;aacute;rio ?
+Deletar post ?
+Editar Post
+Sess&amp;ccedil;o expirada
+Sess&amp;ccedil;o expirada. Fa&amp;ccedil;a login para continuar.
+Pa&amp;iacute;s
+Tudo
+Genero
+Mulher
+Homem
+Imagem de Perfil
+Resultado
+Sim
+N&amp;atilde;o
+Contribuidor
+Mudar Senha
+Senha Atual
+Confirme sua senha atual
+Geral
+Perfil
+Privacidade
+Deletar conta
+Deletar conta e sair da nossa rede social ?
+N&amp;atilde;o, irei pensar melhor.
+Verificado
+N&amp;atilde;o &amp;eacute; verificado
+Admin
+Usu&amp;uacute;rio
+Verifica&amp;ccedil;&amp;atilde;o
+Tipo
+Anivers&amp;aacute;rio
+Ativo
+Desativar Login
+Configura&amp;ccedil;&amp;otilde;es de privacidade
+Quem pode me seguir ?
+Todos
+Amigos
+Ningu&amp;eacute;m
+Pessoas que eu sigo
+Pessoas que me seguem
+apenas eu
+quem pode me enviar mensagem ?
+quem pode postar na minha linha do tempo ?
+Mostrar minhas atividades ?
+Mostrar
+Esconder
+Aceitar que a pessoa te siga ?
+Mostrar a &amp;uacute;ltima vez que voc&amp;ecirc; foi visto ?
+(exemplo: http://www.siteurl.com)
+Configura&amp;ccedil;&amp;otilde;es de Perfil
+Fixo
+Fixar post
+Desafixar Post
+Abrir post em uma nova aba
+N&amp;atilde;o salvar post
+Salvar Post
+N&amp;atilde;o reportar Post
+Reportar Post
+Compartilhar post
+Mudou sua imagem de perfil
+Mudou sua imagem de perfil
+Fa&ccedil;a login para compartilhar, curtir, comentar, etc !
+Curtiu
+Curtir
+N&amp;atilde;o curtir
+Dislikes
+Compartilhar
+Coment&amp;aacute;rios
+Nenhuma curtida ainda
+Nenhum dislike ainda
+Escreva um coment&amp;aacute;rio e d&amp;ecirc; enter
+Vizualizar mais coment&amp;aacute;rios
+Bem vindo as nossa not&amp;iacute;cias !
+Diga Ol&amp;aacute; !
+O que voc&amp;ecirc; esta fazendo? #Hashtag.. @Mencione.. Link..
+Youtube Link
+Vine Link
+SoundCloud Link
+Onde voc&amp;ecirc; esta ?
+Post
+Texto
+Fotos
+Sons
+V&amp;iacute;deos
+Mapas
+Arquivos
+N&amp;atilde;o segue ningu&amp;eacute;m
+Nenhum seguidor ainda
+Detalhes
+Redes Sociais
+Amigos Online
+Sobre
+Contato
+Privacidade
+Termos de Uso
+Desenvolvedores
+Linguagem
+© {date} {site_name}
+ano
+m&amp;ecirc;s
+dia
+hora
+minuto
+segundo
+anos
+meses
+dias
+horas
+minutos
+segundos
+atr&amp;aacute;s
+agora
+algum tempo atr&amp;aacute;s
+Neste momento
+minuto atr&amp;aacute;s
+%d minutos atras
+uma hora atr&amp;aacute;s
+%d horas atras
+dia atr&amp;aacute;s
+%d dias atras
+um m&amp;ecirc;s atr&amp;aacute;s
+%d meses atr&amp;aacute;s
+um ano atr&amp;aacute;s
+%d anos atr&amp;aacute;s
+&amp;uacute;ltimas atividades
+Nenhuma atividade nova
+Assunto do momento !
+Carregar mais atividades
+Nenhuma atividade nova
+Pessoas que voc&amp;ecirc; talvez conhe&amp;ccedil;a
+Muito grande.
+Muito curto.
+Available !
+Em uso.
+O nome de usu&amp;uacute;rio N&amp;atilde;o deve conter nenhum carectere especial, s&amp;iacute;mbolo ou espa&amp;ccedil;os.
+Curtiu
+Minhas P&amp;aacute;ginas
+Curtiu sua p&amp;aacute;gina ({page_name})
+Essa semana
+Postagens
+Localiza&amp;ccedil;&amp;atilde;o
+Telefone
+Empresa
+Categoria
+Procurar posts
+Criar uma nova p&amp;aacute;gina
+Nome da p&amp;aacute;gina
+T&amp;iacute;tulo da p&amp;aacute;gina
+T&amp;iacute;tulo da sua p&amp;aacute;gina
+Categoria da p&amp;aacute;gina
+Descri&amp;ccedil;&amp;atilde;o da p&amp;aacute;gina
+A descri&amp;ccedil;&amp;atilde;o da sua p&amp;aacute;gina deve conter entre 10 e 200 caracteres.
+Criar
+O nome dessa p&amp;aacute;gina j&amp;aacute; esta sendo usado.
+O nome da p&amp;aacute;gina deve conter entre 5 / 32 caracteres
+Caracteres inv&amp;aacute;lidos
+Editar
+Informa&amp;ccedil;&amp;otilde;es da p&amp;aacute;gina
+Deletar p&amp;aacute;gina
+localização
+P&amp;aacute;ginas que talvez voc&amp;ecirc; goste
+Mostrar mais p&amp;aacute;ginas
+Nenhuma p&amp;aacute;gina nova para mostrar
+Deletar p&amp;aacute;gina?
+Editar p&amp;aacute;ginas
+Dono
+Nenhuma p&amp;aacute;gina encontrada
+N&amp;atilde;o curtiu
+Conectar
+Compartilhar
+Descobrir
+Procurar mais
+Amigos pelo celular
+N&amp;atilde;o curtir (NEW), abilidade para N&amp;atilde;o curtir um post.
+Conecte com seus amigos e fam&amp;iacute;lia, e compartilhe seus momentos.
+Compartilhe o que acontece em sua vida com seus amigos.
+Descubra novas pessoas, fa&amp;ccedil;a amigos e se divirta!
+Veja mais do que voc&amp;ecirc; esta procurando com o WoWonder Search.
+Tela 100% adapt&amp;aacute;vel em todos os tablets e smartphones.
+Trabalhando em
+Relacionamento
+Nenhum
+Avatar
+Capa
+Fundo
+Tema
+Padr&amp;ccedil;o
+Meu fundo
+Site da empresa
+Curtiu minha p&amp;aacute;gina
+N&amp;atilde;o curtir
+N&amp;atilde;o curtiu
+N&amp;atilde;o curtiu seu {postType} {post}
+N&amp;atilde;o curtiu seu coment&amp;aacute;rio &quot;{comment}&quot;
+N&amp;atilde;o curtiu {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+Segundo tipo de bot&amp;ccedil;o
+Nome do grupo
+T&amp;iacute;tulo do grupo
+Meus grupos
+Escola
+Exemplo: social, wowonder, site social
+Mensagem lida
+Recomendado para servi&amp;ccedil;os pesados
+Sistema de digita&amp;ccedil;&amp;atilde;o
+reCaptcha
+Instagram
+Se voc&amp;ecirc; N&amp;atilde;o abilitar a notifica&amp;ccedil;&amp;atilde;o de perfil, voc&amp;ecirc; N&amp;atilde;o poder&amp;aacute; ver quem visitou seu perfil.
+Deletar conta
+Endere&amp;ccedil;o IP
+Editar grupos
+Deletar este grupo?
+Nenhum grupo para mostrar
+Mostrar mais grupos
+Membros
+Pedidos de verifica&amp;ccedil;&amp;atilde;o
+Verificar
+Ignorar
+P&amp;aacute;gina
+Nenhum pedido de verifica&amp;ccedil;&amp;atilde;o
+Banir usu&amp;uacute;rio
+Banido
+Nenhum IP banido.
+IP inv&amp;aacute;lido.
+IP banido.
+J&amp;aacute; existe este IP
+Adicione um IP
+IP deletado
+Enviar e-mail quando algu&amp;eacute;m
+Curtir meus posts
+Dar dislike em meus posts
+Comentar meus posts
+Compartilhar meus posts
+Me seguir
+Curtir minha p&amp;aacute;gina
+Visitar meu perfil
+Te mencionar
+Entrar no meu grupo
+Aceitar o meu pedido para seguir/adicionar aos amigos
+Postar em sua linha do tempo
+Nenhum grupo encontrado
+Informa&amp;ccedil;&amp;otilde;es do grupo
+Deletar grupo
+Nome do grupo j&amp;aacute; esta em uso.
+Caracteres inv&amp;aacute;lidos
+O nome do grupo deve conter entre 5 / 32 caracteres
+Não foram encontrados pedidos!
+Remover
+Nenhum membro encontrado
+Grupo deletado
+Criar novo grupo
+Meus jogos
+Nenhum jogo encontrado
+Grupos
+Nenhum amigo
+N&amp;atilde;o entrou em nenhum grupo
+Carregar mais p&amp;aacute;ginas
+Carregar mais grupos
+Entrou no seu grupo ({group_name})
+Feliz
+Apaixonado
+Triste
+Muito triste
+Bravo
+Confuso
+Sexy
+Tra&amp;iacute;do
+Sem express&amp;atilde;o
+Legal
+Divertido
+Cansado
+Amavel
+AbeN&amp;atilde;oado
+Chocado
+Dormindo
+Bonito
+Entediado
+Total de usu&amp;uacute;rios
+Usu&amp;uacute;rios
+P&amp;aacute;ginas
+Jogos
+Usu&amp;uacute;rios online
+Procuras recentes
+Limpar
+Filtro de pesquisa
+Palavra-chave
+O que voc&amp;ecirc; esta procurando ?
+Trocou sua capa de perfil
+Trocou sua capa de perfil
+Jogos novos
+Nenhum &amp;aacute;lbum encontrado
+Criar &aacute;lbum
+Meus &amp;aacute;lbuns
+Nome do &amp;aacute;lbum
+Carregar
+Adicionar fotos
+Respostas
+Responder o coment&amp;aacute;rio
+respondeu seu coment&amp;aacute;rio &quot;{comment}&quot;
+mencionou voc&amp;ecirc; em uma resposta &quot;{comment}&quot;
+respondeu o coment&amp;aacute;rio &quot;{comment}&quot;
+curtiu sua resposta &quot;{comment}&quot;
+n&amp;atilde;o curtiu sua resposta &quot;{comment}&quot;
+n&amp;atilde;o curtiu sua resposta &quot;{comment}&quot;
+Enviar notifica&amp;ccedil;&amp;atilde;o para usu&amp;uacute;rios quando visitar o perfil?
+Se voc&amp;ecirc; N&amp;atilde;o compartilhar a &amp;uacute;ltima vez que voc&amp;ecirc; foi visto, voc&amp;ecirc; tamb&amp;eacute;m N&amp;atilde;o poder&amp;aacute; ver a ultima vez que os outros usu&amp;uacute;rios foram vistos.
+Quem pode ver a data do meu anivers&amp;aacute;rio?
+pessoas gostaram disso
+Convidar pessoas para curtir essa p&amp;aacute;gina
+Convidar seus amigos/seguidores
+Voc&amp;ecirc; j&amp;aacute; convidou todos seus amigos
+Convidar
+Convidou voc&amp;ecirc; para curtir ({page_name})
+aceitou sua solicita&amp;ccedil;&amp;atilde;o para curtir ({page_name})
+Ligar a&amp;ccedil;&amp;atilde;o
+Ligar a uma URL definida
+Website inv&amp;aacute;lido
+Avatar &amp; Capa
+Permitir que usu&amp;uacute;rios vizualizem os usu&amp;uacute;rios ativos na sidebar.
+Não ativo
+Mulheres
+Homens
+Painel
+álbuns
+Nome
+Jogadores
+Adicionar um novo jogo
+Jogo adicionado
+URL inv&amp;aacute;lida
+Please add a game url
+Avisos ativos
+Avisos in&amp;aacute;tivos
+Ban
+Novo e-mail
+HTML permitida
+Enviar para o meu email
+Mensagem teste
+Membros
+Pedidos para entrar
+P&amp;aacute;ginas verificadas
+Compartilhar arquivos (separados por uma v&amp;iacute;rgula,)
+Palavras censuradas, separadas por v&amp;iacute;rgula (,)
+Entrar
+Entrou
+Solicitar
+Editar coment&amp;aacute;rio
+&amp;uacute;ltimo jogo:
+Jogar
+Confirmar solicita&amp;ccedil;&amp;atilde;o quando algu&amp;eacute;m quiser fazer parte do grupo ?
+Quem pode ver os posts do grupo ?
+Usu&amp;uacute;rios
+Morando em
+Design
+Pessoas que voc&amp;ecirc; talvez conhe&amp;ccedil;a
+adicionou novas fotos
+se sentindo
+viajando para
+ouvindo
+jogando
+assistindo
+Sentindo
+Viajando para
+Assistindo
+Jogando
+ouvindo
+Como voc&amp;ecirc; esta se sentindo ?
+Para onde esta viajando ?
+O que esta assistindo ?
+O que esta jogando ?
+O que esta ouvindo ?
+O que esta fazendo ?
+Estudando em
+Site da empresa inv&amp;aacute;lido
+P&amp;aacute;gina deletada
+Capa.
+Grupos sugeridos
+aceitou sua solicita&amp;ccedil;&amp;atilde;o para se juntar ao ({group_name})
+pediu para entrar no seu grupo
+Nenhum post ainda
+Adicionar amigos à este grupo
+Nenhum amigo dispon&amp;iacute;vel para ser adicionado
+adicionado ao grupo ({group_name})
+Estilo do Grupo
+P&amp;uacute;blico
+Privado
+Reportes
+Nenhum dislike ainda
+N&amp;atilde;o curtiu
+N&amp;atilde;o curtiu
+Termos
+Privacidade do perfil
+Permitir usu&amp;uacute;rios que N&amp;atilde;o est&amp;ccedil;o logados de ver os perfils.
+Carregar v&amp;iacute;deo
+Carregar v&amp;iacute;deo e compartilhar ele no site.
+Carregar audio
+Carregar audios e compartilhar no site.
+Ler mais
+Ler menos
+Adicionar foto.
+Mostrar sua personalidade e estilo.
+Pular.
+Salvar e continuar
+Fale sobre voc&amp;ecirc;.
+Compartilhe informa&amp;ccedil;&amp;otilde;es.
+Veja novas informa&amp;ccedil;&amp;otilde;es dos usu&amp;uacute;rios mais populares.
+Siga os usu&amp;uacute;rios famosos.
+Seguir {number} &amp; terminar
+Parece legal.
+Voc&amp;ecirc; poder&amp;aacute; adicionar mais em seu perfil depois.
+Carregar foto
+Aguarde..
+Nome de usuário ou E-mail
+Configuração de E-mail
+anos
+Aniversários de Amigos
+Configuração de SMS
+Carregamento Suave
+Páginas impulsionadas já estão visíveis por todos os membros da nossa comunidade.
+Você é um {type_name}, Vocêé apenas capaz de impulsionar {pode_impulsionar} páginas ao mesmo tempo.
+Você é um {type_name}, Vocêé apenas capaz de impulsionar {pode_impulsionar} postagens ao mesmo tempo.
+Não há páginas impulsionadas ainda.
+Não há postagens impulsionadas ainda.
+Descubra mais recursos com WoWonder PRO packages !
+Estrela
+Quente
+Ultima
+Vip
+Membro em destaque
+Veja os perfis de visitantes
+Mostra / Esconder visto por último
+Crachá verificado
+Pós promoção&lt;br&gt;&lt;small&gt;(Não disponível)&lt;/small&gt;
+Pré promoção&lt;br&gt;&lt;small&gt;(Não disponível)&lt;/small&gt;
+0% de desconto
+10% de desconto
+20% de desconto
+60% de desconto
+Por semana
+Por mês
+Por ano
+tempo de vida
+Atualize Agora
+Postagens Impulsionadas
+Páginas Impulsionadas
+Me Coloque Aqui
+Promovido
+Oops! Algo deu errado.
+Tente novamente
+Página Impulsionada
+Página Impulsionada
+Desimpulsionar Página
+Editar as configurações de página
+Usuários Bloqueados
+Desbloquear
+arquivo CSS
+Design padrão
+Meu arquivo CSS
+Você pode projetar totalmente o seu perfil através de upload do seu próprio arquivo CSS
+Convidar Seus Amigos
+Enviar Convite
+Impulsionar Postagem
+Desimpulsionar Postagem
+Arraste para reposicionar a cobertura
+Bloquear Usuário
+Editar Usuário
+Parabéns ! Você é agora um &lt;span style=&quot;color:{color}&quot;&gt;&lt;i class=&quot;fa fa-{icon} fa-fw&quot;&gt;&lt;/i&gt;{type_name}
+Começe a navegar os novos recursos
+Oops, parece que sua conta não está ativada ainda.
+Por favor escolha um método abaixo para ativar sua conta.
+Via E-mail
+Via Número de Telefone
+Ou
+Enviar Confirmação do Código
+Não obteve o código?
+Re-enviar
+Você deve receber o código dentro de
+Confirmar
+Número de telefone (ex. +905...)
+Erro ao ativar a sua conta.
+Código de confirmação incorreto.
+Não foi possível enviar o código de confirmação.
+Número de telefone incorreto.
+Número de telefone já em uso.
+SMS foi enviado com sucesso.
+Erro ao enviar o SMS, por favor tente outro número.
+Não foi possível enviar o código de confirmação, por favor preencha um dos métodos de ativação.
+E-mail foi enviado com sucesso, verifique a sua pasta caixa de entrada ou de spam para o link de ativação.
+Limite excedido, tente novamente mais tarde.
+Erro ao enviar o SMS, tente outro número ou ativar sua conta via e-mail, entrando em sua conta.
+Membro grátis
+Membro estrela
+Membro Quente
+Ultima Member
+Membro Vip
+Moderador
+Tipo de Membro
+Filiação
+Atualização
+Erro, Por favor tente novamente.
+Upgrade To Pro
+Sem resposta
+Por favor, tente novamente mais tarde.
+Respondidas !
+chamada diminuiu
+O destinatário recusou a chamada, por favor tente novamente mais tarde.
+chamada de vídeo novo
+quer vídeo chat com você.
+Declínio
+Aceitar &amp; Start
+chamada
+Por favor aguarde o amigo responder para iniciar o bate-papo de vídeo.
+Você é amigos {site_name}
+Você está seguindo
+Ver todos
+Mim
+Impulsionar até {monthly_boosts} postagens&lt;br&gt;&lt;small&gt;({monthly_boosts} ao mesmo tempo 7/24)&lt;/small&gt;
+Impulsionar até {monthly_boosts} páginas&lt;br&gt;&lt;small&gt;({monthly_boosts} ao mesmo tempo 7/24)&lt;/small&gt;
+Impulsionar até {yearly_boosts} postagens&lt;br&gt;&lt;small&gt;({yearly_boosts} ao mesmo tempo 7/24)&lt;/small&gt;
+Impulsionar até {yearly_boosts} páginas&lt;br&gt;&lt;small&gt;({yearly_boosts} ao mesmo tempo 7/24)&lt;/small&gt;
+Impulsionar até {lifetime_boosts} postagens&lt;br&gt;&lt;small&gt;({lifetime_boosts} ao mesmo tempo 7/24)&lt;/small&gt;
+Impulsionar até {lifetime_boosts} páginas&lt;br&gt;&lt;small&gt;({lifetime_boosts} ao mesmo tempo 7/24)&lt;/small&gt;
+inscrever-se
+Youtube
+meus produtos
+Escolha um método de pagamento
+PayPal
+Cartão de crédito
+Bitcoin
+Categorias
+Produtos Mais recentes
+Pesquisa de produtos
+Pesquisa para os produtos em {category_name}
+Não há produtos disponíveis para mostrar.
+Carregar mais produtos
+Vender novo produto
+Descrição
+Por favor, descreva o seu produto.
+Usava
+Novo
+Preço
+Seu preço do produto em USD ($), por exemplo (10,99)
+Editar produto
+Publicar
+Mais informações
+Contactar fornecedor
+Por &lt;a href=&quot;{product_url}&quot;&gt;{product_name}&lt;/a&gt;, postou {product_time}, em &lt;a href=&quot;{product_category}&quot;&gt;{product_category_name}&lt;/a&gt;
+Pagamento recusado, por favor tente novamente mais tarde.
+Confirmação do pagamento, aguarde por favor ..
+Ganhe até ${amount} para cada usuário sua referem-se a nós!
+Ganhe até ${amount} para cada usuário sua referem-se a nós e vai inscrever-se a qualquer um dos nossos profissionais pacotes.
+meus Afiliados
+Meu saldo
+Sua ligação da filial é
+Seu saldo é de R ${balance} equilíbrio, o pedido de retirada mínima é de R ${m_withdrawal}
+Seu saldo é
+Email do Paypal
+Montante (USD)
+pedido de retirada
+Histórico de pagamento
+Quantidade
+Recusado
+aprovado
+total de votos
+Mark produto comercializado
+adicionou novo produto para vender.
+Nome do Produto
+Em estoque
+Vendido
+Responda
+Adicionar resposta
+autenticação
+Bem vindo de volta!
+Bem vinda!
+Conectar com as pessoas.
+Fazer novos amigos.
+Partilhar as suas memórias.
+Criar novos relacionamentos.
+Descubra novos lugares.
+Esqueceu sua senha?
+marcação inválida, por favor, tente redefinir sua senha novamente
+Volte
+Ao criar sua conta, você concorda com a nossa
+Por favor, escolha um preço para seu produto
+Por favor, escolha um valor correto para o seu preço
+Faça o upload de pelo menos 1 foto
+Você já votou nesta enquete.
+Você já tem um pedido pendente.
+valor montante inválido
+valor montante inválido, o valor é:
+valor montante inválido, o pedido de retirada mínima é:
+O seu pedido foi enviado, você receberá um e-mail sobre os detalhes de pagamento em breve.
+Desligar o som de notificação
+Ligar som de notificação
+Veja {count} novas mensagens
+mensagens de loja por
+Nova chamada de áudio
+Quer falar com você
+Chamada de áudio
+conversando com
+Mercado
+Comentario
+De
+Carregar mais artigos
+Blog
+Nenhum artigo encontrado
+Artigos mais recentes
+Criar novo artigo
+Meus artigos
+Título
+Conteúdo
+Selecionar
+Tag
+Miniatura
+Publicados
+Seu artigo foi atualizado com sucesso
+Seu artigo foi adicionado com êxito
+O título deve ter mais de 10 caracteres
+A descrição deve ter mais de 32 caracteres
+Preencha o campo de tags
+Ocorreu um erro, tente novamente mais tarde
+Posted {BLOG_TIME} in {CATEGORY_NAME}.
+Criou um novo artigo
+Fórum
+Última postagem
+tema
+Pesquisa de Threads
+Criar novo tópico
+Pule para
+Meus tópicos
+Minhas mensagens
+Título
+Sua postagem
+Resposta
+Começado por
+Administrador do Site
+Registrado
+Responder a este tópico
+Revisão do tópico
+Sua resposta
+Lista de usuários
+Posts count
+Referências
+Ultima visita
+Termos gerais de pesquisa
+Pesquisar termo
+Procure em
+Pesquisar Fóruns
+Pesquisar nos tópicos
+Pesquisar em mensagens
+Procurar somente assunto
+tópicos
+Postou
+Nenhum fórum encontrado
+Nunca
+Nenhuma resposta encontrada
+Nenhum tópico encontrado
+Nenhuma seção para mostrar
+escrevi
+Editar tópico
+Sua resposta foi salva com êxito
+Sua resposta foi adicionada com êxito
+Seu fórum foi adicionado com sucesso
+Socorro
+Digite um ou mais termos de pesquisa, cada um deve ter pelo menos 4 caracteres
+Eventos
+Indo
+Interessado
+Passado
+Convidamos
+Você está indo
+Você está interessado
+Data de início
+Data final
+Evento
+Nenhum evento encontrado
+Eventos que você pode gostar
+Indo as pessoas
+Pessoas interessadas
+Pessoas convidadas
+Seu evento foi adicionado com sucesso
+Seu evento foi salvo
+Você tem certeza de que deseja excluir este evento
+Coloque mais
+Sujeito
+Ir
+Criou um novo evento
+Meus eventos
+Está interessado no seu evento "{event_name}"
+Está indo para o seu evento "{event_name}"
+Convidou você para ir ao evento "{event_name}"
+Respondeu ao seu tópico
+Filmes
+Traduzir
+Gênero
+Recomendado
+Mais visto
+Estrelas
+Não há filmes encontrados
+Produtor
+Lançamento
+Qualidade
+Mais como este
+Carteira
+Licitação
+Cliques
+Url
+Público
+Selecione uma imagem
+Reabasteça meu saldo
+Continuar
+Seu saldo foi reabastecido por
+Publicidade
+Tem certeza de que quer apagar este anúncio
+Eliminar anúncio
+Nenhum anúncio encontrado
+Colocação
+Barra Lateral
+Selecione uma página ou insira um link para o seu site
+História
+O número máximo não pode exceder 20 arquivos de cada vez!
+Seu status foi adicionado com sucesso!
+Criar novo status
+Patrocinadas
+Sua notificação foi enviada com sucesso
+Ocultar postagem
+Seu pedido de verificação em breve será considerado!
+Verificação do perfil!
+Parabéns seu perfil está verificado!
+Carregar documentos
+Carregue uma foto com seu passaporte / ID & amp; Sua foto distinta
+Passaporte / cartão de identificação
+Sua foto
+Selecione seu passaporte / id e foto!
+A imagem de passaporte / id deve ser uma imagem
+A imagem do usuário deve ser uma imagem
+Seu pedido foi enviado com sucesso, no futuro muito próximo, vamos considerá-lo!
+Compartilhado
+O post foi adicionado com sucesso à sua linha de tempo!
+Importante!
+Observe que se você alterar o nome de usuário, você perderá a verificação
+Quem pode ver meus amigos
+Adicionou você administrador do grupo
+Adicionou você admin da página
+Ainda não há mensagens aqui.
+A conversa foi excluída!
+Fechar
+Grupo de saída
+Apagar o histórico
+Membros do grupo
+Adicionar participante
+Cancelar relatório
+Denunciar este usuário
+Informe esta página
+Denunciar este grupo
+Você já avaliou esta página!
+Avaliação
+Rever
