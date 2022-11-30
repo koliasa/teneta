@@ -1,0 +1,1000 @@
+S'identifier
+Enregistrez
+Client
+le nom d'utilisateur
+E-mail
+Mot de passe
+Nouveau mot de passe
+Souviens-toi de moi
+Ou connectez-vous avec
+Mot de passe oublié?
+E-mail address
+Confirmez le mot de passe
+Allons-y!
+Récupérer
+Réinitialisez votre mot de passe
+Réinitialiser
+Jeton Invalide
+Identifiant ou mot de passe incorrect
+Votre compte a été désactivé, s&#39;il vous plaît contactez-nous .
+Vous devez activer votre compte.
+Connecté avec succès, S&#39;il vous plaît attendre..
+S&#39;il vous plaît vérifier vos coordonnées.
+Nom d&#39;utilisateur est existe déjà.
+Nom d&#39;utilisateur doit être comprise entre 5/32
+Caractères de nom d&#39;utilisateur non valides
+Caractères de mot de passe invalide
+Cet e-mail est déjà utilisée
+Cet e-mail est invalide.
+Mot de passe est trop court.
+Mot de passe ne correspond.
+S&#039;il vous plaît vérifier le re-captcha.
+Réussir rejoint, S&#39;il vous plaît attendre..
+Activation de compte
+Inscription réussi! Nous vous avons envoyé un e-mail, S&#39;il vous plaît vérifier votre boîte de réception / spam pour vérifier votre email.
+Nous ne pouvons pas trouver cet e-mail.
+Demande de réinitialisation de mot
+Le courriel a été envoyé avec succès
+Une erreur est survenue lors du traitement de votre demande, s&#39;il vous plaît réessayer plus tard.
+Mot de passe changé avec succès !
+S&#39;il vous plaît choisir une date correcte.
+Réglage de mise à jour avec succès !
+Mot de passe actuel ne correspond pas
+Site Web est invalide.
+Compte supprimé avec succès, s&#39;il vous plaît patienter..
+Domicile
+Recherche Avancée
+Recherche de personnes, et les choses #hashtags
+Aucun résultat trouvé
+Dernière Visite:
+Acceptez
+Annuler
+Effacer
+Mon profil
+Messages Enregistrés
+Réglage
+Admin Area
+Se déconnecter
+Vous ne disposez pas de toutes les notifications
+Vous ne disposez pas de toutes les demandes
+je t&#39;ai suivi
+vous avez mentionné sur un commentaire.
+vous avez mentionné sur un poteau.
+posté sur votre timeline.
+visité votre profil.
+accepté votre demande d&#39;ami.
+accepté votre demande de suivi.
+aimé votre commentaire &quot;{comment}&quot;
+demandé votre commentaire &quot;{comment}&quot;
+aimé votre {postType} {post}
+demandé votre {postType} {post}
+partagé votre {postType} {post}
+commenté sur votre {postType} {post}
+aimé {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;poster&lt;/a&gt;.
+demandé {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;poster&lt;/a&gt;.
+partagé {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;poster&lt;/a&gt;.
+commenté sur {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;poster&lt;/a&gt;.
+vidéo.
+poster.
+photo.
+fichier.
+vine vidéo.
+du son.
+Photo de profil.
+404 Erreur
+Désolé, page introuvable!
+La page que vous recherchez n&#39;a pu être trouvée. S&#39;il vous plaît vérifier le lien que vous avez suivi pour arriver ici et essayez à nouveau.
+Votre compte a été activé avec succès!
+Votre libre &lt;a href=&quot;http://localhost/wowonder_update&quot;&gt;{login}&lt;/a&gt; !
+Cadre général
+Connexion Cadre
+gérer les utilisateurs
+gérer les messages
+gérer les rapports
+Publicité
+Plus
+Système de cache
+système chat
+Email de validation
+Notification par courriel
+liens lisses
+SEO URL conviviale
+Partage de fichier
+thèmes
+Paramètres utilisateur
+site Cadre
+Activer système de cache pour accélérer votre site, a recommandé plus de 10.000 utilisateurs actifs.
+Activer système chat pour discuter avec des amis sur le fond de la page
+Activer la validation de messagerie pour envoyer le lien d&#39;activation lorsque l&#39;utilisateur référencée.
+Activer la notification par e-mail pour envoyer une notification par e-mail de l&#39;utilisateur.
+Activer les liens lisses, e.g.http://localhost/wowonder_update/home.
+Activer SEO URL conviviale, e.g.http://localhost/wowonder_update//1_hello-how-are-you-doing.html
+Activez le partage de fichiers pour partager et télécharger des vidéos, des images, des fichiers, des sons, etc...
+Cache
+Informations sur le site
+Site Nom et titre:
+Nom du site
+Titre du site
+Site Mots-clés et description:
+site Mots-clés (eg: social,wownder ..)
+description du site
+Site E-mail
+Langage par défaut
+thème Cadre
+Activeted
+Version:
+Auteur:
+Le statut de l&#39;utilisateur
+(en ligne / vu la dernière fois)
+Activer
+désactiver
+Autoriser les utilisateurs à supprimer son compte:
+Profil notification de visite:
+Display user d&#39;âge:
+Rendez-vous amoureux
+Âge
+Système de connectivité:
+&lt;span style=&quot;color:red;&quot;&gt;Note:&lt;/span&gt; If you migrate from one system to another, all existing followings, followers, friends, memberships will be deleted to avoid issues.&lt;/small&gt;
+Système d&#39;amis
+système de suivi
+Taille maximale de téléchargement:
+Max longueur des caractères:
+extensions autorisées:
+reCaptcha Cadre
+reCaptcha clé est nécessaire
+reCaptcha clé :
+Google Analytics
+Google code Google Analytics:
+cache Cadre
+Il est fortement recommandé de vider le cache.
+Taille du cache:
+Vider le cache
+Social login
+Social login API&#39;S
+Facebook
+Google+
+Twitter
+Linkedin
+Vkontakte
+Facebook API
+Google API
+Twitter API
+Linkedin API
+Vkontakte API
+App ID
+App Secret Key
+Connectez-vous avec
+ID
+La source
+statut
+en attendant
+Prénom
+Nom de famille
+A propos de moi
+Website
+action
+Afficher plus d&#39;utilisateurs
+Pas plus aux utilisateurs d&#39;afficher
+Êtes-vous sûr de vouloir supprimer cet utilisateur?
+Es-tu sur de vouloir supprimer cette annonce?
+Montrer plus d&#39;articles
+Pas plus de postes
+Aucun post trouvé
+Éditeur
+Il n&#39;y a pas pour le moment nouveau poste
+lien Poster
+Temps
+Poster
+{name} n&#39;a pas encore posté rien
+Recherche
+Sur
+De
+sauvegarder
+Enregistré !
+Journaliste
+temps Rapporté
+Il n&#39;y a pas de nouveaux rapports pour l&#39;instant.
+Ouvrir Poste
+Mark Safe
+Delete Post
+Cadre Publicité
+plus Cadre
+Liste de diffusion
+Envoyer
+Assujettir..
+Message..
+Annonce:
+nouvelle annonce ..
+Ajouter
+Vues
+Il n&#39;y a pas d&#39;annonces actives.
+Il n&#39;y a aucune annonce inactifs.
+Ajouter
+Suivre
+Suivant
+Suivant
+Les adeptes
+Message
+Demandé
+Friends
+Online
+Offline
+Vous êtes actuellement déconnecté
+Aucun utilisateur hors ligne.
+Aucun membre en ligne.
+Recherche d&#39;utilisateurs
+Aucun utilisateur trouvé.
+vu
+Chargez plus de postes
+Charger plusieurs utilisateurs
+Aucun résultat n&#39;a été trouvé pour votre recherche.
+Vous ne disposez pas de messages enregistrés.
+Messages
+Écrire quelque chose ..
+Pas plus un message
+Voir plus de messages
+Désolé, vous ne pouvez pas répondre à cet utilisateur.
+Choisissez un de vos amis
+Et dire Bonjour !
+Télécharger
+Mettre à jour vos informations
+Choisissez votre nom d&#39;utilisateur:
+Créer votre nouveau mot de passe:
+Mettre à jour
+supprimer les commentaires
+Etes-vous sûr que vous voulez supprimer ce commentaire ?
+Etes-vous sûr que vous voulez supprimer ce message ?
+Modifier le message
+La session a expiré
+Votre session a expiré, s&#39;il vous plaît vous connecter à nouveau.
+Pays
+Tous
+Genre
+Femelle
+Mâle
+Photo de profil
+Résultat:
+Oui
+Non
+vérifié utilisateur
+Changer le mot de passe
+Mot de passe actuel
+Répéter le mot de passe
+Général
+Profil
+Intimité
+Effacer le compte
+Etes-vous sûr que vous voulez supprimer votre compte, et de laisser notre réseau ?
+Non, je vais y réfléchir
+vérifié
+non vérifié
+Administrateur
+Utilisateur
+Vérification
+Type
+Anniversaire
+actif
+inactif
+Paramètre de confidentialité
+Qui peut me suivre ?
+Toutes les personnes
+Mes amis
+Personne
+Les gens que je suivre
+Les gens Follow Me
+Seulement moi
+Qui peut me message ?
+Qui peut poster sur mon calendrier ?
+Afficher mes activités ?
+Montrer
+Cache
+Confirmer la demande quand quelqu&#39;un vous suit ?
+Afficher mon dernière fois ?
+(e.g: http://www.siteurl.com)
+Profile Setting
+épinglé
+Pin Poster
+Détacher Poster
+Ouvrir dans un nouvel onglet après
+unsave Poster
+Sauvegarder Poster
+Unreport Poster
+Signaler le message
+Partagé ce post
+Changé sa photo de profil
+A changé sa photo de profil
+S'il vous plaît vous connecter à aimer, étonnant, partager et commenter !
+Aime
+Aimer
+Merveille
+Merveilles
+Partagez
+commentaires
+Aucune aime encore
+Pas encore wondres
+Ecrire un commentaire et appuyez sur Entrée
+Voir plus de commentaires
+Bienvenue à votre Nouvelles RSS!
+Dis bonjour !
+Ce qui se passe? #hashtag ..@Mention..
+Youtube Link
+Vine Link
+SoundCloud Link
+Où es tu?
+Poster
+Envoyer des textos
+Photos
+Des sons
+Les vidéos
+Plans
+Dossiers
+Ne pas suivre tout utilisateur
+Pas encore adeptes
+Détails
+Liens sociaux
+amis en ligne
+Sur
+Contactez nous
+politique de confidentialité
+Conditions d'utilisation
+Développeurs
+Langue
+© {date} {site_name}
+an
+mois
+jour
+heure
+minute
+deuxième
+années
+mois
+jours
+des heures
+minutes
+secondes
+depuis
+à partir de maintenant
+d un moment
+Juste maintenant
+Il ya environ une minute
+%d il y a quelques minutes
+il y a à peu près une heure
+%d il y a des heures
+a Il ya jour
+%d il y a quelques jours
+il y a environ un mois
+%d il y a des mois
+Il ya environ un an
+%d il y a des années
+Dernières activités
+Pas de nouvelles activités
+Trending !
+Chargez plus d&#39;activités
+Pas plus d&#39;activités
+Les gens que vous connaissez peut-être
+Trop long
+Trop court.
+Disponible !
+En service.
+Nom d&#39;utilisateur ne doit pas contenir de caractères, symboles ou espaces spéciaux.
+A aimé
+Mes Pages
+a aimé votre page ({page_name})
+Cette semaine
+des postes
+Situé dans
+Téléphone
+Compagnie
+Catégorie
+Rechercher les messages
+Créer une page
+Nom de la page
+Titre de la page
+Votre titre de la page
+page Catégorie
+Description de la page
+Votre description de la page, entre 10 et 200 caractères max.
+Créer
+Nom de la page est existe déjà.
+Nom de la page doit être comprise entre 5/32
+Invalides nom de la page caractères
+modifier
+Informations sur la page
+supprimer la page
+Emplacement
+Pages que vous aimerez
+Voir plus de pages
+No more pages to show
+Etes-vous sûr de vouloir supprimer cette page?
+gérer les pages
+Propriétaire
+Aucune page trouvé
+Merveille
+connecter
+Partagez
+Découvrir
+Trouve plus
+mobile bienvenus
+Wonder (NOUVEAU), la capacité à se demander un poste si vous ne l&#39;aimez pas.
+Connectez-vous avec votre famille et vos amis et partager vos moments.
+Partager ce sont des moments de nouvelles et de la vie avec vos amis.
+Découvrez de nouvelles personnes, créer de nouvelles connexions et de faire de nouveaux amis.
+Trouver plus de ce que vous n &#39;êtes à la recherche d&#39;avec WoWonder Recherche.
+Écran 100% adaptable sur toutes les tablettes et les smartphones.
+Travailler à
+Relation
+Aucun
+Avatar
+Couverture
+Contexte
+Thème
+Défaut
+Mon arrière-plan
+Site Web de l&#39;entreprise
+Aimé Ma Page
+Aversion
+Dégoûts
+détesté votre {postType} {post}
+détesté votre commentaire &quot;{comment}&quot;
+détesté {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+Deuxième poste de type bouton
+Nom de groupe
+Titre de groupe
+Mes Groupes
+L&#39;école
+Example: social, wowonder, social site
+Vu message
+Recommandé pour les puissants serveurs
+Système de typage chat
+reCaptcha
+Instagram
+si vous ne partagez pas votre événement de la visite, vous ne serez pas en mesure de voir d&#39;autres gens qui visitent votre profil.
+Effacer le compte
+Adresse IP
+Gérer les groupes
+Êtes-vous sûr de vouloir supprimer ce groupe?
+Pas de plusieurs groupes pour montrer
+Montrer plus de groupes
+Membres
+Demandes de vérification
+Vérifier
+Ignorer
+Page
+Aucune nouvelle demande de vérification
+Ban User
+Banned
+Il n&#39;y a pas ips interdits.
+Adresse IP non valide.
+Adresse IP banni avec succès.
+Adresse IP existent déjà
+S&#39;il vous plaît ajouter une adresse ip
+Adresse IP supprimé avec succès
+Envoyez-moi lorsque
+Quelqu&#39;un aimait mes messages
+Quelqu&#39;un demanda mes messages
+Quelqu&#39;un a commenté mes messages
+Quelqu&#39;un partagé sur mes posts
+Quelqu&#39;un m&#39;a suivi
+Quelqu&#39;un aimait mes pages
+Quelqu&#39;un a visité mon profil
+Quelqu&#39;un a parlé de moi
+Quelqu&#39;un a rejoint mes groupes
+Quelqu&#39;un a accepté mon ami / suivre la demande
+Quelqu&#39;un a posté sur mon calendrier
+Pas de groupes trouvés
+L&#39;information de groupe
+Supprimer le groupe
+Le nom du groupe est existe déjà.
+Invalides nom de groupe caractères
+Le nom du groupe doit être comprise entre 5/32
+Aucune demande trouvée!
+Enlever
+Aucun membre trouvé
+Groupe supprimé avec succès
+Créer un nouveau groupe
+Mes Jeux
+Pas de jeux trouvés
+Groupes
+Pas encore d&#39;amis
+N&#39;a pas encore de rejoindre les groupes
+Chargez plus de pages
+Chargez plusieurs groupes
+Rejoint notre groupe ({group_name})
+Heureux
+Aimé
+Triste
+Très triste
+En colère
+Confus
+Chaud
+Brisé
+Inexpressif
+Bien
+Amusant
+Fatigué
+Charmant
+Béni
+Choqué
+Somnolent
+Assez
+Ennuyé
+Nombre d&#39;utilisateurs
+Utilisateurs
+Pages
+Jeux
+Utilisateurs en ligne
+Recherches récentes
+Clair
+Filtre de recherche
+Mot-clé
+Que cherchez?
+Changé sa couverture de profil
+Changé son profil couvercle
+Derniers jeux
+Aucun album n&#39;a été trouvé
+Créer un album
+Mes albums
+Nom de l&#39;album
+Télécharger
+Ajouter des photos
+Réponses
+Répondre au commentaire
+répondu à votre commentaire &quot;{comment}&quot;
+vous avez mentionné dans une réponse &quot;{comment}&quot;
+répondu au commentaire &quot;{comment}&quot;
+aimé votre réponse &quot;{comment}&quot;
+demandé votre réponse &quot;{comment}&quot;
+détesté votre réponse &quot;{comment}&quot;
+Envoyer utilisateurs une notification lorsque je visite son profil?
+si vous ne partagez pas votre dernière fois, vous ne serez pas en mesure de voir d&#39;autres personnes la dernière fois.
+Qui peut voir mon anniversaire?
+personnes aiment ce
+Inviter des amis à aimer cette page
+Invitez vos amis / followers
+Vous ne disposez pas d&#39;autres amis à inviter
+Invitez
+vous invite à aimer ({page_name})
+accepté votre demande d&#39;aimer ({page_name})
+Appel à l&#39;action
+Appel à l&#39;URL cible
+Appel à l&#39;action est site de invalide
+Avatar &amp; Cover
+Permettre aux utilisateurs en ligne pour montrer aux utilisateurs actifs dans la barre latérale.
+Pas actif
+Femmes
+Les mâles
+Tableau de bord
+Albums
+Prénom
+Des joueurs
+Ajouter un nouveau jeu
+jeu ajouté
+Cet URL est pas pris en charge
+S&#39;il vous plaît ajouter une url de jeu
+Annonces actives
+Annonces inactifs
+Ban
+Nouveau E-mail
+HTML autorisée
+Envoyer à mon e-mail
+Message test
+Membres Inscrit
+Rejoignez Demandes
+Pages Vérifié
+Extensions de partage de fichiers (séparées par une virgule)
+Partage de fichiers extensions (séparées par des virgules,)
+Joindre
+Inscrit
+Demande
+Modifier commentaire
+Dernière lecture:
+Joue
+Confirmer la demande lorsque quelqu&#39;un se joindre à ce groupe?
+Qui peut voir des groupes messages?
+Inscrit utilisateurs
+Vivre dans
+Design
+Les personnes que vous pouvez rencontrer
+ajoutés nouvelles photos à
+est le sentiment
+se rend à
+écoute
+est en train de jouer
+regarde
+Sentiment
+Voyager à
+En train de regarder
+En jouant
+Écouter
+Que ressentez vous ?
+Où êtes-vous?
+Qu&#39;est-ce que vous regardez ?
+A quoi tu joues ?
+Qu&#39;écoutes-tu ?
+Qu&#39;est-ce que tu fais ?
+Etudier à
+Site de la société est invalide
+Page supprimée avec succès
+Image de couverture.
+Groupes suggérés
+accepté votre demande d&#39;adhésion ({group_name})
+demandé à rejoindre votre groupe
+Personne encore posté
+Ajouter à vos amis de ce groupe
+Il n&#39;y a aucun ami à les ajouter
+vous ajouté au groupe ({group_name})
+Type de groupe
+Public
+Privé
+Rapports
+Pas encore aversions
+N&#39;a pas aimé
+Demandé
+Conditions Pages
+Profil de confidentialité
+Activer qu&#39;il permette non connecté aux utilisateurs de voir les profils des utilisateurs.
+Video Upload
+Activer télécharger la vidéo pour partager et télécharger des vidéos sur le site.
+Audio Upload
+Activer audio upload pour partager et télécharger des sons sur le site.
+En lire plus..
+Lire moins..
+Ajouter une photo.
+Affichez votre personnalité et votre style uniques.
+Sauter cette étape pour le moment
+Enregistrer &amp; Continuer
+Parlez-nous de vous.
+Partager vos informations avec notre communauté.
+Obtenir les dernières activités de nos utilisateurs populaires.
+Suivez nos utilisateurs célèbres.
+Suivez {number} &amp; Terminer
+Ça a l&#39;air bien.
+Vous serez en mesure de compléter votre profil ultérieurement.
+Téléchargez votre photo
+S&#39;il vous plaît, attendez..
+Nom d&#39;utilisateur ou email
+E-mail Réglage
+ans
+Annivarsaire d&#39;amis
+Paramètres SMS
+Chargement régulier
+Les pages boostées sont déjà visibles par tous les membres de votre communauté
+Vous êtes un {type_name}, vous pouvez booster {can_boost} pages en même temps.
+You&#39;re a {type_name}, vous pouvez booster {can_boost} posts en même temps.
+Il n&#39;y a pas encore de pages boostées.
+Il n&#39;y a pas encore de posts boostés.
+Découvrez plus de fonctionnalités avec {sitename} PRO !
+Etoile
+Hot
+Ultima
+Vip
+Membres en vedette
+Voir le profil des visiteurs
+Voir / Cacher la dernière fois vu
+Badge Vérifié
+Promotion de post&lt;br&gt;&lt;small&gt;(Indisponible)&lt;/small&gt;
+Promotion de page&lt;br&gt;&lt;small&gt;(Indisponible)&lt;/small&gt;
+0% de réduction
+10% de réduction
+20% de réduction
+60% de réduction
+Par semaine
+Par mois
+Par an
+à vie
+Mise à jour maintenant
+Posts boostés
+Pages boostées
+Me mettre ici
+Promoted
+Oops ! Quelquechose s&#39;est mal passé.
+Essayez encore
+Booster Page
+Page Boostée
+Un-Boost Page
+Editer paramètres de la Page
+Utilisateurs bloqués
+Débloquer
+fichier CSS
+Design par défaut
+Mon fichier CSS
+Vous pouvez modifier le design de votre profil via le téléversement de votre propre fichier CSS
+Inviter vos amis
+Envoyer Invitation
+Boost Post
+Un-Boost Post
+Faites glisser pour repositionner la couverture
+Bloquer l&#39;utilisateur
+Editer Utilisateur
+Félicitation ! Vous êtes maintenant un &lt;span style=&quot;color:{color}&quot;&gt;&lt;i class=&quot;fa fa-{icon} fa-fw&quot;&gt;&lt;/i&gt;{type_name}
+Commencer à naviguer sur les nouvelles fonctionnalités
+Oops, votre compte n&#39;est pas encore activé.
+Merci de choisir une méthode ci*dessous pour activer votre compte.
+Par E-mail
+Par téléphone
+Ou
+Envoyer le code confirmation
+Didn&#39;t get the code?
+Renvoyer
+You should receive the code within
+Confirmer
+Numéro de téléphone (eg. +33...)
+Error while activating your account.
+Code de confirmation erroné.
+Impossible d&#39;envoyer le code de confirmation.
+Numéro de téléphone erroné.
+Numéro de téléphone déjà utilisé.
+SMS envoyé avec succès.
+Erreur lors de l&#39;envooi du SMS, merci d&#39;essayer un autre numéro de téléphone.
+Impossible d&#39;envoyer le code de confirmation, essayez une des méthodes d&#39;activation.
+E-mail envoyé avec succès, merci de vérifier votre boite de réception et dossier spam pour le lien d&#39;activation.
+Limite dépassé, merci de réessayer plus tard.
+Erreur lors de l&#39;envoi du SMS, merci d&#39;essayer un autre numéro ou activer votre compte par e-mail en vous connectant à votre compte.
+Free member
+Star Member
+Hot Member
+Ultima Member
+Vip Member
+Modérateur
+Type de membres
+Membership
+Mise à jour
+Erreur, merci de réessayer plus tard.
+Passer à Pro
+Pas de réponse
+Veuillez réessayer plus tard.
+répondre !
+Appel refusé
+Le destinataire a refusé l&#39;appel, s&#39;il vous plaît essayer à nouveau plus tard.
+Nouvel appel vidéo
+veut le chat vidéo avec vous.
+Déclin
+Accepter &amp; Start
+Appel
+S&#39;il vous plaît attendre votre ami répondre à démarrer le chat vidéo.
+Vous êtes amis sur {site_name}
+Vous suivez
+Voir tout
+Moi
+Boost up to {monthly_boosts} posts&lt;br&gt;&lt;small&gt;({monthly_boosts} in same time 7/24)&lt;/small&gt;
+Boost up to {monthly_boosts} pages&lt;br&gt;&lt;small&gt;({monthly_boosts} in same time 7/24)&lt;/small&gt;
+Boost up to {yearly_boosts} posts&lt;br&gt;&lt;small&gt;({yearly_boosts} in same time 7/24)&lt;/small&gt;
+Boost up to {yearly_boosts} pages&lt;br&gt;&lt;small&gt;({yearly_boosts} in same time 7/24)&lt;/small&gt;
+Boost up to {lifetime_boosts} posts&lt;br&gt;&lt;small&gt;({lifetime_boosts} in same time 7/24)&lt;/small&gt;
+Boost up to {lifetime_boosts} pages&lt;br&gt;&lt;small&gt;({lifetime_boosts} in same time 7/24)&lt;/small&gt;
+S&#39;inscrire
+YouTube
+Mes produits
+Choisissez une méthode de paiement
+PayPal
+Credit Card
+Bitcoin
+Catégories
+Derniers produits
+Recherche de produits
+Recherche de produits dans {category_name}
+Pas de produits disponibles pour afficher.
+Chargez plus de produits
+Vente nouveau produit
+La description
+S&#39;il vous plaît décrire votre produit.
+Utilisé
+Nouveau
+Prix
+Votre prix du produit en monnaie USD ($), e.g (10.99)
+Modifier le produit
+Publier
+More info
+Contacter le vendeur
+Par &lt;a href=&quot;{product_url}&quot;&gt;{product_name}&lt;/a&gt;, posté {product_time}, dans &lt;a href=&quot;{product_category}&quot;&gt;{product_category_name}&lt;/a&gt;
+Paiement refusé, s&#39;il vous plaît essayer à nouveau plus tard.
+paiement confirmant, s&#39;il vous plaît patienter ..
+Gagnez jusqu'à ${amount} pour chaque utilisateur de votre référence à nous!
+Gagnez jusqu&#39;à ${amount} pour chaque utilisateur de votre référence à nous et souscrira à un de nos forfaits pro.
+Mes Affiliés
+Mon solde
+Votre lien d&#39;affiliation est
+Votre solde est ${balance}, demande de retrait minimum est ${m_withdrawal}
+Votre solde est
+PayPal email
+Montant (USD)
+Demande de retrait
+Historique de paiement
+Montant
+Refusée
+A approuvé
+Des votes
+Marque produit vendu
+nouveau produit ajouté pour vendre.
+Nom du produit
+en magasin
+Vendu
+Répondre
+Ajouter une réponse
+Authentifier
+Nous saluons le retour!
+Bienvenue!
+Communiquer avec les gens.
+Se faire de nouveaux amis.
+Partagez vos souvenirs.
+Créer de nouvelles relations.
+Découvrez de nouveaux endroits.
+Mot de passe oublié?
+balisage non valide, s&#39;il vous plaît essayez de réinitialiser votre mot de passe
+Go back
+En créant votre compte, vous acceptez nos
+S&#39;il vous plaît choisir un prix pour votre produit
+S&#39;il vous plaît choisir une valeur correcte pour votre prix
+S&#39;il vous plaît télécharger au moins 1 photo
+Vous avez déjà voté ce sondage.
+Vous avez déjà une demande en attente.
+valeur de quantité non valide
+Valeur de quantité non valide, le montant est:
+valeur de quantité non valide, demande de retrait minimum est de:
+Votre demande a été envoyée, vous recevrez un e-mail concernant les détails de paiement bientôt.
+Désactiver la notification sonore
+Activer la notification sonore
+Vue {count} de nouveaux messages
+postes de magasins par
+Nouveau appel audio
+Veut parler avec vous
+Appel audio
+parler avec
+Marché
+Commentaire
+Par
+Charger plus d&#39;articles
+Blog
+Aucun article trouvé
+Articles les plus récents
+Créer un nouvel article
+Mes articles
+Titre
+Contenu
+Sélectionner
+Mots clés
+La vignette
+Publié
+Votre article a été mis à jour avec succès
+Votre article a été ajouté avec succès
+Le titre doit comporter plus de 10 caractères
+La description doit comporter plus de 32 caractères
+Remplissez le champ tags
+Une erreur a été trouvée, réessayez plus tard
+Posted {BLOG_TIME} in {CATEGORY_NAME}.
+Nouvel article créé
+Forum
+Dernier commentaire
+sujet
+Recherche de threads
+Créer un nouveau sujet
+Sauter à
+Mes fils
+Mes messages
+Gros titre
+Votre publication
+Répondre
+Commencé par
+Administrateur du site
+Inscrit
+Répondre à ce sujet
+Examen de sujet
+Votre réponse
+Liste des utilisateurs
+Nombre de postes
+Renvois
+Derniere visite
+Conditions générales de recherche
+Rechercher un terme
+Rechercher dans
+Rechercher dans les forums
+Rechercher dans les discussions
+Rechercher dans les messages
+Rechercher uniquement sur le sujet
+Fils
+Publié
+Aucun forum trouvé
+Jamais
+Aucune réponse trouvée
+Aucun sujet trouvé
+Aucune rubrique à afficher
+a écrit
+Modifier le sujet
+Votre réponse a été enregistrée avec succès
+Votre réponse a été ajoutée avec succès
+Votre forum a été ajouté avec succès
+Aidez-moi
+Tapez un ou plusieurs termes de recherche, chacun doit être dau moins 4 caractères
+Événements
+Aller
+Intéressé
+Passé
+Invité
+Vous allez
+Tu es intéressé
+Date de début
+Date de fin
+un événement
+Aucun événement trouvé
+Événements que vous aimeriez
+Aller aux gens
+Les personnes intéressées
+Personnes invitées
+Votre événement a été ajouté avec succès
+Votre événement a été enregistré
+Vous êtes sûr que vous voulez supprimer cet événement
+Chargez plus
+Assujettir
+Aller
+Nouvel événement créé
+Mes événements
+Est intéressé par votre événement "{event_name}"
+Va à votre événement "{event_name}"
+vous a invité à participer à l&#39;événement &quot;{event_name}&quot;
+A répondu à votre sujet
+Films
+Traduire
+Genre
+Recommandé
+Le plus regardé
+Etoiles
+Pas de films trouvés
+Producteur
+Sortie
+Qualité
+Plus darticles
+Portefeuille
+Enchère
+Clics
+Url
+Public
+Sélectionnez une image
+Récupérer mon solde
+Continuer
+Votre solde a été reconstitué par
+Publicité
+Êtes-vous sûr de vouloir supprimer cette annonce?
+Supprimer lannonce
+Aucune annonce na été trouvée
+Placement
+Barre latérale
+Sélectionnez une page ou entrez un lien vers votre site
+Récit
+Le nombre maximal ne peut pas dépasser 20 fichiers à la fois!
+Votre statut a été ajouté avec succès!
+Créer un nouvel état
+Sponsorisé
+Votre notification a été envoyée avec succès
+Masquer la publication
+Votre demande de vérification sera bientôt prise en considération!
+Vérification du profil!
+Félicitations, votre profil est vérifié!
+Télécharger des documents
+Veuillez télécharger une photo avec votre passeport / ID & amp; Votre photo distincte
+Passeport / carte didentité
+Ta photo
+Sélectionnez votre passeport / id et photo!
+Limage passeport / id doit être une image
+Limage utilisateur doit être une image
+Votre demande a été envoyée avec succès, dans un avenir très proche, nous lexaminerons!
+partagé
+Le message a été ajouté avec succès à votre calendrier!
+Important!
+Veuillez noter que si vous modifiez le nom dutilisateur, vous allez perdre la vérification
+Qui peut voir mes amis
+Ajoute ton administrateur de groupe
+A ajouté votre page admin
+Pas encore de messages ici.
+La conversation a été supprimée!
+Fermer
+Groupe de sortie
+Histoire claire
+Les membres du groupe
+Ajouter un participant
+Annuler le rapport
+Signaler cet utilisateur
+Signaler cette page
+Signaler ce groupe
+Vous avez déjà noté cette page!
+Évaluation
+Avis
