@@ -1,0 +1,1000 @@
+Logga in
+Registrera
+Gäst
+Användarnamn
+E-post
+Lösenord
+Nytt lösenord
+Kom ihåg mig
+Eller logga in med
+Glömt ditt lösenord?
+E-postadress
+Bekräfta lösenord
+Nu går vi !
+Ta igen sig
+Återställ ditt lösenord
+Återställa
+Ogiltig token
+felaktigt användarnamn eller lösenord
+Ditt konto har inaktiverats, kontakta oss .
+Du måste aktivera ditt konto.
+Inloggad, vänligen vänta..
+Kontrollera dina uppgifter.
+Användarnamnet finns redan.
+Användarnamnet måste vara mellan 5/32
+Ogiltiga tecken i användarnamn
+Ogiltiga lösenordstecken
+Denna e-post är redan i bruk
+Detta e-postmeddelande är ogiltigt.
+Lösenordet är för kort.
+Lösenordet matchar inte.
+Kontrollera re-captcha.
+Har gått med. Vänta..
+kontoaktivering
+Registrering lyckad! Vi har skickat ett e-postmeddelande till dig. Kontrollera din inkorg/spam för att verifiera din e-post.
+Vi kan inte hitta det här mejlet.
+Begäran om lösenordsåterställning
+E-post har skickats
+Ett fel hittades när du bearbetade din begäran, försök igen senare.
+Lösenordet har ändrats!
+Vänligen välj ett korrekt datum.
+Inställningen har uppdaterats!
+Aktuellt lösenord matchar inte
+Webbplatsen är ogiltig.
+Kontot har raderats, vänligen vänta..
+Hem
+avancerad sökning
+Sök efter personer, sidor, grupper och #hashtags
+Inget resultat att visa
+Senast sedd:
+Acceptera
+Avbryt
+Radera
+Min profil
+Sparade inlägg
+inställningar
+Admin område
+Logga ut
+Du har inga aviseringar
+Du har inga förfrågningar
+följde dig
+nämnde dig i en kommentar.
+nämnde dig i ett inlägg.
+publicerat på din tidslinje.
+besökte din profil.
+accepterade din vänförfrågan.
+accepterade din följningsförfrågan.
+gillade din kommentar &quot;{comment}&quot;
+undrade din kommentar &quot;{comment}&quot;
+gillade ditt {postType} {inlägg}
+undrade ditt {postType} {inlägg}
+delade ditt {postType} {inlägg}
+kommenterade ditt {postType} {inlägg}
+gillade {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;inlägg&lt;/a&gt;.
+undrade {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;inlägg&lt;/a&gt;.
+delade {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;inlägg&lt;/a&gt;.
+kommenterade {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;inlägg&lt;/a&gt;.
+video.
+posta.
+Foto.
+fil.
+video kommer.
+ljud.
+profilbild.
+404 fel
+Tyvärr, sidan hittades inte!
+Sidan du letar efter kunde inte hittas. Kontrollera länken du följde för att komma hit och försök igen.
+Ditt konto har aktiverats!
+Du är fri att &lt;a href=&quot;{site_url}&quot;&gt;{logga in}&lt;/a&gt;!
+Allmän inställning
+Inloggningsinställning
+Hantera användare
+Hantera inlägg
+Hantera rapporter
+Annons
+Mer
+Cachesystem
+Chattsystem
+E-postvalidering
+E-postmeddelande
+Smidiga länkar
+SEO-vänlig url
+Fildelning
+teman
+Användarinställningar
+Webbplatsinställning
+Aktivera cachesystem för att snabba upp din webbplats. Rekommenderade mer än 10 000 aktiva användare.
+Aktivera chattsystemet för att chatta med vänner längst ned på sidan
+Aktivera e-postvalidering för att skicka aktiveringslänk när användaren registrerat sig.
+Aktivera e-postavisering för att skicka användaravisering via e-post.
+Aktivera smidiga länkar, t.ex.{site_url}/home.
+Aktivera SEO-vänlig webbadress, t.ex.{site_url}//1_hello-how-are-you-doing.html
+Aktivera fildelning för att dela och ladda upp videor, bilder, filer, ljud etc.
+Cache
+Webbplatsinformation
+Webbplatsens namn och titel:
+Sidnamn
+Sidans Titel
+Webbplatssökord och beskrivning:
+Webbplatssökord
+Webbplatsbeskrivning
+Webbplatsens e-post
+Standardspråk
+Temainställning
+Aktiverad
+Version:
+Författare:
+Användarstatus
+(online/senast sett)
+Gör det möjligt
+Inaktivera
+Tillåt användare att ta bort sitt konto
+Avisering om profilbesök
+Visa användarens ålder som
+Datum
+Ålder
+Anslutningssystem
+&lt;span style=&quot;color:red;&quot;&gt;Obs!&lt;/span&gt; Om du ändrar systemet till ett annat kommer alla befintliga följare, följare, vänner att raderas.&lt;/small&gt;
+Friends system
+Följ systemet
+Max uppladdningsstorlek för videor, bilder, ljud och filer
+Max teckenlängd
+Tillåtna tillägg
+reCaptcha-inställning
+reCaptcha-nyckel krävs
+reCaptcha-nyckel
+Google Analytics
+Google Analytics-kod
+Cache-inställning
+Det rekommenderas starkt att rensa cachen.
+Cachestorlek:
+Rensa cache
+Social inloggning
+Social login API
+Facebook
+Google+
+Twitter
+Linkedin
+Vkontakte
+Facebook API
+Google API
+Twitter API
+Linkedin API
+Vkontakte API
+App-ID
+Appens hemliga nyckel
+Logga in med
+ID
+Källa
+Status
+I väntan på
+Förnamn
+Efternamn
+Om mig
+Hemsida
+Handling
+Visa fler användare
+Inga fler användare att visa
+Är du säker på att du vill ta bort den här användaren?
+Är du säker på att du vill ta bort det här inlägget?
+Visa fler inlägg
+Inga fler inlägg
+Inga inlägg att visa
+Utgivare
+Det finns inga nya inlägg just nu
+Postlänk
+Tid
+Posta
+{name} har inte skrivit något ännu
+Sök
+På
+Av
+Spara
+Sparad!
+Reporter
+Tid rapporterad
+Det finns inga nya rapporter för närvarande.
+Öppna Post
+Markera säkert
+Ta bort inlägg
+Annonsinställning
+Mer inställning
+E-postlista
+Skicka
+Ämne..
+Meddelande..
+Meddelande
+Nytt meddelande
+Lägg till
+Visningar
+Det finns inga aktiva meddelanden.
+Det finns inga inaktiva meddelanden.
+Lägg till vän
+Följ
+Följande
+Följande
+Följare
+Meddelande
+Begärda
+Vänner
+Uppkopplad
+Off-line
+Du är för närvarande offline, aktivera chatten för att börja chatta.
+Inga offlineanvändare.
+Inga onlineanvändare.
+Sök efter användare
+Inga användare att visa
+Sett
+Ladda fler inlägg
+Ladda fler användare
+Inga resultat hittades för din fråga.
+Du har inga sparade inlägg.
+Meddelanden
+Skriva något ..
+Inget mer meddelande
+Visa fler meddelanden
+Tyvärr, du kan inte svara den här användaren.
+Välj en av dina vänner
+Och säg hej!
+Ladda ner
+Uppdatera din information
+Välj ditt användarnamn:
+Skapa ditt nya lösenord:
+Uppdatering
+Ta bort kommentar
+Är du säker på att du vill ta bort den här kommentaren?
+Är du säker på att du vill ta bort det här inlägget?
+Redigera inlägg
+Sessionen löpte
+Din session har löpt ut, vänligen logga in igen.
+Land
+Allt
+Kön
+Kvinna
+Manlig
+Profilbild
+Resultat
+Ja
+Nej
+Verifierad användare
+Ändra lösenord
+Nuvarande lösenord
+repetera lösenord
+Allmän
+Profil
+Integritet
+Radera konto
+Är du säker på att du vill ta bort ditt konto och lämna vårt nätverk?
+Nej, jag tänker
+Verifierad
+obekräftat
+Administration
+Användare
+Verifiering
+Typ
+Födelsedag
+Aktiva
+inaktiv
+Privata inställningar
+Vem kan följa mig?
+Alla
+Mina vänner
+Ingen kropp
+Människor jag följer
+Folk följer mig
+Bara jag
+Vem kan skicka meddelanden till mig?
+Vem kan skriva på min tidslinje?
+Visa mina aktiviteter?
+Show
+Dölj
+Bekräfta begäran när någon följer dig?
+Visa min senast sett?
+(t.ex.: http://www.siteurl.com)
+Profilinställning
+Fäst
+Pin Post
+Lossa inlägg
+Öppna inlägget i ny flik
+Avspara inlägg
+Spara inlägget
+Orapporterat inlägg
+Anmäl inlägg
+Delade detta inlägg
+ändrade sin profilbild
+ändrade sin profilbild
+Logga gärna in för att gilla, undra, dela och kommentera!
+Gillar
+Tycka om
+Undra
+Underverk
+Dela med sig
+Kommentarer
+Inga likes än
+Inga konstigheter än
+Skriv en kommentar och tryck enter
+Visa fler kommentarer
+Välkommen till ditt nyhetsflöde!
+Säg hej !
+Vad pågår? #Hashtag.. @Mention.. Länk..
+Youtube länk
+Vine Link
+SoundCloud-länk
+Var är du ?
+Posta
+Text
+Foton
+Ljud
+videoklipp
+Kartor
+Filer
+Följer inte någon användare
+Inga följare ännu
+Detaljer
+Sociala länkar
+Chatt
+Handla om
+Kontakta oss
+Integritetspolicy
+Villkor
+Utvecklare
+Språk
+© {date} {site_name}
+år
+månad
+dag
+timme
+minut
+andra
+år
+månader
+dagar
+timmar
+minuter
+sekunder
+sedan
+från nu
+när som helst nu
+Precis nu
+ungefär en minut sedan
+%d minuter sedan
+Ungefär en timme sedan
+%d timmar sedan
+en dag sen
+%d dagar sedan
+ungefär en månad sedan
+%d månader sedan
+för ungefär ett år sedan
+%d år sedan
+Senaste aktiviteterna
+Inga nya aktiviteter
+Trendigt!
+Ladda fler aktiviteter
+Inga fler aktiviteter
+Folk du kanske känner
+För länge
+För kort.
+Tillgängligt !
+I användning.
+Användarnamn får inte innehålla några specialtecken, symboler eller mellanslag.
+Gillade
+Mina sidor
+Gillade din sida ({page_name})
+Denna vecka
+inlägg
+Belägen i
+Telefon
+Företag
+Kategori
+Sök efter inlägg
+Skapa ny sida
+Sidnamn
+Namn på sidan
+Din sidtitel
+Sidkategori
+Sidbeskrivning
+Din sidbeskrivning, mellan 10 och 200 tecken max.
+Skapa
+Sidnamnet finns redan.
+Sidnamnet måste vara mellan 5/32
+Ogiltiga sidnamnstecken
+Redigera
+Sidinformation
+Ta bort sida
+Plats
+Sidor du kanske gillar
+Visa fler sidor
+Inga fler sidor att visa
+Är du säker på att du vill ta bort den här sidan?
+Hantera sidor
+Ägare
+Inga sidor att visa
+Undra
+Ansluta
+Dela med sig
+Upptäck
+Hitta mer
+Mobilvänlig
+Wonder (NYHET), möjlighet att undra ett inlägg om du inte gillar det.
+Få kontakt med din familj och dina vänner och dela dina stunder.
+Dela det som är nytt och livets ögonblick med dina vänner.
+Upptäck nya människor, skapa nya kontakter och skaffa nya vänner.
+Hitta mer av det du letar efter med WoWonder Search.
+100 % skärmanpassningsbar på alla surfplattor och smartphones.
+Jobbar på
+Relation
+Ingen
+Avatar
+Omslag
+Bakgrund
+Tema
+Standard
+Min bakgrund
+Företagshemsida
+Gillade min sida
+Motvilja
+Ogillar
+ogillade ditt {postType} {inlägg}
+ogillade din kommentar &quot;{comment}&quot;
+ogillade {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;inlägg&lt;/a&gt;.
+Typ av andra inläggsknapp
+Grupp namn
+Grupptitel
+Mina grupper
+Skola
+Exempel: social, undrar, social sida
+Meddelande sett
+Rekommenderas för kraftfulla servrar
+Chattskrivsystem
+reCaptcha
+Instagram
+om du inte delar ditt besöksevenemang kommer du inte att kunna se andra personer som besöker din profil.
+Radera konto
+IP-adress
+Hantera grupper
+Är du säker på att du vill ta bort den här gruppen?
+Inga fler grupper att visa
+Visa fler grupper
+Medlemmar
+Verifieringsförfrågningar
+Kontrollera
+Strunta i
+Sida
+Inga nya verifieringsförfrågningar
+Stänga av användare
+Förbjudna
+Det finns inga förbjudna ips.
+Ogiltig ip-adress.
+IP-adressen har förbjudits.
+IP-adressen finns redan
+Vänligen lägg till en ip-adress
+IP-adressen har raderats
+Maila mig när
+Någon gillade mina inlägg
+Någon undrade mina inlägg
+Någon kommenterade mina inlägg
+Någon delade på mina inlägg
+Någon följde efter mig
+Någon gillade mina sidor
+Någon besökte min profil
+Någon nämnde mig
+Någon gick med i mina grupper
+Någon accepterade min vän/följ-förfrågan
+Någon skrev på min tidslinje
+Inga grupper att visa
+Gruppinformation
+Ta bort grupp
+Gruppnamnet finns redan.
+Ogiltiga tecken för gruppnamn
+Gruppnamnet måste vara mellan 5/32
+Inga förfrågningar att visa
+Ta bort
+Inga medlemmar att visa
+Gruppen har tagits bort
+Skapa ny grupp
+Mina spel
+Inga spel att visa
+Grupper
+Inga vänner än
+Har inte gått med i några grupper än
+Ladda fler sidor
+Ladda fler grupper
+Gå med i din grupp ({group_name})
+Lycklig
+Älskade
+Ledsen
+Mycket ledsen
+Arg
+Förvirrad
+Varm
+Bruten
+uttryckslös
+Häftigt
+Rolig
+Trött
+Härlig
+Välsignad
+Chockad
+Sömnig
+Söt
+Uttråkad
+Totalt antal användare
+Användare
+Sidor
+Spel
+Online-användare
+Senaste sökningar
+Klar
+Sökfilter
+Nyckelord
+Vad letar du efter?
+bytte profilomslag
+bytte hennes profilomslag
+Senaste spelen
+Du har inte skapat några album än.
+Skapa album
+Mina album
+Albumnamn
+Ladda upp
+Lägg till foton
+Svar
+Svara på kommentaren
+svarade på din kommentar &quot;{comment}&quot;
+nämnde dig i ett svar &quot;{comment}&quot;
+svarade på kommentaren &quot;{comment}&quot;
+gillade ditt svar &quot;{comment}&quot;
+undrade ditt svar &quot;{comment}&quot;
+ogillade ditt svar &quot;{comment}&quot;
+Vill du skicka ett meddelande till användare när jag besöker deras profil?
+om du inte delar med dig av dina senast sett, kommer du inte att kunna se andra personer som senast sågs.
+Vem kan se min födelsedag?
+människor gillar det här
+Bjud in vänner att gilla denna sida
+Bjud in dina vänner/följare
+Du har inga fler vänner att bjuda in
+Inbjudan
+bjöd in dig att gilla ({page_name})
+accepterade din begäran att gilla ({page_name})
+Uppmaning till handling
+Ring för att måladress
+Uppmaningswebbplatsen är ogiltig
+Avatar &amp; Cover
+Aktivera onlineanvändare att visa aktiva användare i sidofältet.
+Inte aktiv
+Kvinnor
+Män
+instrumentbräda
+Album
+namn
+Spelare
+Lägg till nytt spel
+Spelet har lagts till
+Den här webbadressen stöds inte
+Vänligen lägg till en speladress
+Aktiva meddelanden
+Inaktiva meddelanden
+Förbjuda
+Ny E-post
+Html tillåtet
+Skicka till min e-post
+Testmeddelande
+Anslutna medlemmar
+Anslutningsförfrågningar
+Verifierade sidor
+Fildelningstillägg (avgränsade med kommatecken)
+Ord som ska censureras, separerade med kommatecken (,)
+Ansluta sig
+Anslöt sig
+Begäran
+Redigera kommentar
+Senaste spelning:
+Spela
+Bekräfta begäran när någon går med i den här gruppen?
+Vem kan se gruppens inlägg?
+Anslutna användare
+Bor i
+Design
+Människor du kanske vill träffa
+lagt till nya foton
+känner
+reser till
+lyssnar på
+spelar
+tittar
+Känsla
+Reser till
+Tittar på
+Spelar
+Lyssnar på
+Vad känner du ?
+Vart reser du?
+Vad tittar du på ?
+Vad spelar du ?
+Vad lyssnar du på ?
+Vad gör du ?
+Studerar på
+Företagets webbplats är ogiltig
+Sidan har raderats
+omslagsbild.
+Föreslagna grupper
+accepterade din begäran om att gå med ({group_name})
+ombedd att gå med i din grupp
+Inga inlägg att visa
+Lägg till dina vänner till den här gruppen
+Det finns inga vänner att lägga till dem
+har lagt till dig i gruppen ({group_name})
+Grupptyp
+offentlig
+Privat
+Rapporter
+Inga ogillar ännu
+Ogillade
+Undrade
+Villkor Sidor
+Användarprofil Sekretess
+Aktivera det för att tillåta icke inloggade användare att se användarprofiler.
+Videouppladdning
+Aktivera videouppladdning för att dela och ladda upp videor till webbplatsen.
+Uppladdning av ljud
+Aktivera ljuduppladdning för att dela och ladda upp ljud till webbplatsen.
+Läs mer
+Läs mindre
+Lägg till ett foto.
+Visa din unika personlighet och stil.
+Eller hoppa över det här steget för nu.
+Spara och fortsätt
+Berätta om dig.
+Dela din information med vårt community.
+Få de senaste aktiviteterna från våra populära användare.
+Följ våra kända användare.
+Följ {number} och avsluta
+Ser bra ut.
+Du kommer att kunna lägga till mer i din profil senare.
+Ladda upp ditt foto
+Vänta..
+Användarnamn eller e-mail
+E-postinställning
+år gammal
+Vänners födelsedagar
+SMS-inställning
+Smidig laddning
+Boostade sidor är redan synliga för alla våra communitymedlemmar.
+Du är en {type_name}, du kan bara öka {can_boost} sidor samtidigt.
+Du är en {type_name}, du kan bara öka {can_boost} inlägg samtidigt.
+Det finns inga boostade sidor ännu.
+Det finns inga boostade inlägg ännu.
+Upptäck fler funktioner med {sitename} PRO-paket!
+Stjärna
+Varm
+Sista
+Vip
+Utvald medlem
+Se profilbesökare
+Visa / Göm senast sett
+Verifierad märke
+Inlägg marknadsföring&lt;br&gt;
+Sidreklam&lt;br&gt;
+0% rabatt
+10% rabatt
+20% rabatt
+60% rabatt
+För vecka
+Per månad
+Per år
+livstid
+Uppgradera nu
+Boostade inlägg
+Boostade sidor
+Lägg mig här
+Befordrad
+Hoppsan! Något gick fel.
+Försök igen
+Boosta sidan
+Sidförstärkt
+Ta bort boost-sidan
+Redigera sidinställningar
+Blockerade användare
+Avblockera
+CSS-fil
+Standarddesign
+Min CSS-fil
+Du kan designa din profil fullt ut genom att ladda upp din egen CSS-fil
+Bjud in dina vänner
+Skicka inbjudan
+Boost Post
+UnBoost Post
+Dra för att flytta omslaget
+Blockera användare
+Redigera användare
+Grattis! Du är nu en &lt;span style=&quot;color:{color}&quot;&gt;&lt;i class=&quot;fa fa-{icon} fa-fw&quot;&gt;&lt;/i&gt;{type_name}
+Börja bläddra bland de nya funktionerna
+Hoppsan, ditt konto verkar inte vara aktiverat än.
+Välj en metod nedan för att aktivera ditt konto.
+Via e-post
+Via telefonnummer
+Eller
+Skicka bekräftelsekod
+Fick du inte koden?
+Skicka igen
+Du bör få koden inom
+Bekräfta
+Telefonnummer (t.ex. +905...)
+Fel vid aktivering av ditt konto.
+Fel bekräftelsekod.
+Det gick inte att skicka bekräftelsekoden.
+Fel telefonnummer.
+Telefonnumret har redan använts.
+SMS har skickats.
+Ett fel uppstod när SMS:et skulle skickas, försök med ett annat nummer.
+Det gick inte att skicka bekräftelsekoden, välj en av aktiveringsmetoderna.
+E-post har skickats, vänligen kontrollera din inkorg eller skräppostmapp för aktiveringslänken.
+Gränsen har överskridits, försök igen senare.
+Fel när du skickade SMS:et, försök med ett annat nummer eller aktivera ditt konto via e-post genom att logga in på ditt konto.
+Gratis medlem
+Stjärnmedlem
+Het medlem
+Ultima medlem
+Vip medlem
+Moderator
+Medlemstyp
+Medlemskap
+Uppgradera
+Fel, försök igen senare.
+Uppgradera till PRO
+Inget svar
+Vänligen försök igen senare.
+Svarade!
+Samtalet avvisades
+Mottagaren har avböjt samtalet, försök igen senare.
+Nytt videosamtal
+vill videochatta med dig.
+Nedgång
+Acceptera och starta
+Kallelse
+Vänta på svar från din vän.
+Ni är vänner på {site_name}
+Du följer
+Se allt
+Mig
+Öka upp till {monthly_boosts} inlägg&lt;br&gt;
+Öka upp till {monthly_boosts} sidor&lt;br&gt;
+Öka upp till {yearly_boosts} inlägg&lt;br&gt;
+Öka upp till {yearly_boosts} sidor&lt;br&gt;
+Öka upp till {lifetime_boosts} inlägg&lt;br&gt;
+Öka upp till {lifetime_boosts} sidor&lt;br&gt;
+Bli Medlem
+Youtube
+Mina produkter
+Välj en betalningsmetod
+PayPal
+Kreditkort
+Bitcoin
+Kategorier
+Senaste produkterna
+Sök efter produkter
+Sök efter produkter i {category_name}
+Inga tillgängliga produkter att visa.
+Ladda fler produkter
+Sälj ny produkt
+Beskrivning
+Beskriv din produkt.
+Begagnade
+Ny
+Pris
+Ditt produktpris i USD-valuta ($), t.ex. (10,99)
+Redigera produkt
+Publicera
+Mer information
+Kontakta säljaren
+Av &lt;a href=&quot;{product_url}&quot;&gt;{product_name}&lt;/a&gt;, postat {product_time}, i &lt;a href=&quot;{product_category}&quot;&gt;{product_category_name}&lt;/a&gt;
+Betalningen avvisades, försök igen senare.
+Bekräftar betalning, vänligen vänta..
+Tjäna upp till ${amount} för varje användare du hänvisar till oss!
+Tjäna upp till ${amount} för varje användare du hänvisar till oss och kommer att prenumerera på något av våra proffspaket.
+Mina affiliates
+Aktuellt saldo
+Din affiliate länk är
+Ditt saldo är ${balance}, minsta begäran om uttag är ${m_withdrawal}
+Ditt saldo är
+PayPal e-post
+Belopp (USD)
+Begär uttag
+Betalningshistorik
+Belopp
+Tackade nej
+Godkänd
+Totalt antal röster
+Markera produkten som såld
+lagt till ny produkt för försäljning.
+produktnamn
+I lager
+Såld
+Svar
+Lägg till svar
+Autentiseras
+Välkommen tillbaka!
+Välkommen!
+Få kontakt med människor.
+Skaffa nya vänner.
+Dela dina minnen.
+Skapa nya relationer.
+Upptäck nya platser.
+Glömt ditt lösenord?
+Ogiltig uppmärkning, försök att återställa ditt lösenord igen
+Gå tillbaka
+Genom att skapa ditt konto godkänner du vårt
+Vänligen välj ett pris för din produkt
+Vänligen välj ett korrekt värde för ditt pris
+Ladda upp minst 1 foto
+Du har redan röstat på den här omröstningen.
+Du har redan en väntande begäran.
+Ogiltigt beloppsvärde
+Ogiltigt beloppsvärde, ditt belopp är:
+Ogiltigt beloppsvärde, minsta begäran om uttag är:
+Din förfrågan har skickats, du kommer snart att få ett e-postmeddelande angående betalningsinformationen.
+Stäng av aviseringsljudet
+Slå på aviseringsljud
+Visa {count} nya inlägg
+Lagra inlägg av
+Nytt ljudsamtal
+vill prata med dig.
+Ljudsamtal
+pratar med
+Marknadsföra
+Kommentar
+Förbi
+Ladda fler artiklar
+Blogg
+Inga artiklar hittades
+Senaste artiklarna
+Skapa ny artikel
+Mina artiklar
+Titel
+Innehåll
+Välj
+Taggar
+Miniatyr
+Publicerad
+Din artikel har uppdaterats
+Din artikel har lagts till
+Rubriken bör vara mer än 10 tecken
+Beskrivningen bör vara mer än 32 tecken
+Vänligen fyll i taggfältet
+Fel hittades, försök igen senare
+Postade {BLOG_TIME} i {CATEGORY_NAME}.
+skapat en ny artikel
+Forum
+Senaste inlägget
+ämne
+Sök efter trådar
+Skapa nytt ämne
+Hoppa till
+Mina trådar
+Mina meddelanden
+Rubrik
+Din post
+Svar
+Startad av
+Webbplatsadministratör
+Registrerad
+Svara på detta ämne
+Ämnesgranskning
+Ditt svar
+Lista över användare
+Inlägg räknas
+Remisser
+Senaste besöket
+Allmänna söktermer
+Sök efter term
+Sök i
+Sök i forum
+Sök i trådar
+Sök i meddelanden
+Endast sökämne
+trådar
+Postad
+Inga forum att visa
+Aldrig
+Inga svar att visa
+Inga trådar att visa
+Inga avsnitt att visa
+skrev
+Redigera ämne
+Ditt svar har sparats
+Ditt svar har lagts till
+Ditt forum har lagts till
+Hjälp
+Skriv in en eller flera söktermer, var och en måste bestå av minst 4 tecken
+evenemang
+Gående
+Intresserad
+Pastor
+inbjudna
+Du går
+Du är intresserad
+Start datum
+Slutdatum
+Händelse
+Inga händelser att visa
+Event som du kanske gillar
+Pågående människor
+Intresserade människor
+Inbjudna människor
+Ditt evenemang har lagts till
+Ditt evenemang har sparats.
+Du är säker på att du vill ta bort denna händelse
+Ladda mer
+Ämne
+Gå
+skapat en ny händelse
+Mina händelser
+är intresserad av ditt evenemang &quot;{event_name}&quot;
+går till ditt event &quot;{event_name}&quot;
+bjöd in dig till eventet &quot;{event_name}&quot;
+svarade på ditt ämne
+Filmer
+Översätt
+Genre
+Rekommenderad
+Mest tittade
+Stjärnor
+Inga filmer att visa
+Producent
+Släpp
+Kvalitet
+Mer som detta
+Plånbok
+Budgivning
+Klick
+URL
+Publik
+Välj en bild
+Fyll på balansen
+Fortsätta
+Ditt saldo har fyllts på av
+Reklam
+Är du säker på att du vill ta bort den här kampanjen? Den här åtgärden kan inte ångras.
+Ta bort kampanj
+Inga annonser hittades. Skapa ny annons och börja få trafik!
+Placering
+Sidofält
+Välj en sida eller ange en länk till din webbplats
+Berättelse
+Det maximala antalet kan inte överstiga 20 filer åt gången!
+Din status har lagts till!
+Skapa ny status
+Sponsrad
+Ditt meddelande har skickats
+Dölj inlägget
+Din begäran om verifiering kommer snart att övervägas!
+Verifiering av profilen!
+Grattis din profil är verifierad!
+Ladda upp dokument
+Ladda upp ett foto med ditt pass / ID och ditt distinkta foto
+Kopia av ditt pass eller ID-kort
+Ditt foto
+Välj ditt pass/id och foto!
+Passet/id-bilden måste vara en bild
+Användarbilden måste vara en bild
+Din förfrågan har skickats, inom en snar framtid kommer vi att överväga den!
+delad
+Inlägget har lagts till på din tidslinje!
+Viktig!
+Observera att om du ändrar användarnamnet kommer du att förlora verifieringen
+Vem kan se mina vänner?
+lade till din gruppadministratör
+lade till din sida admin
+Inga meddelanden här ännu.
+Konversationen har tagits bort!
+Stänga
+Avsluta grupp
+Rensa historik
+Gruppmedlemmar
+Lägg till deltagare
+Avbryt rapport
+Rapportera denna användare
+Rapportera denna sida
+Rapportera denna grupp
+Du har redan betygsatt den här sidan!
+Betyg
+Recensioner
