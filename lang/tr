@@ -1,0 +1,1000 @@
+Giriş
+Kayıt
+Konuk
+Kullanıcı adı
+E-posta
+Şifre
+Yeni Şifre
+Beni hatırla
+Ya ile giriş
+Parolanızı unuttunuz mu?
+E-posta
+Şifreyi Onayla
+Haydi gidelim !
+Kurtarmak
+Şifrenizi sıfırlamak
+Reset
+Geçersiz Jetonu
+Yanlış kullanıcı adı ya da parola
+Hesabınız devre dışı bırakıldı, lütfen bize ulaşın.
+Hesabınızı etkinleştirmek gerekiyor.
+Başarıyla Girildi, lütfen bekleyin ..
+Bilgilerinizi kontrol edin.
+Kullanıcı adı zaten var olduğunu.
+Kullanıcı adı 5/32 arasında olmalıdır
+Geçersiz kullanıcı adı karakterleri
+Geçersiz şifre karakteri
+E-posta kullanımda
+E-posta geçersiz.
+Şifre çok kısa.
+Şifre eşleşmiyor.
+Lütfen re-captcha&#039;yı kontrol edin.
+Başarıyla katıldı! Lütfen bekleyin ..
+Hesap Aktivasyonu
+Kayıt başarılı! Size bir e-posta gönderdik, e-postanızı doğrulamak için gelen / spam kontrol edin.
+Biz bu e-postayı bulamıyor.
+Parola sıfırlama isteği
+E-posta başarıyla gönderildi
+İsteğiniz işlenirken hata, lütfen tekrar deneyiniz bulundu
+Şifre başarıyla değiştirildi !
+Doğru tarih seçiniz.
+Ayar Başarıyla Güncellendi!
+Mevcut şifre eşleşmiyor
+Web sitesi geçersiz.
+Başarıyla silindi Hesap, lütfen bekleyin ..
+Ana Sayfa
+Gelişmiş Arama
+Kişiler, #hashtags ve şeyler ara
+Herhangi bir ürün bulunamadı
+Son Görülen:
+Kabul etmek
+Iptal
+Sil
+Profilim
+Kayıtlı Mesajlar
+Ayarlar
+Yönetici Alanı
+Çıkış Yap
+Bildirim yok
+Istekler yok
+Seni takip etti.
+Bir yorumum sizden bahsetti.
+Bir yayında sizden bahsetti.
+Zaman çizelgesi Yayınlanan.
+Profilinizi ziyaret etti.
+Arkadaşlık isteğin kabul edildi.
+Senin takip talebi kabul etti.
+Yorumunuzu Beğendi &quot;{comment}&quot;
+Yorumunuzu merak etti &quot;{comment}&quot;
+Senin {postType} Beğendi {post}
+Senin {postType} merak etti {post}
+Senin {postType} paylaştı {post}
+Senin {postType} yorumlananlar {post}
+{user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt; beğendi.
+Wondered {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+Shared {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+Commented on {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+video
+post
+fotoğraf
+dosya
+vine video
+ses
+profil fotoğrafı
+404 Hatası
+Maalesef sayfa bulunamadı!
+Aradığınız sayfa bulunamadı. Buraya ve tekrar denemek için izlenen linki kontrol edin.
+Hesabınız başarıyla aktive edildi!
+Sen serbestsin &lt;a href=&quot;http://localhost/wowonder_update&quot;&gt;{login}&lt;/a&gt; ! için
+Genel Ayar
+Üye Girişi Ayarı
+Kullanıcıları Yönet
+Mesajlar Yönet
+Raporlar Yönet
+Reklâm
+daha
+Önbellek Sistemi
+Sohbet Sistemi
+E-posta Doğrulama
+E-posta Bildirimi
+Pürüzsüz Bağlantılar
+SEO dost URL
+Dosya paylaşımak
+Temalar
+Kullanıcı ayarları
+Sitede Ayarı
+Web sitenizi hızlandırmak için önbellek sistemi etkinleştirin, 10.000 &#039;den fazla aktif kullanıcı önerilir.
+Sayfanın altındaki arkadaşlarınızla sohbet etmek için sohbet sistemini etkinleştirme
+Kullanıcı kayıt sırasında aktivasyon bağlantısını göndermek için e-posta doğrulama etkinleştirin.
+E-posta yoluyla kullanıcı bildirim göndermek için e-posta bildirimi etkinleştirin.
+Pürüzsüz bağlantıları etkinleştirme, e.g.http://localhost/wowonder_update/home.
+SEO dostu url etkinleştirme, e.g.http://localhost/wowonder_update//1_hello-how-are-you-doing.html
+Paylaşmak &amp; vb video, görüntü, dosyaları, sesler, yüklemek için Dosya paylaşımını etkinleştirin ..
+Önbellek
+Site Bilgileri
+Site Adı &amp; Başlık:
+Site adı
+Site başlığı
+Sitede Anahtar kelimeler ve Açıklama:
+Site Anahtar kelimeler (eg: social,wownder ..)
+Site Açıklaması
+Site E-posta
+Varsayılan dil
+Tema Ayarı
+Aktif
+Sürüm:
+Yazar:
+Kullanıcı durumu
+(çevrimiçi / son görüldüğü)
+Etkinleştirmek
+Devre dışı
+Kullanıcıların kendi hesabını silmek için izin verin:
+Profil ziyaret bildirimi:
+Ekran kullanıcı yaşı olarak:
+Tarih
+Yaş
+Bağlantı Sistemi:
+&lt;span style=&quot;color:red;&quot;&gt;Not:&lt;/span&gt; Eğer bir sistemden diğerine göç, tüm mevcut followings, takipçileri, arkadaşlar, üyelikleri sorunları önlemek için silinir.&lt;/small&gt;
+Arkadaşlar Sistemi
+Takip Sistemi
+Max upload size:
+Maksimum yükleme boyutu:
+İzin Uzantıları:
+Tuttum Ayarı
+Tuttum anahtarı gereklidir
+Tuttum Anahtarı:
+Google Analiz
+Google Analytics Kodu:
+Önbellek Ayarı
+Oldukça önbelleği temizlemek için tavsiye edilir.
+Önbellek Boyutu:
+Önbelleği
+Sosyal giriş
+Sosyal giriş APIler
+Facebook
+Google+
+Twitter
+Linkedin
+Vkontakte
+Facebook API
+Google API
+Twitter API
+Linkedin API
+Vkontakte API
+App Kimliği
+App Gizli Anahtarı
+İle giriş
+ID
+Kaynak
+Statü
+Bekleyen
+İsim
+Soyadı
+Benim hakkımda
+Web Sitesi
+Aksiyon
+Daha fazla kullanıcı göster
+Artık kullanıcılar göstermek için
+Bu kullanıcıyı silmek istediğinizden emin misiniz?
+Bu mesajı silmek istediğinizden emin misiniz?
+Daha fazla mesajları göster
+Daha mesajlar yok
+Mesajlar yok
+Yayımcı
+Henüz okunmamış Mesaja vardır
+Mesaj bağlantı
+Zaman
+Mesaj
+{name} bir şey yayınlamadı
+Aramak
+Açık
+Kapalı
+Kaydet
+Kaydedilen!
+Muhabir
+Bildiren Zaman
+Henüz yeni raporlar vardır.
+Henüz Raporlar Vardır Yeni.
+Mark Güvenli
+Sil
+Reklam Ayarı
+Daha Ayar
+Mail listesi
+Gönder
+Konu ..
+Mesaj..
+Duyuru:
+Yeni duyuru ..
+Ekle
+Görüntüler
+Aktif duyurular hiç yok.
+Aktif değil duyurular hiç yok.
+Arkadaş ekle
+Takip et
+Aşağıdaki
+Aşağıdaki
+İzleyiciler
+Mesaj
+İstenen
+Arkadaşlar
+Çevrimiçi
+Çevrimdışı
+Şu anda çevrimdışı olan
+Hiçbir çevrimdışı kullanıcıları.
+Hiçbir online kullanıcılar.
+Kullanıcıları için ara
+Kullanıcı bulunamadı.
+Görülme
+Daha fazla Mesajları yükle
+Daha fazla kullanıcı yükle
+Bulunan hiçbir etiket bulunmamaktadır.
+Kaydedilmiş bir konu bulunmuyor.
+Mesajlar
+Bir şey yaz ..
+Artık mesajı
+Daha fazla ileti görüntüle
+Maalesef, bu kullanıcı cevap veremezsiniz.
+Arkadaşlarınızla birini seçin
+Ve Merhaba Deyin!
+İndir
+Bilgilerinizi güncelleyin
+Kullanıcı adınızı seçin:
+Yeni şifrenizi oluşturun:
+Güncelleme
+Yorum Sil
+Bu yorumu silmek istediğinizden emin misiniz?
+Eğer bu mesajı silmek istediğinizden emin misiniz?
+Düzenle
+Oturum süresi doldu
+Sizin Oturum süresi dolmuş olması, tekrar giriş yapınız.
+Ülke
+Hepsi
+Cinsiyet
+Dişi
+Erkek
+Profil fotoğrafı
+Sonuç:
+Evet
+Hayır
+Doğrulanmış Kullanıcı
+Şifre değiştir
+Şifreniz
+Şifreyi tekrar girin
+Genel
+Profil
+Gizlilik
+Hesabım sil
+Hesabınızı silmek ve ağımızı ayrılmak istediğinizden emin misiniz?
+Hayır, bence olacak
+Doğrulanmış
+Doğrulanmadı
+Yönetici
+Kullanıcı
+Doğrulama
+Tip
+Doğum Günü
+Aktif
+Pasif
+Gizlilik ayarı
+Kim beni takip edebilirim?
+Herkes
+Arkadaşlarım
+hiçbir vücut
+İnsanlar izleyin
+İnsanlar beni takip etti
+Sadece ben
+Kim bana mesaj olabilir?
+Benim zaman çizelgesi üzerinde kim gönderebilir?
+Benim faaliyetleri göster?
+Göster
+Gizl
+Birisi size izlediğinde isteği onaylayın?
+Benim son görüldüğü göster?
+(örneğin: http://www.siteurl.com)
+Profil Ayarı
+Sabitlenmiş
+Pim
+Kaldırılıncaya
+Yeni sekmede aç sonrası
+Kaydetme Seçeneğini
+Kaydet Mesaj
+Rapor sil
+Rapor
+Bu yazı paylaştı
+Onun profil resimlerini değiştirdi
+Onun profil resimlerini değiştirdi
+Merak, pay gibi ve Yorumlamak için giriş yapınız!
+Beğeniler
+Beğen
+Merak et
+Merakler
+Paylaş
+Yorumlar
+Hiç beğeniler yok
+Hiç merakler yok
+Bir yorum yazın ve enter tuşuna basın ..
+Daha fazla yorum
+Hoş geldiniz!
+Merhaba de !
+Ne söylemek istersin ? #Hashtag .. @Mansiyon ..
+Youtube Bağlantısık
+Vine Bağlantı
+Soundcloud Bağlantı
+Neredesin ?
+Gönder
+Metin
+Resimler
+Sesler
+Videolar
+Haritalar
+Dosyalar
+Herhangi kullanıcıları takip Değil
+Henüz takipçileri
+Detaylar
+Sosyal Bağlantılar
+Çevrimiçi arkadaş
+Yaklaşık
+Bize Ulaşın
+Gizlilik Politikası
+Kullanım Şartları
+Geliştiriciler
+Dil
+© {date} {site_name}
+yıl
+ay
+gün
+saat
+dakika
+saniye
+yıllar
+aylar
+günler
+saatler
+dakika
+saniye
+önce
+şu andan itibaren
+Şimdi her an
+Şu anda
+yaklaşık bir dakika önce
+%d dakika önce
+yaklaşık bir saat önce
+%d saatler önce
+bir gün önce
+%d gün önce
+yaklaşık bir ay önce
+%d aylar önce
+yaklaşık bir yıl önce
+%d yıllar önce
+Son Aktiviteler
+Aktiviteler yok
+Trend!
+Daha fazla faaliyetleri yükle
+Daha faaliyetler yok
+Tanıyor olabileceğin kişiler
+Too long
+Too short.
+Available !
+In use.
+Username should not contain any special characters, symbols or spaces.
+Beğendim
+Benim Sayfalar
+Sayfanızı Beğendi ({page_name})
+Bu hafta
+Mesajları
+Bulunan
+Telefon
+şirket
+Kategori
+Mesajları ara
+Yeni Sayfa Oluştur
+Sayfa adı
+Sayfa başlığı
+Sizin sayfa başlık
+Sayfa Kategori
+Sayfa açıklaması
+10 ve 200 karakter max Arasında Sayfanız açıklama
+Yarat
+Sayfa adı zaten var olduğunu.
+Sayfa adı 5/32 arasında olmalıdır
+Geçersiz sayfa adı karakterleri
+Düzenleme
+Sayfa Bilgileri
+Sayfayı Sil
+Konum
+Eğer gibi olabilir Sayfalar
+Daha fazla sayfa göster
+Yok daha fazla sayfa göstermek için
+Bu sayfayı silmek istediğinizden emin misiniz?
+Sayfaları Yönet
+Sahib
+Hiçbir sayfalar bulunamadı
+şaşkınlık
+Bağlamak
+Pay
+Keşfedin
+Daha fazla bul
+Mobil Dostu
+Eğer beğenmezseniz bir yazı merak (YENİ), yetenek Wonder.
+Aileniz ve arkadaşlarınızla bağlamak ve anları paylaşmak.
+Arkadaşlarınızla yeni ve yaşam anları ne paylaşın.
+Yeni insanlarla keşfedin, yeni bağlantılar oluşturmak ve yeni arkadaşlar.
+Eğer WoWonder Arama ile aradığınızı daha bulun.
+Tüm tabletler ve akıllı telefonlarda uyarlanabilir %100 ekran.
+Çalışmak
+ilişki
+Hiçbiri
+Avatar
+Kapak
+Geçmiş
+Tema
+Standart
+Benim Arkaplan
+Şirket Web Sitesi
+Benim Sayfam Beğendi
+Beğenmeme
+Sevmedikleri
+senin {postType} sevmiyordu {post}
+sevilmeyen Yorumunuzu &quot;{comment}&quot;
+Sevmediği {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt; yazılan &lt;/a&gt;.
+İkinci sonrası düğmesi tipi
+Grup ismi
+Grup başlık
+Gruplar
+Okul
+Örnek: Sosyal, wowonder, sosyal sitesi
+İleti Seen
+Güçlü sunucular için önerilen
+Sohbet yazarak sistemi
+Tuttum
+Instagram
+Eğer ziyaret olayı paylaşmak yoksa, profilinizi ziyaret eden diğer kişileri görmek mümkün olmayacaktır.
+Hesabı sil
+IP adresi
+Grupları Yönet
+Bu grubu silmek istediğinizden emin misiniz?
+Artık gruplar göstermek için
+Daha fazla gruplar göster
+Üyeler
+Doğrulama İstekleri
+Doğrulamak
+Ignore
+Sayfa
+Yeni doğrulama istekleri
+Ban User
+Yasaklı
+Hiçbir yasak ips bulunmamaktadır.
+Geçersiz IP adresi.
+IP adresi başarıyla yasaklandı.
+IP adresi zaten mevcut
+Bir ip adresinizi ekleyiniz
+IP adresi başarıyla silindi
+Bana e-posta
+Birisi Mesajları sevdim
+Birisi Mesajları merak
+Birisi benim mesajlar yorumladı
+Birisi benim yazılarda paylaştı
+Biri beni takip
+Birisi sayfalarını sevdim
+Birisi profilimi ziyaret
+Biri bana söz
+Birisi grupları katıldı
+Birisi arkadaşım / takip et requset kabul
+Birisi benim zaman çizelgesi yayınlanan
+Grup bulunamadı
+Grup bilgileri
+Grubu Sil
+Grup adı zaten var olduğunu.
+Geçersiz grup adı karakter
+Grup ismi 5/32 arasında olmalıdır
+İstek bulunamadı!
+Kaldır
+Üye bulunamadı
+Grup başarıyla silindi
+Yeni Grup Oluştur
+Benim Oyunlar
+Hiçbir oyun bulunamadı
+Gruplar
+Hiç arkadaşım yok
+Henüz hiçbir gruba katılmadı
+Daha fazla sayfaları yük
+Daha fazla gruplar yükle
+Kayıt grup ({group_name})
+Mutlu
+Sevilen
+Üzgün
+Çok üzgün
+kızgın
+Şaşkın
+Sıcak
+Broken
+ifadesiz
+Güzel
+Komik
+Yorgun
+Güzel
+Mübarek
+Şokta
+Uykulu
+Oldukça
+Bıkkın
+Toplam Kullanıcılar
+Kullanıcılar
+Sayfalar
+Oyunlar
+Çevrimiçi Kullanıcılar
+Son aramalar
+Açık
+Arama filtresi
+Kelime
+Ne arıyorsun?
+Onun profil kapağı Değiştirildi
+Onun profil kapağı Değiştirildi
+Son Eklenen Oyunlar
+Albüm bulunamadı
+Albüm oluştur
+Albümlerim
+Albüm adı
+Yükleme
+Fotoğraf ekle
+Cevaplar
+Yorumu yanıtla
+Yorumlarınız yanıtladı &quot;{comment}&quot;
+bir cevapta sizden bahsetti &quot;{comment}&quot;
+yorumuna cevap verdi, &quot;{comment}&quot;
+Cevabınızı &quot;{comment}&quot; sevdi
+Cevabınızı &quot;{comment}&quot; merak
+Cevabınızı &quot;{comment}&quot; sevmiyordu
+Ben kendi profilini ziyaret ettiğinizde kullanıcılara bir bildirim gönder?
+Eğer son görüldüğü paylaşmak yoksa, son görüldüğü diğer insanları görmek mümkün olmayacaktır.
+Kim benim doğum günüm görebilir?
+Bu gibi insanlar
+Sayfaya sevmeye arkadaşlarınızı davet edin
+Arkadaşların / takipçileri davet
+Davet etmek artık arkadaş yok
+Davet etmek
+Hoşunuza davet etti ({page_name})
+İsteğiniz sevmeye kabul edilir ({page_name})
+Eylem çağrısı
+Url hedef Çağrı
+Eylem web Çağrı geçersiz
+Avatar &amp; Kapak
+Kenar çubuğundaki aktif kullanıcıya göstermek için çevrimiçi kullanıcıları etkinleştirin.
+Aktif değil
+Dişiler
+Erkekler
+Dashboard
+Albümler
+Isim
+Oyuncular
+Yeni Oyun Ekle
+Oyun eklendi
+Bu url desteklenmiyor
+Bir oyun url ekleyin
+Aktif duyurular
+Etkin olmayan duyurular
+Yasak
+Yeni e-posta
+Html izin
+Benim e-posta gönder
+Deney mesajı
+Katılım Üyeler
+İstekler katılın
+Doğrulanmış Sayfalar
+Dosya paylaşımı uzantıları (virgül ile ayrılmış)
+Kelimeler sansür edilmesi, virgülle ayrılmış (,)
+Katılmak
+Katılım
+İstek
+Düzenleme Yorum
+Son Oyun:
+Oyna
+Birisi bu gruba katılmadan isteği onaylayın?
+Kim grubun mesajları görebilirim?
+Katılım kullanıcılar
+Yaşayan
+Dizayn
+İnsanlar karşılamak isteyebilirsiniz
+eklenen yeni fotoğraf
+duygu olduğunu
+için seyahat ediyor
+dinliyor
+oynuyor
+izliyor
+Duygu
+Seyahat
+İzlenen
+Oynama
+Dinliyorum
+Ne hissediyorsun ?
+Nereye seyahat?
+Ne izliyorsun ?
+Ne oynuyorsun ?
+Ne dinliyorsun ?
+Ne yapıyorsun ?
+Öğrenim
+Şirket web sitesi geçersiz
+Sayfa başarıyla silindi
+Kapak resmi.
+Önerilen gruplar
+İsteğiniz katılmak için kabul edilir ({group_name})
+senin gruba katılmak istedi
+Henüz hiç kimse gönderildi
+Bu gruba arkadaşlarınızı ekleyin
+Eklemek için hiçbir arkadaş yok
+sizi grubuna ekledi ({group_name})
+Grup türü
+Kamu
+Özel
+Raporlar
+Henüz sevmeyen
+Sevmediği
+Merak eti
+Şartlar Sayfalar
+Kullanıcı Profili Gizlilik
+Olmayan açmış olan kullanıcılar profillerini görüntülemek için izin için etkinleştirin.
+Video Yükleme
+Paylaşmak ve siteye video yüklemek için video upload etkinleştirin.
+Ses Yükleme
+Paylaşmak ses yükleme etkinleştirin ve upload sitesine geliyor.
+Daha fazla..
+Az Oku..
+Bir fotoğraf ekle.
+Eşsiz karakterini ve tarzını yansıt.
+Bu adımı şimdilik atla
+Kaydet ve Devam Et
+Senin hakkında bilgi verin.
+Eden ile bilgilerinizi paylaşın.
+Bizim popüler kullanıcılardan son faaliyetleri alın.
+Bizim ünlü kullanıcıları izleyin.
+{number} Takip et ve bit
+İyi görünüyor.
+Daha sonra profiline yeni şeyler ekleyebilirsin.
+Fotoğrafını yükle
+Lütfen bekleyin..
+Kullanıcı adı ya da email
+E-posta Ayarı
+yaşında
+Arkadaşlarının Doğumgünü
+SMS Ayarları
+Düzgün Yükleme
+Yükseltilen sayfalar tüm kullanıcılarımız tarafından görüntülenebilir.
+Sen bir {type_name}, aynı zamanda {can_boost} sadece sayfaları yükseltebilirsin.
+Sen bir {type_name}, aynı zamanda {can_boost} sadece mesajları yükseltebilirsin.
+Henüz yükseltilmiş sayfa bulunmuyor.
+Henüz yükseltilmiş mesaj bulunmuyor.
+{sitename} PRO paketleri ile daha fazla özellik keşfedin !
+Yıldız
+Sıcak
+Ultima
+Vip
+Önerilen üye
+Profil ziyaretçilerini gör
+Son görünmeyi Göster / Gizle
+Onaylanmış rozet
+Mesaj tanıtımı&lt;br&gt;&lt;small&gt;(Mevcut değil)&lt;/small&gt;
+Sayfa tanıtımı&lt;br&gt;&lt;small&gt;(Mevcut değil)&lt;/small&gt;
+0% indirim
+10% indirim
+20% indirim
+60% indirim
+Haftada
+Her ay
+Yıl başına
+ömür boyu
+Hemen Yükselt
+yükseltılan Mesajlar
+yükseltılan Sayfalar
+buraya koy
+Tanıtılan
+Hata ! Bir şeyler yanlış gitti.
+Tekrar deneyin
+Sayfa yükselt
+yükseltılan Sayfa
+Sayfayı yükseltma
+Sayfa Ayarlarını Düzenle
+Bloklu Kullanıcılar
+Blok yükselt
+CSS dosyası
+Varsayılan dizayn
+CSS dosyam
+Kendi Css dosyanızı yükleyerek profilinizi tamamen siz tasarlayabilirsiniz.
+Arkadaşlarını Davet Et
+Davetiye gönder
+Boost Post
+Un-Boost Post
+Kapağı yeniden konumlandırmak için sürükleyin
+Kullanıcı Blok
+Kullanıcıyı Düzenle
+Tebrikler ! Artık sen bir &lt;span style=&quot;color:{color}&quot;&gt;&lt;i class=&quot;fa fa-{icon} fa-fw&quot;&gt;&lt;/i&gt;{type_name}
+Yeni özellikleri taramaya başlayın
+Hata, hesabınız henüz aktif edilmemiş gibi görünüyor.
+Hesabınızı etkinleştirmek için aşağıda ki yöntemlerden birini seçiniz.
+E-mail ile
+Telefon Numarası ile
+yada
+Onay Kodu Gönder
+Onay kodunu almadınız mı?
+Tekrar gönder
+içinde kodu almalısınız
+Onayla
+Telefon Numarası (örn. +905...)
+Hesabınızı onaylarken hata oluştu.
+Yanlış onay kodu.
+Onay kodu gönderilirken hata oluştu.
+Yanlış telefon numarası.
+Telefon numarası kullanılıyor.
+SMS başarıyla gönderildi.
+SMS gönderilemiyor, lütfen farklı numara deneyiniz.
+Onay kodu gönderilemiyor, lütfen aktivasyon yöntemlerinden birini seçiniz.
+E-mail gönderildi, aktivasyon linki için lütfen mesaj kutunuzu yada spam kutusunu kontrol ediniz.
+Limit aşıldı, lütfen daha sonra tekrar deneyin.
+SMS gönderilemiyor, lütfen başka bir numara deneyiniz yada hesabınıza giriş yaparak hesabınızı mail ile etkinleştiriniz.
+Ücretsiz üye
+Yıldız üye
+Sıcak Üye
+Ultima Üye
+Vip Üye
+Moderator
+Üye Türü
+Üyelik
+Yükselt
+Hata, Lütfen daha sonra tekrar deneyin.
+Pro&#039;ya yükselt
+Cevap yok
+Lütfen daha sonra tekrar deneyiniz.
+Yanıtlanan !
+çağrı reddedildi
+Alıcı çağrıyı reddetti, daha sonra tekrar deneyin.
+Yeni video görüşmesi
+Sizinle görüntülü sohbet etmek istiyor.
+düşüş
+Kabul Et ve Başlaı
+çağrı
+Arkadaşınız, video sohbet başlatmak için cevap için bekleyin.
+Üzerinde dostuz {site_name}
+İzlediğiniz
+Hepsini gör
+Ben
+{monthly_boosts} mesaj yükselt&lt;br&gt;&lt;small&gt;({monthly_boosts} aynı zamanda 7/24)&lt;/small&gt;
+{monthly_boosts} sayfa yükselt&lt;br&gt;&lt;small&gt;({monthly_boosts} aynı zamanda 7/24)&lt;/small&gt;
+{yearly_boosts} mesaj yükselt&lt;br&gt;&lt;small&gt;({yearly_boosts} aynı zamanda 7/24)&lt;/small&gt;
+{yearly_boosts} sayfa yükselt&lt;br&gt;&lt;small&gt;({yearly_boosts} aynı zamanda 7/24)&lt;/small&gt;
+{lifetime_boosts} mesaj yükselt&lt;br&gt;&lt;small&gt;({lifetime_boosts} aynı zamanda 7/24)&lt;/small&gt;
+{lifetime_boosts} sayfa yükselt&lt;br&gt;&lt;small&gt;({lifetime_boosts} aynı zamanda 7/24)&lt;/small&gt;
+Kaydol
+YouTube
+Ürünlerim
+Bir ödeme yöntemi seçin
+PayPal
+Kredi Kartı
+Bitcoin
+Kategoriler
+Yeni ürünler
+Ürün ara
+Ürünlerde ara {category_name}
+Kullanılabilir bir ürün bulunamadı
+Daha fazla ürün göster
+Yeni bir ürün sat
+Açıklama
+Ürününüzü açıklayın
+Kullanılan
+Yeni
+Fiyat
+Ürün fiyatı dolar para birimi cinsinden ($), ör: (10.99)
+Ürün düzenle
+Yayınla
+Daha fazla bilgi
+Satıcı olmak için başvurun
+Satışda olan ürün: &lt;a href=&quot;{product_url}&quot;&gt;{product_name}&lt;/a&gt;, Satışa başladığı zaman: {product_time}, Satış kategorisi: &lt;a href=&quot;{product_category}&quot;&gt;{product_category_name}&lt;/a&gt;
+Ödeme reddedildi, lütfen daha sonra tekrar deneyin.
+Ödeme kontrol ediliyor, lütfen bekleyin.
+Her kullanıcıdan ${amount} daha fazla kazanmak için bizi izleyin.
+Her kullanıcıdan ${amount} kazanmak için daha fazla pro paketlerimize abone olacak.
+Benim referanslarım
+Bakiyem
+Referans adresi
+Bakiyeniz ${balance}, minimum çekebileceğiniz tutar ${m_withdrawal}
+Bakiyeniz
+PayPal e-posta adresi
+Tutar (USD)
+Para çekme talebi
+Ödeme tarihi
+Tutar
+Reddedildi
+Onaylandı
+Toplam oy
+Satılan ürün
+Yeni ürün satış için eklendi
+Ürün adı
+Stokda kaç adet var
+Satılan
+Cevap
+Cevap ekle
+Kimlik doğrulama
+Tekrar hoşgeldiniz!
+Hoşgediniz!
+İnsanlarla sürekli bağlantıda ol.
+Yeni arkadaşlar edin.
+Anılarını paylaş.
+Yeni bir ilişki oluştur.
+Yeni yerler keşfet.
+Şifreni mi unuttun?
+Geçersiz karakter kullandınız lütfen tekrar deneyin.
+Geri git
+Hesabınızı oluşturduğunuzda gizlilik şartlarımızı kabul etmiş sayılırsınız.
+Lütfen dürtmek için bir fiyat seçiniz
+Lütfen fiyatı güncellerken bir değer giriniz
+Lütfen en az bir fotoğraf yükleyin
+Zaten bu ankete oy kullandın
+Bekleyen bir isteğin var
+Geçersiz bir miktar yazdın
+Geçersiz bir miktar yazdınız, bu tutar geöerli değildir:
+Geçersiz tutar yazdınız minimum para çekme talebi:
+Para çekme isteğiniz başarı bir şekilde bize ulaştı yakında bununla ilgili bir e-posta göndereceğiz.
+Bildirim sesini kapat
+Bildirim sesini aç
+Yeni mesajları görüntüle {count}
+Mağazada paylaşan
+Yeni sesli çağrı
+Seninle konuşmak istiyor.
+Sesli arama
+ile konuşmak
+Piyasa
+Yorum Yap
+Tarafından
+Daha fazla makale yükle
+Blog
+Makale bulunamadı
+En yeni makaleler
+Yeni makale oluştur
+Makalelerim
+Başlık
+İçerik
+Seç
+Etiketler
+Küçük resim
+Yayınlanan
+Makaleniz başarıyla güncellendi
+Makalen başarıyla eklendi
+Başlık en fazla 10 karakter olmalıdır
+Açıklama 32 karakterden uzun olmalı
+Lütfen etiketler alanını doldurun
+Hata bulundu, lütfen daha sonra tekrar deneyin.
+Yayınlanan {BLOG_TIME} {CATEGORY_NAME} da.
+Yeni makale yazdı
+forum
+Son Posta
+konu
+Konular arama
+Yeni konu oluştur
+Atlamak
+Konuları ekle
+Mesajlarım
+manşet
+Senin gönderin
+cevap
+Başlatan
+Site Yöneticisi
+Kayıtlı
+Bu konuyu cevapla
+Konu incelemesi
+Cevabınızı
+Kullanıcı listesi
+Mesaj sayısı
+Tavsiye
+Son ziyaret
+Genel arama terimleri
+Terimi ara
+Araştır
+Forumlarda Ara
+Konuları ara
+Mesajlarda ara
+Sadece konu ara
+ipler
+Gönderildi
+Hiçbir forum bulunamadı
+Asla
+Yanıt bulunamadı
+Konu bulunamadı
+Gösterilecek bölüm yok
+yazdı
+Konuyu düzenle
+Yanıtınız başarıyla kaydedildi
+Yanıtınız başarıyla eklendi
+Forumunuz başarıyla eklendi
+yardım et
+Bir veya daha fazla arama terimi girin, her En Az 4 karakter olmalıdır
+Olaylar
+gidiş
+ilgili
+geçmiş
+Davetli
+Gidiyorsun
+İlgilisin
+Başlangıç tarihi
+Bitiş tarihi
+Olay
+Etkinlik bulunamadı
+Beğeneceğiniz etkinlikler
+İnsanlara gidiyor
+İlgilenen insanlar
+Davet edilenler
+Etkinliğiniz başarıyla eklendi
+Etkinlik kaydedildi
+Sen bu etkinliği silmek istediğinizden emin misiniz
+daha fazla yükle
+konu
+Gitmek
+Yeni bir etkinlik yarattı
+Etkinliklerim
+"{Event_name}" etkinliğinizle ilgileniyor.
+"{Event_name}" etkinliğine gidiyor
+Sizi "{event_name}" etkinliğine davet etti.
+Cevabınız cevaplandı
+Filmler
+çevirmek
+tarz
+Tavsiye
+En çok izlenen
+yıldız
+Filmlerde Bulunan
+yapımcı
+salıverme
+kalite
+Buna benzer
+Cüzdan
+teklif verme
+Tıklanma
+URL
+seyirci
+Bir resim seçin
+Bakiyemi yenile
+Devam et
+Bakiyeniz, tarafından yeniden dolduruldu.
+Ilan
+Bu reklamı silmek istediğinizden emin misiniz
+Reklamı sil
+Hiç ilan bulunamadı
+Yerleştirme
+Kenar çubuğu
+Bir sayfa seçin veya sitenize bir bağlantı girin
+Öykü
+Maksimum sayı, aynı anda 20 dosya aşamaz!
+Durumunuz başarıyla eklendi!
+Yeni Durum Oluştur
+Sponsor
+Bildiriminiz başarıyla gönderildi
+Postayı gizle
+Doğrulama isteğiniz yakında değerlendirilecek!
+Profilin doğrulanması!
+Tebrikler, profiliniz doğrulandı!
+Belgeleri yükle
+Lütfen pasaportunuzla bir fotoğraf yükleyin / kimliği ve amp; Farklı fotoğrafın
+Pasaport / kimlik kartı
+Senin resmin
+Lütfen pasaportunuzun / kimlik numaranızı ve fotoğrafınızı seçin!
+Pasaport / id resmi bir resim olmalıdır
+Kullanıcı resmi bir resim olmalıdır
+İsteğiniz başarıyla gönderildi, çok yakın bir zamanda bunu düşünüyoruz!
+Paylaşılan
+Mesaj, zaman çizelgesine başarıyla eklendi!
+Önemli!
+Kullanıcı adını değiştirirseniz doğrulamayı kaybedeceğinizi lütfen unutmayın
+Arkadaşlarımı kim görebilir?
+Grup yöneticisi ekledi
+Size sayfa admin ekledi
+Henüz mesaj yok.
+İleti dizisi silindi!
+Kapat
+Grubundan çık
+Geçmişi temizle
+Grup üyeleri
+Katılımcı ekle
+Raporu İptal Et
+Bu kullanıcıyı rapor et
+Bu sayfayı bildir
+Bu Grubu Rapor Et
+Bu sayfaya zaten puan verdiniz!
+Değerlendirme
+yorumlar
