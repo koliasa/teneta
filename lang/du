@@ -1,0 +1,1000 @@
+Inloggen
+Registereren
+Gast
+Gebruikersnaam
+E-mail
+Wachtwoord
+Nieuw wachtwoord
+Onthoud mij
+Of login met
+Wachtwoord vergeten?
+Email
+Bevestig wachtwoord
+Ga verder!
+Recover
+Reset Je Wachtwoord
+Reset
+Verkeerde sleutel
+Gebruikersnaam of wachtwoord klopt niet
+Je account is inactief gesteld. Neem contact op met account@babster.nl.
+Je moet je account eerst activeren.
+Succesvol ingelogt, een momentje..
+Controleer je details.
+Gebruikersnaam bestaad al.
+Gebruikersnaam moet tussen de 5 en 32 tekens lang zijn
+Ongeldige tekens in je gebruikersnaam
+Ongeldige tekens in je wachtwoord
+Dit email adres is al ingebruik.
+Dit is een ongeldige email.
+Wachtwoord is te kort.
+Wachtwoorden komen niet overeen.
+Controleer de re-captcha.
+Succesvol geregistreerd, een momentje..
+Account activicatie
+Succesvol geregistreerd, check je inbox/spam voor de activicatie mail.
+We kunnen deze email niet vinden.
+Wachtwoord reset aanvraag
+Email is succesvol verzonden
+Er is een fout opgetreden, probeer het later nog eens.
+Wachtwoord succesvol gewijzigd !
+Selecteer een geldige datum.
+Instellingen succesvol gewijzigd!
+Huidig wachtwoord komt niet overeen
+Website is niet geldig.
+Account is succesvol gewijzigd, een momentje..
+Home
+Uitgebreid zoeken
+Zoek mensen, #hastags en andere dingen..
+Geen resultaten gevonden
+Laatst gezien:
+Accepteren
+Weiger
+Verwijder
+Mijn Profiel
+Opgeslagen berichten
+Instellingen
+Beheerpaneel
+Uitloggen
+Je hebt geen meldingen
+Je hebt geen verzoeken
+volgt je
+heeft je vermeld in een reactie.
+heeft je vermeld in een bericht.
+heeft een krabbel op je tijdlijn geplaats.
+heeft je profiel bezocht.
+heeft je vriendschapsverzoek geaccepteerd.
+heeft je volgverzoek geaccepteerd.
+respecteerd je reactie &quot;{comment}&quot;
+wondered je reactie &quot;{comment}&quot;
+respecteerd je {postType} {post}
+wondered je {postType} {post}
+deelde je {postType} {post}
+reageerde op je {postType} {post}
+respecteerd {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;bericht&lt;/a&gt;.
+wondered {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;bericht&lt;/a&gt;.
+deelde {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;bericht&lt;/a&gt;.
+reageerde op {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;bericht&lt;/a&gt;.
+video.
+bericht.
+foto.
+bestand.
+vine video.
+muziek.
+profiel foto.
+404 Error
+Sorry, pagina niet gevonden!
+The page you are looking for could not be found. Please check the link you followed to get here and try again.
+Je account is succesvol geactiveerd!
+Je kan &lt;a href=&quot;http://localhost/wowonder_update&quot;&gt;{login}&lt;/a&gt; !
+General Setting
+Login Setting
+Manage Users
+Manage Posts
+Manage Reports
+Advertisement
+Meer
+Cache System
+Chat System
+Email validation
+Email notification
+Smooth links
+SEO friendly url
+File sharing
+Themes
+Gebruikersinstellingen
+Site Setting
+Enable cache system to speed up your website, Recommended more than 10,000 active users.
+Enable chat system to chat with friends on the buttom of the page
+Enable email validation to send activation link when user registred.
+Enable email notification to send user notification via email.
+Enable smooth links, e.g.http://localhost/wowonder_update/home.
+Enable SEO friendly url, e.g.http://localhost/wowonder_update//1_hello-how-are-you-doing.html
+Enable File sharing to share &amp; upload videos,images,files,sounds, etc..
+Cache
+Site Information
+Site Name &amp; Title:
+Site name
+Site title
+Site Keywords &amp; Description:
+Site Keywords (eg: social,wownder ..)
+Site Description
+Site E-mail
+Default Language
+Theme Setting
+Activeted
+Version:
+Author:
+User status
+(online/last seen)
+Enable
+Disable
+Allow users to delete their account:
+Profile visit notification:
+Display user age as:
+Date
+Age
+Connectivity System:
+&lt;span style=&quot;color:red;&quot;&gt;Note:&lt;/span&gt; If you migrate from one system to another, all existing followings, followers, friends, memberships will be deleted to avoid issues.&lt;/small&gt;
+Friends system
+Follow system
+Max upload size:
+Max characters length:
+Allowed extenstions:
+reCaptcha Setting
+reCaptcha key is required
+reCaptcha Key :
+Google Analytics
+Google analytics code:
+Cache Setting
+It&#039;s highly recommended to clear the cache.
+Cache Size:
+Clear Cache
+Social login
+Social login API&#039;S
+Facebook
+Google+
+Twitter
+Linkedin
+Vkontakte
+Facebook API
+Google API
+Twitter API
+Linkedin API
+Vkontakte API
+App ID
+App Secret Key
+Login with
+ID
+Source
+Status
+Pending
+First name
+Last name
+About me
+Website
+Actie
+Show more users
+No more users to show
+Are you sure you want to delete this user?
+Are you sure you want to delete this post?
+Show more posts
+No more posts
+No posts found
+Publisher
+There are not new post for now
+Post link
+Time
+Post
+{name} has not posted anything yet
+Search
+On
+Off
+Save
+Saved !
+Reporter
+Time Reported
+There are no new reports for now.
+Open Post
+Mark Safe
+Delete Post
+Advertisement Setting
+More Setting
+Mailing list
+Send
+Subject..
+Message..
+Announcement:
+New announcement ..
+Add
+Uitzichten
+There are no active announcements.
+There are no inactive announcements.
+Voeg toe
+Volgen
+Volgend
+Volgend
+Volgers
+Stuur bericht
+Aangevraagd
+Vrienden
+Online
+Offline
+Je bent momenteel offline
+Geen offline mensen.
+Geen online mensen.
+Zoek mensen
+Geen mensen gevonden.
+Gezien
+Laad meer berichten
+Laad meer mensen
+Geen resultaten gevonden.
+Je hebt geen opgeslagen berichten.
+Berichten
+Schrijf iets ..
+Geen berichten om weer te geven
+Bekijk meer berichten
+Sorry, je kan niet reageren op dit bericht.
+Selecteer een van je vrienden
+En zeg Hallo !
+Download
+Update je informatie
+Kies een gebruikersnaam:
+Geef een nieuw wachtwoord op:
+Update
+Verwijder reactie
+Weet je zeker dat je deze reactie wil verwijderen?
+Weet je zeker dat je dit bericht wil verwijderd?
+Wijzig bericht
+Sessie is verlopen
+Je sessie is verlopen, log opnieuw in.
+Land
+Alle
+Geslacht
+Vrouw
+Man
+Profielfoto
+Resultaat:
+Ja
+Nee
+Bekende Babster
+Wijzig Wachtwoord
+Huidig wachtwoord
+Herhaal wachtwoord
+Algemeen
+Profiel
+Privacy
+Verwijder je account
+Weet je zeker dat je je account voor goed wil verwijderen?
+Nee, liever niet
+Geverifieerd
+Niet Geverifieerd
+Admin
+Gebruiker
+Verificatie
+Type
+Geboortedatum
+Actief
+Inactief
+Privacy Instellingen
+Wie kan mij volgen?
+Iedereen
+Mijn vrienden
+Niemand
+Mensen die ik volg
+Mensen die mij volgen
+Alleen ik
+Wie kan mij een bericht sturen?
+Wie kan mij krabbelen?
+Laat mijn activiteiten zien?
+Ja
+Nee
+Bevestig verzoek wanneer iemand jou volgt?
+Laat mijn laatst gezien zien?
+(e.g: http://www.siteurl.com)
+Profiel Instellingen
+Vastgezete Bericht
+Vastzetten
+Niet meer vastzetten
+Open bericht in nieuw tapblad
+Verwijderen
+Opslaan
+Verwijder Aangeven
+Bericht aangeven
+Heeft dit bericht gedeeld
+Heeft zijn profielfoto gewijzigd
+Heeft haar profielfoto gewijzigd
+Login om te respecteren, te reageren!
+Respects
+Respect!
+Wonder
+Super Respects
+Delen
+Reacties
+Geen respects
+Geen super respects
+Schrijf je reactie en druk dan op enter
+Bekijk meer reacties
+Welkom op je tijdlijn !
+Zeg snel Hallo !
+Hoe gaat het vandaag? #Hashtag.. @Vermeld..
+Youtube Link
+Vine Link
+SoundCloud Link
+Waar ben je ?
+Plaats
+Tekst
+Foto&#039;s
+muziek
+Video&#039;s
+Maps
+Files
+Volgt nog geen mensen
+Heeft geen volgers
+Details
+Sociale Links
+Online vrienden
+About
+Contact Us
+Privacy Policy
+Terms of Use
+Developers
+Language
+© {date} {site_name}
+jaar
+maand
+dag
+uur
+minuut
+seconde
+jaren
+maanden
+dagen
+uren
+minuten
+seconden
+geleden
+van nu
+een moment geleden
+Net geplaats
+een minuut geleden
+%d minuten geleden
+een uur geleden
+%d uren geleden
+a dag geleden
+%d dagen geleden
+een maand geleden
+%d maanden geleden
+een jaar geleden
+%d jaar geleden
+Laatste Activiteiten
+Geen nieuwe activiteiten
+Populair!
+Laad meer activiteiten
+Geen andere activiteiten
+Mensen die je misschien kent
+Te lang
+To kort.
+Beschikbaar!
+In gebruik.
+Gebruikersnaam mag geen speciale tekens bevatten.
+Vond
+Mijn pagina&#039;s
+Vond je pagina ({page_name})
+Deze week
+posts
+Gelegen in
+Telefoon
+Bedrijf
+Categorie
+Zoeken naar berichten
+Nieuwe pagina
+Pagina naam
+Pagina titel
+Uw pagina titel
+Pagina Categorie
+Pagina beschrijving
+Uw pagina beschrijving, tussen de 10 en 200 karakters max.
+Creëren
+Pagina naam is al bestaat.
+Pagina naam moet tussen 5/32
+Ongeldige pagina naam tekens
+Bewerk
+Pagina Informatie
+Pagina Verwijderen
+Plaats
+Pagina&#039;s die je misschien graag
+Toon meer pagina&#039;s
+Geen pagina te tonen
+Bent u zeker dat u deze pagina wilt verwijderen?
+Pagina&#039;s beheren
+Eigenaar
+Geen pagina&#039;s gevonden
+Wonder
+Aansluiten
+Delen
+Ontdekken
+Vind meer
+Mobile Vriendelijk
+Wonder (NEW), de mogelijkheid om een bericht af of je niet bevalt.
+Verbinden met je familie en vrienden en deel je momenten.
+Deel wat nieuw is en het leven momenten met je vrienden.
+Ontdek nieuwe mensen, nieuwe verbindingen te maken en nieuwe vrienden maken.
+Vind meer van wat je zoekt met WoWonder Search.
+100% scherm passen op alle tablets en smartphones.
+Werken bij
+Verhouding
+Geen
+Avatar
+Deksel
+Achtergrond
+Thema
+Standaard
+Mijn Achtergrond
+Bedrijfs websitee
+Vond Mijn pagina
+Afkeer
+Antipathieën
+hekel aan je {postType} {post}
+hekel aan je reactie &quot;{comment}&quot;
+hekel {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;post&lt;/a&gt;.
+Tweede post type knop
+Groepsnaam
+Groep titel
+Mijn Groepen
+School
+Example: social, wowonder, social site
+Bericht Seen
+Aanbevolen voor krachtige servers
+Chat typering systeem
+reCaptcha
+Instagram
+als u niet uw bezoek evenement te delen, zult u niet in staat zijn om andere mensen een bezoek aan uw profiel te zien.
+Account verwijderen
+IP Address
+Groepen beheren
+Bent u zeker dat u deze groep wilt verwijderen?
+Geen groepen tonen
+Toon meer groepen
+leden
+Verificatie Verzoeken
+Verifiëren
+Negeren
+Pagina
+Geen nieuwe verificatie aanvragen
+Ban gebruiker
+Verboden
+Er zijn geen verboden ips.
+Ongeldig IP-adres.
+IP-adres succesvol verbannen.
+IP-adres bestaan
+Voeg een ip-adres
+IP-adres succesvol verwijderd
+E-mail me als
+Iemand hield van mijn berichten
+Iemand vroeg me af van mijn berichten
+Iemand heeft gereageerd op mijn berichten
+Iemand gedeeld op mijn berichten
+Iemand volgde mij
+Iemand hield van mijn pagina&#039;s
+Iemand bezocht mijn profiel
+Iemand noemde me
+Iemand trad mijn groepen
+Iemand aanvaard mijn vriend / follow verzoek
+Iemand gepost op mijn timeline
+Geen groepen gevonden
+Groep informatie
+Groep verwijderen
+Groepsnaam is al bestaat.
+Ongeldige naam van de groep tekens
+Groepsnaam moet tussen 5/32
+Geen verzoeken gevonden!
+Verwijderen
+Er zijn geen leden gevonden
+Groep succesvol verwijderd
+Nieuwe groep
+Mijn games
+Geen games gevonden
+Groepen
+Nog geen vriendent
+Heeft een groep nog niet mee
+Laad meer pagina&#039;s
+Laad meer groepen
+Toegetreden tot de groep ({group_name})
+Blij
+Hield
+verdrietig
+Zeer triest
+Boos
+Verward
+Warm
+Gebroken
+Wezenloos
+Koel
+Grappig
+Moe
+Heerlijk
+Gezegend
+Geschokt
+Slaperig
+Mooi
+Verveeld
+Totaal aantal leden
+Gebruikers
+Pagina&#039;s
+Spelen
+Online Gebruikers
+Recente zoekopdrachten
+Duidelijk
+Search filter
+Zoekfilter
+Wat zoekt?
+Veranderd zijn profiel deksel
+Veranderde haar profiel deksel
+Nieuwste games
+Geen albums gevonden
+Maak een album
+Mijn Albums
+Albumnaam
+Uploaden
+Foto&#039;s toevoegen
+Antwoorden
+Reageer op reactie
+beantwoord je reactie &quot;{comment}&quot;
+je genoemd in een antwoord &quot;{comment}&quot;
+antwoordde op de reactiefeed &quot;{comment}&quot;
+vond uw antwoord &quot;{comment}&quot;
+afgevraagd uw antwoord &quot;{comment}&quot;
+hekel aan uw antwoord &quot;{comment}&quot;
+Stuur gebruikers een melding wanneer ik bezoek hun profiel?
+als je het niet eens met je voor het laatst gezien, zult u niet in staat zijn om andere mensen het laatst gezien.
+Wie kan mijn verjaardag zien?
+mensen vinden dit leuk
+Vrienden uitnodigen om deze pagina graag
+Nodig je vrienden / volgelingen
+U hoeft niet meer vrienden uitnodigen
+Nodigen
+u uitgenodigd om te willen ({page_name})
+aanvaard uw verzoek te willen ({page_name})
+Oproep tot actie
+Bellen om url richten
+Oproep tot actie website is ongeldig
+Avatar &amp; Cover
+Toelaten online gebruikers actieve gebruikers te laten zien in de zijbalk.
+Niet actief
+Niet geactiveerd
+Mannetjes
+Dashboard
+Albums
+Naam
+Spelers
+Voeg een nieuwe game
+Spel toegevoegd
+Deze url wordt niet ondersteund
+Voeg dan een spel url
+actieve aankondigingen
+inactief aankondigingen
+Ban
+Nieuwe E-mail
+Html toegestaan
+Stuur naar mijn e-mail
+Test bericht
+Toegetreden leden
+Join Verzoeken
+Verified Pages
+Sharing bestandsextensies (gescheiden met een komma,)
+Woorden worden gecensureerd, gescheiden door een komma (,)
+Toetreden
+Geregistreerd
+Verzoek
+Reactie bewerken
+Laatste Play:
+Spelen
+Bevestigt aanvraag als iemand mee deze groep?
+Wie kan groepen berichten zien?
+Geregistreerd gebruikers
+Leven in
+Design
+Mensen die je misschien wilt ontmoeten
+Toegevoegd nieuwe foto&#039;s aan
+is het gevoel
+is reizen naar
+luistert naar
+speelt
+is aan het kijken
+Gevoel
+Reizen naar
+Kijken
+Spelen
+Luisteren naar
+Wat voel je ?
+Waar wilt u verblijven?
+Waar ben je naar aan het kijken ?
+Wat ben je aan het spelen ?
+Waar ben je naar aan het luisteren ?
+Wat ben je aan het doen ?
+Studeren aan
+Website van het bedrijf is ongeldig
+Pagina succesvol verwijderd
+Bedekken afbeelding.
+Voorgestelde groepen
+aanvaard uw verzoek om lid te worden ({group_name})
+verzocht om uw groep aan te sluiten
+Maar niemand geplaatst
+Voeg uw vrienden aan deze groep
+Er zijn geen vrienden om ze toe te voegen
+u hebt toegevoegd aan de groep ({group_name})
+groepstype
+Openbaar
+Private
+Rapporten
+nog geen hekel
+Bevallen
+Afgevraagd
+Algemene Pagina
+User Profile Privacy
+In staat stellen om niet-aangemelde gebruikers gebruikers profielen te bekijken.
+Video uploaden
+Enable video uploaden om te delen en video&#039;s uploaden naar de site.
+Audio uploaden
+Enable audio uploaden om te delen en uploaden geluiden naar de site.
+Lees Meer..
+Lees Minder..
+Voeg een foto toe.
+Voeg een foto toe.
+Deze stap voor nu overslaan
+Opslaan &amp; Doorgaan
+Vertel ons over jou.
+Deel je informatie met onze gemeenschap.
+Ontvang de meest recente activiteiten van onze populaire gebruikers.
+Volg onze beroemde gebruikers.
+Volg {number} &amp; Finish
+Ziet er goed uit.
+Je kunt later meer toevoegen aan je profiel.
+Upload je foto
+Even geduld aub..
+Gebruikersnaam of E-mail
+E-mail instellen
+jaar oud
+Verjaardagen van vrienden
+SMS Instellingen
+Gelijdelijk laden
+Omhoog geplaatste pagina&#039;s zijn al zichtbaar voor leden.
+Je bent {type_name}, Je kan nu  {can_boost} omhoog plaatsen.
+Je bent {type_name}, Je kan nu {can_boost} berichten omhoog plaatsen.
+Er zijn geen omhoog geplaatste pagina&#039;s.
+Er zijn geen omhoog geplaatste berichten.
+Ontdek meer opties met {sitename} PRO!
+Ster
+Heet
+Ultimate
+VIP
+Aanbevolen lid
+Bekijk profiel bezoekers
+Verberg laatst gezien
+Vericatie Badge
+Bericht promotie&lt;br&gt;&lt;small&gt;(Niet beschikbaar)&lt;/small&gt;
+Pagina promotie&lt;br&gt;&lt;small&gt;(Niet beschkbaar)&lt;/small&gt;
+0% korting
+10% korting
+20% korting
+60% korting
+Per week
+Per maand
+Per jaar
+levens lang
+Upgrade Nu
+Omhoog geplaatse berichten
+Omhoog geplaatsen pagina&#039;s
+Zet mij hier nier
+Advertenties
+Oeps ! Er ging iets mis.
+Probeer het opnieuw
+Plaats pagina omhoog
+Pagina omhoog geplaatst
+Verwijder omhoog plaatsing
+Verander pagina instellingen
+Geblokkerde Gebruikers
+Deblokkeer
+CSS bestand
+Standaard design
+Mijn CSS bestand
+Je kan je profiel helemaal pimpen door je eigen CSS bestand te uploaden
+Nodig je vrienden uit
+Verstuur
+Plaast bericht omhoog
+Verwijder
+Sleep naar de juiste positie
+Blokkeer gebruiker
+Wijzig gebruiker
+Gefeliciteerd ! Je bent nu een &lt;span style=&quot;color:{color}&quot;&gt;&lt;i class=&quot;fa fa-{icon} fa-fw&quot;&gt;&lt;/i&gt;{type_name}
+Bekijk nu je nieuwe opties
+Oeps, het lijkt er op of je account nog niet is geactiveerd.
+Selecteer een optie om je account te activeren.
+Via E-mail
+Via Telefoonnummer
+Of
+Stuur activatie code
+Code niet ontvangen?
+Verstuur opnieuw
+Je zult de code ontvangen
+Bevestig
+Telefoonnumer (bijv. +31...)
+Error tijdens het activeren van uw account.
+Ongeldige code.
+Het is niet gelukt de code te verzenden.
+Geen geldige telefoonnummer.
+Telefoonnummer is al in gebruik.
+SMS is succsesvol verzonden.
+We konden de SMS niet versturen, probeer een ander nummer.
+Het is niet gelukt de code te versturen, probeer een andere methoda.
+E-mail is succesvol verzonden, kijk ook in uw spam/ongewenste inbox.
+Te vaak geprobeerd, probeer het later nog eens.
+Probeer je account te verifiëren via de e-mail, we konden geen sms sturen.
+Gratis Lid
+Ster Lid
+Hot Lid
+Ultimate Lid
+VIP Lid
+Moderator
+Member soort
+Membership
+Upgrade
+Error, probeer het later opnieuw.
+Upgraden naar Pro
+Geen antwoord
+Probeer het later opnieuw.
+Beantwoord !
+Call gedaald
+De ontvanger heeft de oproep geweigerd, probeer het later opnieuw.
+Nieuwe video-oproep
+wil video chatten met je.
+Afwijzen
+Accepteer &amp; Start
+Roeping
+Wacht tot je vriend antwoord op de video chat starten.
+Je bent vrienden op {site_name}
+Je volgt
+alles zien
+Me
+{monthly_boosts} berichten omhoog plaatsen&lt;br&gt;&lt;small&gt;({monthly_boosts} tegelijk 7/24)&lt;/small&gt;
+{monthly_boosts} pagina&#039;s omhoog plaatsen&lt;br&gt;&lt;small&gt;({monthly_boosts} tegelijk 7/24)&lt;/small&gt;
+{yearly_boosts} berichten omhoog plaatsen&lt;br&gt;&lt;small&gt;({yearly_boosts} tegelijk 7/24)&lt;/small&gt;
+{yearly_boosts} pagina&#039;s omhoog plaatsen&lt;br&gt;&lt;small&gt;({yearly_boosts} tegelijk 7/24)&lt;/small&gt;
+Boost up to {lifetime_boosts} posts&lt;br&gt;&lt;small&gt;({lifetime_boosts} in same time 7/24)&lt;/small&gt;
+Boost up to {lifetime_boosts} pages&lt;br&gt;&lt;small&gt;({lifetime_boosts} in same time 7/24)&lt;/small&gt;
+Aanmelden
+YouTube
+mijn producten
+Kies een betaalmethode
+PayPal
+Credit Card
+Bitcoin
+Categorieën
+nieuwste producten
+Zoeken naar producten
+Zoeken naar producten in {category_name}
+Geen beschikbare tonend.
+Laad meer producten
+Verkoop een nieuw product
+Beschrijving
+Beschrijf uw product.
+Gebruikt
+Nieuwe
+Prijs
+Uw product prijs in USD valuta ($), e.g (10.99)
+Product bewerken
+Publiceren
+Meer informatie
+De aanbieders contacteren
+Door &lt;a href=&quot;{product_url}&quot;&gt;{product_name}&lt;/a&gt;, gepost {product_time}, in &lt;a href=&quot;{product_category}&quot;&gt;{product_category_name}&lt;/a&gt;
+Betaling geweigerd, probeer het later opnieuw.
+Bevestiging van de betaling, even geduld aub ..
+Verdien tot ${amount} voor elke gebruiker je verwijzen naar ons!
+Verdien tot ${amount} voor elke gebruiker je verwijzen naar ons en zal zich abonneren op een van onze propakketten.
+Mijn Affiliates
+Mijn balans
+Uw affiliate link is
+Uw saldo is ${balance}, minimum een verzoek tot uitbetaling ${m_withdrawal}
+Uw saldo is
+PayPal email
+Bedrag (USD)
+verzoek tot uitbetaling
+Betaalgeschiedenis
+Bedrag
+Afgewezen
+Aangenomen
+Totaal aantal stemmen
+Mark Product zoals verkocht
+toegevoegd nieuw product voor verkoopt.
+productnaam
+Op voorraad
+Uitverkocht
+Antwoord
+Antwoord toevoegen
+Authentiserende
+Welkom terug!
+Welkom!
+Contact maken met mensen.
+Maak nieuwe vrienden.
+Deel je herinneringen.
+Maak nieuwe relaties.
+Ontdek nieuwe plaatsen.
+Je wachtwoord vergeten?
+Ongeldige markup, dan kunt u proberen om uw wachtwoord opnieuw in te resetten
+Go back
+Door het maken van uw account, gaat u akkoord met onze
+Kies een prijs voor uw product
+Kies een juiste waarde voor uw prijs
+Upload ten minste 1 foto
+Je hebt al deze poll gestemd.
+U heeft al een aanvraag in behandeling.
+Ongeldig bedrag waarde
+Ongeldig bedrag waarde, uw bedrag is:
+Ongeldig bedrag waarde, minimum een verzoek tot uitbetaling:
+Uw aanvraag is verzonden, zult u een e-mail met betrekking tot de betalingsgegevens binnenkort.
+Schakel meldingsgeluid
+Zet meldingsgeluid
+Uitzicht {count} nieuwe berichten
+Store berichten van
+Nieuwe audiogesprek
+wil met je praten.
+audio oproep
+praten met
+Markt
+Kommentar
+Door
+Laad meer artikelen
+blog
+Geen artikelen gevonden
+Meest recente artikelen
+Nieuwe artikel
+mijn artikelen
+Titel
+Inhoud
+kiezen
+Tags
+thumbnail
+Gepubliceerd
+Uw artikel is bijgewerkt
+Uw artikel is succesvol toegevoegd
+Titel moet meer zijn dan 10 tekens
+Beschrijving moet meer zijn dan 32 tekens
+Vul het veld labels
+Fout gevonden, probeer het later opnieuw
+Posted {BLOG_TIME} in {CATEGORY_NAME}.
+creëerde nieuwe artikel
+Forum
+Laatste bericht
+onderwerp
+Zoek naar discussies
+Maak een nieuw onderwerp aan
+Spring naar
+Mijn draden
+Mijn berichten
+opschrift
+Uw bericht
+Antwoord
+Begonnen door
+Site Admin
+Geregistreerd
+Antwoord op dit onderwerp
+Onderwerp review
+Uw reactie
+Lijst van gebruikers
+Berichten tellen
+Verwijzingen
+Laatste bezoek
+Algemene zoektermen
+Zoek naar term
+Zoek in
+Zoeken in forums
+Zoek in discussies
+Zoek in berichten
+Zoek alleen onderwerp
+threads
+Geplaatst
+Geen forums gevonden
+Nooit
+Geen antwoorden gevonden
+Geen discussies gevonden
+Geen secties om weer te geven
+schreef
+Bewerk onderwerp
+Uw antwoord is succesvol opgeslagen
+Je antwoord is succesvol toegevoegd
+Uw forum is succesvol toegevoegd
+Helpen
+Typ één of meer zoektermen, ieder moet minstens 4 karakters
+Evenementen
+gaand
+Geïnteresseerd
+Verleden
+Uitgenodigd
+Jij gaat
+Je bent geïnteresseerd
+Begin datum
+Einddatum
+Evenement
+Geen evenementen gevonden
+Evenementen die je misschien leuk vindt
+Mensen gaan
+Geïnteresseerde mensen
+Uitgenodigde mensen
+Uw evenement is toegevoegd
+Uw evenement is opgeslagen
+Bent u zeker dat u wilt dit evenement verwijderen
+Meer laden
+Onderwerpen
+Gaan
+Aangemaakt nieuw evenement
+Mijn gebeurtenissen
+Is geïnteresseerd in je evenement "{event_name}"
+Gaat naar je evenement "{event_name}"
+Heeft u uitgenodigd om het evenement te gaan "{event_name}"
+Antwoordde op je onderwerp
+Dioscoop
+Vertalen
+Genre
+Aanbevolen
+Meest bekeken
+Stars
+Geen films gevonden
+Producent
+Vrijlating
+Kwaliteit
+Meer in deze trant
+Portemonnee
+bod
+klikken
+url
+Publiek
+Selecteer een afbeelding
+Herstel mijn saldo
+voortzetten
+Uw saldo is aangevuld door
+Reclame
+Weet u zeker dat u deze advertentie wilt verwijderen
+Verwijder advertentie
+Geen advertenties gevonden
+Plaatsing
+sidebar
+Selecteer een pagina of voer een link in op uw site
+Verhaal
+Het maximaal aantal kan niet meer dan 20 bestanden tegelijkertijd overschrijden!
+Uw status is succesvol toegevoegd!
+Maak een nieuwe status aan
+Sponsored
+Uw melding is succesvol verzonden
+Verberg post
+Uw verificatieaanvraag zal binnenkort worden overwogen!
+Verificatie van het profiel!
+Gefeliciteerd, uw profiel is geverifieerd!
+Documenten uploaden
+Upload een foto met uw paspoort / ID & amp; Jouw eigen foto
+Paspoort / ID kaart
+Je foto
+Selecteer alstublieft uw paspoort / id en foto!
+De paspoort / id foto moet een afbeelding zijn
+De gebruikersfoto moet een afbeelding zijn
+Uw aanvraag is succesvol verzonden, in de nabije toekomst zullen we het overwegen!
+gedeelde
+Post is succesvol toegevoegd aan je tijdlijn!
+Belangrijk!
+Houd er rekening mee dat als u de gebruikersnaam wijzigt, u de verificatie verliest
+Wie kan mijn vrienden zien
+Toegevoegd je groep admin
+Toegevoegd u pagina admin
+Nog geen berichten hier.
+Conversatie is verwijderd!
+Dichtbij
+Exitgroep
+Geschiedenis wissen
+Groepsleden
+Voeg deelnemer toe
+Annuleren rapport
+Rapporteer deze gebruiker
+Meld deze pagina aan
+Meld deze groep aan
+U heeft deze pagina al beoordeeld!
+Beoordeling
+beoordelingen
