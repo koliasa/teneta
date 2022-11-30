@@ -1,0 +1,1000 @@
+Log på
+Tilmeld
+Gæst
+Brugernavn
+E-mail
+Adgangskode
+Nyt kodeord
+Husk mig
+Eller log ind med
+Glemt kodeord?
+Email adresse
+Bekræft kodeord
+Lad os gå !
+Gendanne
+Nulstil din adgangskode
+Nulstil
+Ugyldig Token
+Forkert brugernavn eller kodeord
+Din konto er blevet deaktiveret, kontakt os venligst.
+Du skal aktivere din konto.
+Log ind, vent venligst..
+Tjek venligst dine oplysninger.
+Brugernavnet findes allerede.
+Brugernavnet skal være mellem 5/32
+Ugyldige tegn i brugernavn
+Ugyldige adgangskodetegn
+Denne e-mail er allerede i brug
+Denne e-mail er ugyldig.
+Adgangskoden er for kort.
+Adgangskoden matcher ikke.
+Tjek venligst re-captchaen.
+Tilmeldte sig. Vent venligst..
+Kontoaktivering
+Registreringen lykkedes! Vi har sendt dig en e-mail. Tjek venligst din indbakke/spam for at bekræfte din e-mail.
+Vi kan ikke finde denne e-mail.
+Anmodning om nulstilling af adgangskode
+E-mail er blevet sendt
+Der blev fundet en fejl under behandlingen af din anmodning. Prøv venligst igen senere.
+Adgangskoden er blevet ændret !
+Vælg venligst en korrekt dato.
+Indstillingen blev opdateret!
+Nuværende adgangskode stemmer ikke overens
+Hjemmesiden er ugyldig.
+Kontoen blev slettet, vent venligst..
+Hjem
+Avanceret søgning
+Søg efter personer, sider, grupper og #hashtags
+Intet resultat at vise
+Sidst set:
+Acceptere
+Afbestille
+Slet
+Min profil
+Gemte indlæg
+Indstillinger
+Admin område
+Log ud
+Du har ingen notifikationer
+Du har ingen anmodninger
+fulgte dig
+nævnte dig i en kommentar.
+nævnte dig i et indlæg.
+lagt på din tidslinje.
+besøgte din profil.
+accepterede din venneanmodning.
+accepterede din følgeanmodning.
+kunne lide din kommentar &quot;{comment}&quot;
+undrede dig over din kommentar &quot;{comment}&quot;
+kunne lide dit {postType} {indlæg}
+undrede dig over dit {postType} {indlæg}
+delte dit {postType} {indlæg}
+kommenterede dit {postType} {indlæg}
+kunne lide {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;indlæg&lt;/a&gt;.
+undrede {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;indlæg&lt;/a&gt;.
+delte {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;indlæg&lt;/a&gt;.
+kommenterede {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;indlæg&lt;/a&gt;.
+video.
+stolpe.
+Foto.
+fil.
+video kommer.
+lyd.
+profilbillede.
+404 fejl
+Beklager, siden blev ikke fundet!
+Den side, du leder efter, blev ikke fundet. Tjek venligst det link, du fulgte, for at komme hertil, og prøv igen.
+Din konto er blevet aktiveret!
+Du er fri til at &lt;a href=&quot;{site_url}&quot;&gt;{login}&lt;/a&gt;!
+Generel indstilling
+Indstilling af login
+Administrer brugere
+Administrer indlæg
+Administrer rapporter
+Reklame
+Mere
+Cache system
+Chat system
+E-mail validering
+E-mail notifikation
+Glatte links
+SEO venlig url
+Fildeling
+Temaer
+Brugerindstillinger
+Indstilling af websted
+Aktiver cache-system for at fremskynde dit websted. Anbefalet mere end 10.000 aktive brugere.
+Aktiver chatsystem for at chatte med venner nederst på siden
+Aktiver e-mail-validering for at sende aktiveringslink, når brugeren er registreret.
+Aktiver e-mail-besked for at sende brugerbesked via e-mail.
+Aktiver jævne links, f.eks.{site_url}/home.
+Aktiver SEO-venlig url, f.eks.{site_url}//1_hello-how-are-you-doing.html
+Aktiver fildeling for at dele og uploade videoer, billeder, filer, lyde osv.
+Cache
+Site Information
+Webstedets navn og titel:
+Side navn
+Webstedets titel
+Webstedets søgeord og beskrivelse:
+Websteds søgeord
+Site Description
+Webstedets e-mail
+Standardsprog
+Temaindstilling
+Aktiveret
+Version:
+Forfatter:
+Brugerstatus
+(online/sidst set)
+Aktiver
+Deaktiver
+Tillad brugere at slette deres konto
+Notifikation om profilbesøg
+Vis brugerens alder som
+Dato
+Alder
+Tilslutningssystem
+&lt;span style=&quot;color:red;&quot;&gt;Bemærk:&lt;/span&gt; Hvis du ændrer systemet til et andet, vil alle eksisterende følgere, følgere, venner blive slettet.&lt;/small&gt;
+Friends system
+Følg systemet
+Maksimal uploadstørrelse for videoer, billeder, lyde og filer
+Max tegnlængde
+Tilladte udvidelser
+reCaptcha-indstilling
+reCaptcha nøgle er påkrævet
+reCaptcha nøgle
+Google Analytics
+Google analytics kode
+Cache-indstilling
+Det anbefales stærkt at rydde cachen.
+Cachestørrelse:
+Ryd cache
+Socialt login
+Social login API&#39;er
+Facebook
+Google+
+Twitter
+Linkedin
+Vkontakte
+Facebook API
+Google API
+Twitter API
+Linkedin API
+Vkontakte API
+App-id
+App hemmelig nøgle
+Login med
+ID
+Kilde
+Status
+Verserende
+Fornavn
+Efternavn
+Om mig
+Internet side
+Handling
+Vis flere brugere
+Ikke flere brugere at vise
+Er du sikker på, at du vil slette denne bruger?
+Er du sikker på, at du vil slette dette indlæg?
+Vis flere indlæg
+Ikke flere indlæg
+Ingen indlæg at vise
+Forlægger
+Der er ikke nye indlæg lige nu
+Post link
+Tid
+Stolpe
+{name} har ikke sendt noget endnu
+Søg
+På
+Af
+Gemme
+Gemt!
+Reporter
+Tid rapporteret
+Der er ingen nye rapporter i øjeblikket.
+Åbn Post
+Marker sikkert
+Slet indlæg
+Annonceindstilling
+Flere indstilling
+Postliste
+Sende
+Emne..
+Besked..
+Bekendtgørelse
+Ny meddelelse
+Tilføje
+Visninger
+Der er ingen aktive meddelelser.
+Der er ingen inaktive meddelelser.
+Tilføj ven
+Følge efter
+Følge
+Følge
+Tilhængere
+Besked
+Anmodet
+Venner
+Online
+Offline
+Du er i øjeblikket offline, slå chatten til for at begynde at chatte.
+Ingen offline brugere.
+Ingen online brugere.
+Søg efter brugere
+Ingen brugere at vise
+Set
+Indlæs flere indlæg
+Indlæs flere brugere
+Der blev ikke fundet nogen resultater for din forespørgsel.
+Du har ingen gemte indlæg.
+Beskeder
+Skriv noget ..
+Ikke mere besked
+Se flere beskeder
+Beklager, du kan ikke svare denne bruger.
+Vælg en af dine venner
+Og sig hej!
+Hent
+Opdater dine oplysninger
+Vælg dit brugernavn:
+Opret din nye adgangskode:
+Opdatering
+Slet kommentar
+Er du sikker på, at du vil slette denne kommentar?
+Er du sikker på, at du vil slette dette indlæg?
+Rediger indlæg
+Sessionen er udløbet
+Din session er udløbet, log venligst ind igen.
+Land
+Alle
+Køn
+Kvinde
+Han
+Profilbillede
+Resultat
+Ja
+Ingen
+Verificeret bruger
+Skift kodeord
+Nuværende kodeord
+Gentag adgangskode
+Generel
+Profil
+Privatliv
+Slet konto
+Er du sikker på, at du vil slette din konto og forlade vores netværk?
+Nej, jeg tænker
+Verificeret
+Ikke verificeret
+Admin
+Bruger
+Verifikation
+Type
+Fødselsdag
+Aktiv
+inaktiv
+Privat indstillinger
+Hvem kan følge mig?
+Alle sammen
+Mine venner
+Ingen
+Mennesker jeg følger
+Folk følger mig
+Kun mig
+Hvem kan sende mig besked?
+Hvem kan skrive på min tidslinje?
+Vis mine aktiviteter?
+At vise
+Skjule
+Bekræft anmodning, når nogen følger dig?
+Vis min sidst set?
+(f.eks.: http://www.siteurl.com)
+Profilindstilling
+Fastgjort
+Pin Post
+Frigør post
+Åbn indlæg i ny fane
+Fjern gem indlæg
+Gem indlæg
+Urapporteret indlæg
+Rapportér indlæg
+Delte dette opslag
+ændrede sit profilbillede
+ændrede hendes profilbillede
+Log venligst ind for at like, spekulere, dele og kommentere!
+Kan lide
+Synes godt om
+Spekulerer
+Vidundere
+Del
+Kommentarer
+Ingen likes endnu
+Ingen vidundere endnu
+Skriv en kommentar og tryk enter
+Se flere kommentarer
+Velkommen til dit nyhedsfeed!
+Sig hej !
+Hvad sker der? #Hashtag.. @Mention.. Link..
+Youtube link
+Vine Link
+SoundCloud Link
+Hvor er du ?
+Stolpe
+Tekst
+Fotos
+Lyde
+Videoer
+Kort
+Filer
+Følger ikke nogen bruger
+Ingen følgere endnu
+detaljer
+Sociale links
+Snak
+Om
+Kontakt os
+Fortrolighedspolitik
+Vilkår for brug
+Udviklere
+Sprog
+© {date} {site_name}
+år
+måned
+dag
+time
+minut
+sekund
+flere år
+måneder
+dage
+timer
+minutter
+sekunder
+siden
+fra nu
+ethvert øjeblik nu
+Lige nu
+for cirka et minut siden
+%d minutter siden
+omkring en time siden
+%d timer siden
+en dag siden
+%d dage siden
+omkring en måned siden
+%d måneder siden
+omkring et år siden
+%d år siden
+Seneste aktiviteter
+Ingen nye aktiviteter
+Trending!
+Indlæs flere aktiviteter
+Ikke flere aktiviteter
+Folk du måske kender
+For langt
+For kort.
+Ledig !
+I brug.
+Brugernavn må ikke indeholde specialtegn, symboler eller mellemrum.
+Kunne lide
+Mine sider
+Synes godt om din side ({page_name})
+Denne uge
+indlæg
+Placeret i
+telefon
+Selskab
+Kategori
+Søg efter indlæg
+Opret ny side
+Sidenavn
+Sidetitel
+Din sidetitel
+Sidekategori
+Sidebeskrivelse
+Din sidebeskrivelse, mellem 10 og 200 tegn max.
+skab
+Sidenavnet findes allerede.
+Sidenavn skal være mellem 5/32
+Ugyldige tegn på sidenavn
+Redigere
+Sideoplysninger
+Slet side
+Beliggenhed
+Sider du måske kan lide
+Vis flere sider
+Der er ikke flere sider at vise
+Er du sikker på, at du vil slette denne side?
+Administrer sider
+Ejer
+Ingen sider at vise
+Spekulerer
+Opret forbindelse
+Del
+Opdage
+Find mere
+Mobilvenlig
+Wonder (NYT), evnen til at undre sig over et indlæg, hvis du ikke kan lide det.
+Forbind med din familie og venner, og del dine øjeblikke.
+Del hvad der er nyt og livets øjeblikke med dine venner.
+Opdag nye mennesker, skab nye forbindelser og få nye venner.
+Find mere af det, du leder efter, med WoWonder Search.
+100 % skærmtilpasning på alle tablets og smartphones.
+Arbejder kl
+Forhold
+Ingen
+Avatar
+Dække over
+Baggrund
+Tema
+Standard
+Min baggrund
+Virksomhedens hjemmeside
+Synes godt om min side
+Kan ikke lide
+Kan ikke lide
+kunne ikke lide dit {postType} {indlæg}
+kunne ikke lide din kommentar &quot;{comment}&quot;
+kunne ikke lide {user} &lt;a class=&quot;main-color&quot; href=&quot;{post}&quot;&gt;indlæg&lt;/a&gt;.
+Anden post knap type
+Gruppe navn
+Gruppe titel
+Mine grupper
+Skole
+Eksempel: social, vidunder, social side
+Besked set
+Anbefales til kraftfulde servere
+Chat-tastesystem
+reCaptcha
+Instagram
+hvis du ikke deler din besøgsbegivenhed , vil du ikke kunne se andre mennesker besøge din profil.
+Slet konto
+IP-adresse
+Administrer grupper
+Er du sikker på, at du vil slette denne gruppe?
+Der er ikke flere grupper at vise
+Vis flere grupper
+Medlemmer
+Verifikationsanmodninger
+Verificere
+Ignorere
+Side
+Ingen nye bekræftelsesanmodninger
+Forbyd bruger
+Forbudt
+Der er ingen forbudte ips.
+Ugyldig ip-adresse.
+IP-adressen er blevet forbudt.
+IP-adressen findes allerede
+Tilføj venligst en ip-adresse
+IP-adressen blev slettet
+E-mail mig hvornår
+Nogen kunne lide mine indlæg
+Nogen undrede sig over mine indlæg
+Nogen kommenterede mine indlæg
+Nogen delte på mine opslag
+Nogen fulgte efter mig
+Nogen kunne lide mine sider
+Nogen besøgte min profil
+Nogen nævnte mig
+Nogen sluttede sig til mine grupper
+Nogen accepterede min ven/følg anmodning
+Nogen postede på min tidslinje
+Ingen grupper at vise
+Gruppeoplysninger
+Slet gruppe
+Gruppenavnet findes allerede.
+Ugyldige tegn i gruppenavn
+Gruppenavn skal være mellem 5/32
+Ingen anmodninger om at vise
+Fjerne
+Ingen medlemmer at vise
+Gruppen blev slettet
+Opret ny gruppe
+Mine spil
+Ingen spil at vise
+Grupper
+Ingen venner endnu
+Har ikke deltaget i nogen grupper endnu
+Indlæs flere sider
+Indlæs flere grupper
+Tilmeldte dig din gruppe ({group_name})
+Lykkelig
+Elsket
+Trist
+Meget trist
+Vred
+Forvirret
+Hed
+Gået i stykker
+udtryksløs
+Fedt nok
+Sjov
+Træt
+Dejlig
+Velsignet
+Chokeret
+Søvnig
+Smuk
+Keder sig
+Samlet antal brugere
+Brugere
+sider
+Spil
+Online brugere
+Seneste søgninger
+Klar
+Søgefilter
+Søgeord
+Hvad leder efter?
+ændrede sit profilcover
+ændrede hendes profilcover
+Seneste spil
+Du har ikke oprettet nogen album endnu.
+Opret album
+Mine albums
+Albumnavn
+Upload
+Tilføj billeder
+Svar
+Svar på kommentar
+svarede på din kommentar &quot;{comment}&quot;
+nævnte dig i et svar &quot;{comment}&quot;
+svarede på kommentaren &quot;{comment}&quot;
+kunne lide dit svar &quot;{comment}&quot;
+undrede dig over dit svar &quot;{comment}&quot;
+kunne ikke lide dit svar &quot;{comment}&quot;
+Vil du sende brugere en notifikation, når jeg besøger deres profil?
+hvis du ikke deler din sidst sete, vil du ikke være i stand til at se andre personer, der sidst er set.
+Hvem kan se min fødselsdag?
+folk kan lide dette
+Inviter venner til at synes godt om denne side
+Inviter dine venner/følgere
+Du har ikke flere venner at invitere
+Invitere
+inviterede dig til at like ({page_name})
+accepterede din anmodning om at synes godt om ({page_name})
+Opfordring til handling
+Kald for at målrette webadresse
+Opfordring til handling-webstedet er ugyldigt
+Avatar &amp; Cover
+Giv onlinebrugere mulighed for at vise aktive brugere i sidebjælken.
+Ikke aktiv
+Kvinder
+Hanner
+Dashboard
+Albums
+Navn
+Spillere
+Tilføj nyt spil
+Spil tilføjet
+Denne url er ikke understøttet
+Tilføj venligst en spil-url
+Aktive meddelelser
+Inaktive meddelelser
+Forbyde
+Ny email
+HTML tilladt
+Send til min e-mail
+Test besked
+Tiltrådte medlemmer
+Tilmeldingsanmodninger
+Verificerede sider
+Fildelingsudvidelser (adskilt med komma)
+Ord, der skal censureres, adskilt af et komma (,)
+Tilslutte
+Tiltrådte
+Anmodning
+Rediger kommentar
+Sidste spil:
+Spil
+Bekræft anmodning, når nogen tilmelder sig denne gruppe?
+Hvem kan se gruppens indlæg?
+Tilsluttede brugere
+Bor i
+Design
+Mennesker, du måske gerne vil møde
+tilføjet nye billeder til
+føler
+rejser til
+lytter til
+spiller
+ser på
+Følelse
+Rejser til
+Ser på
+Spiller
+Lytte til
+Hvad føler du?
+Hvor rejser du hen?
+Hvad er det du ser ?
+Hvad spiller du ?
+Hvad er det du lytter til ?
+Hvad laver du ?
+Studerer kl
+Firmaets hjemmeside er ugyldig
+Siden blev slettet
+forsidebillede.
+Foreslåede grupper
+accepterede din anmodning om at deltage ({group_name})
+bedt om at deltage i din gruppe
+Ingen indlæg at vise
+Føj dine venner til denne gruppe
+Der er ingen venner til at tilføje dem
+føjede dig til gruppen ({group_name})
+Gruppetype
+Offentlig
+Privat
+Rapporter
+Ingen dislikes endnu
+Kan ikke lide
+undrede sig
+Vilkår Sider
+Brugerprofil privatliv
+Aktiver det for at tillade ikke-loggede brugere at se brugerprofiler.
+Video upload
+Aktiver videoupload for at dele og uploade videoer til webstedet.
+Lyd upload
+Aktiver lydupload for at dele og uploade lyde til webstedet.
+Læs mere
+Læs mindre
+Tilføj et billede.
+Vis din unikke personlighed og stil.
+Eller spring dette trin over for nu.
+Gem og fortsæt
+Fortæl os om dig.
+Del dine oplysninger med vores fællesskab.
+Få de seneste aktiviteter fra vores populære brugere.
+Følg vores berømte brugere.
+Følg {number} og afslut
+Ser godt ud.
+Du kan tilføje mere til din profil senere.
+Upload dit billede
+Vent venligst..
+Brugernavn eller e-mail
+E-mail indstilling
+år gammel
+Venners fødselsdage
+SMS-indstilling
+Glat læsning
+Boosted-sider kan allerede ses af alle vores fællesskabsmedlemmer.
+Du er en {type_name}, du er bare i stand til at booste {can_boost} sider på samme tid.
+Du er en {type_name}, du er bare i stand til at booste {can_boost} indlæg på samme tid.
+Der er endnu ingen boostede sider.
+Der er ingen boostede indlæg endnu.
+Oplev flere funktioner med {sitename} PRO-pakker!
+Stjerne
+Hed
+Sidst
+Vip
+Udvalgt medlem
+Se profilbesøgende
+Vis / Skjul sidst set
+Verificeret badge
+Indlægspromovering&lt;br&gt;
+Promovering af sider&lt;br&gt;
+0% rabat
+10% rabat
+20% rabat
+60% rabat
+For uge
+Om måneden
+Per år
+livstid
+Opgrader nu
+Boostede indlæg
+Boostede sider
+Sæt mig her
+Forfremmet
+Ups! Noget gik galt.
+Prøv igen
+Boost side
+Side boostet
+Fjern boost-side
+Rediger sideindstillinger
+Blokerede brugere
+Fjern blokering
+CSS fil
+Standard design
+Min CSS fil
+Du kan designe din profil fuldt ud ved at uploade din egen CSS-fil
+Inviter dine venner
+Send invitation
+Boost indlæg
+UnBoost Post
+Træk for at flytte omslaget
+Bloker bruger
+Rediger bruger
+Tillykke ! Du er nu en &lt;span style=&quot;color:{color}&quot;&gt;&lt;i class=&quot;fa fa-{icon} fa-fw&quot;&gt;&lt;/i&gt;{type_name}
+Begynd at gennemse de nye funktioner
+Ups, det ser ud til, at din konto ikke er aktiveret endnu.
+Vælg venligst en metode nedenfor for at aktivere din konto.
+Via e-mail
+Via telefonnummer
+Eller
+Send bekræftelseskode
+Fik du ikke koden?
+Send igen
+Du bør modtage koden inden for
+Bekræfte
+Telefonnummer (f.eks. +905...)
+Fejl under aktivering af din konto.
+Forkert bekræftelseskode.
+Kunne ikke sende bekræftelseskoden.
+Forkert telefonnummer.
+Telefonnummeret er allerede brugt.
+SMS er blevet sendt.
+Fejl under afsendelse af SMS&#39;en, prøv venligst et andet nummer.
+Kunne ikke sende bekræftelseskoden, vælg venligst en af aktiveringsmetoderne.
+E-mail er blevet sendt. Tjek venligst din indbakke eller spam-mappe for aktiveringslinket.
+Grænsen er overskredet. Prøv venligst igen senere.
+Fejl under afsendelse af SMS&#39;en, prøv venligst et andet nummer eller aktiver din konto via e-mail ved at logge ind på din konto.
+Gratis medlem
+Stjerne medlem
+Hot medlem
+Ultima medlem
+VIP medlem
+Moderator
+Medlemstype
+Medlemskab
+Opgrader
+Fejl, prøv venligst igen senere.
+Opgrader til Pro
+Intet svar
+Prøv igen senere.
+Besvaret!
+Opkaldet blev afvist
+Modtageren har afvist opkaldet. Prøv venligst igen senere.
+Nyt videoopkald
+ønsker at videochatte med dig.
+Nedgang
+Accepter og start
+Ringer
+Vent venligst på din vens svar.
+I er venner på {site_name}
+Du følger med
+Se alt
+Mig
+Boost op til {monthly_boosts} indlæg&lt;br&gt;
+Boost op til {monthly_boosts} sider&lt;br&gt;
+Boost op til {yearly_boosts} indlæg&lt;br&gt;
+Boost op til {yearly_boosts} sider&lt;br&gt;
+Boost op til {lifetime_boosts} indlæg&lt;br&gt;
+Boost op til {lifetime_boosts} sider&lt;br&gt;
+Tilmelde
+Youtube
+Mine produkter
+Vælg en betalingsmetode
+PayPal
+Kreditkort
+Bitcoin
+Kategorier
+Seneste produkter
+Søg efter produkter
+Søg efter produkter i {category_name}
+Ingen tilgængelige produkter at vise.
+Indlæs flere produkter
+Sælg nyt produkt
+Beskrivelse
+Beskriv venligst dit produkt.
+Brugt
+Ny
+Pris
+Din produktpris i USD-valuta ($), f.eks. (10,99)
+Rediger produkt
+Offentliggøre
+Mere info
+Kontakt sælger
+Af &lt;a href=&quot;{product_url}&quot;&gt;{product_name}&lt;/a&gt;, indsendt {product_time}, i &lt;a href=&quot;{product_category}&quot;&gt;{product_category_name}&lt;/a&gt;
+Betaling afvist, prøv venligst igen senere.
+Bekræfter betaling, vent venligst..
+Tjen op til ${amount} for hver bruger, du henviser til os!
+Tjen op til ${amount} for hver bruger, du henviser til os, og vil abonnere på enhver af vores pro-pakker.
+Mine tilknyttede selskaber
+Nuværende balance
+Dit affiliate link er
+Din saldo er ${balance}, minimumsanmodning om udbetaling er ${m_withdrawal}
+Din balance er
+PayPal e-mail
+Beløb (USD)
+Anmod om tilbagetrækning
+Betalingshistorik
+Beløb
+Afvist
+godkendt
+Samlet antal stemmer
+Marker produktet som solgt
+tilføjet nyt produkt til salg.
+produktnavn
+På lager
+Solgt
+Svar
+Tilføj svar
+Godkender
+Velkommen tilbage!
+Velkommen!
+Forbind med mennesker.
+Få nye venner.
+Del dine minder.
+Skab nye relationer.
+Oplev nye steder.
+Glemt din adgangskode?
+Ugyldig opmærkning. Prøv at nulstille din adgangskode igen
+Gå tilbage
+Ved at oprette din konto accepterer du vores
+Vælg venligst en pris for dit produkt
+Vælg venligst en korrekt værdi til din pris
+Upload venligst mindst 1 foto
+Du har allerede stemt på denne afstemning.
+Du har allerede en afventende anmodning.
+Ugyldig beløbsværdi
+Ugyldig beløbsværdi, dit beløb er:
+Ugyldig beløbsværdi, minimumsanmodning om tilbagetrækning er:
+Din anmodning er blevet sendt, du vil snart modtage en e-mail vedrørende betalingsoplysningerne.
+Slå notifikationslyden fra
+Slå notifikationslyd til
+Se {count} nye indlæg
+Gem indlæg af
+Nyt lydopkald
+ønsker at tale med dig.
+Lydopkald
+taler med
+Marked
+Kommentar
+Ved
+Indlæs flere artikler
+Blog
+Ingen artikler fundet
+Seneste artikler
+Opret ny artikel
+Mine artikler
+Titel
+Indhold
+Vælg
+Tags
+Miniaturebillede
+Udgivet
+Din artikel er blevet opdateret
+Din artikel er blevet tilføjet
+Titlen skal være på mere end 10 tegn
+Beskrivelsen skal være på mere end 32 tegn
+Udfyld venligst tags-feltet
+Fejl fundet, prøv venligst igen senere
+Indsendt {BLOG_TIME} i {CATEGORY_NAME}.
+oprettet en ny artikel
+Forum
+Sidste post
+emne
+Trådesøgning
+Opret nyt emne
+Hop til
+Mine tråde
+Mine beskeder
+Overskrift
+Dit indlæg
+Svar
+Startet af
+Site Admin
+Registreret
+Svar på dette emne
+Emnegennemgang
+Dit svar
+Liste over brugere
+Indlæg tæller
+Henvisninger
+Sidste besøg
+Generelle søgeord
+Søg efter term
+Søg ind
+Søg i fora
+Søg i tråde
+Søg i beskeder
+Søg kun emne
+tråde
+Udsendt
+Ingen fora at vise
+Aldrig
+Ingen svar at vise
+Ingen tråde at vise
+Ingen sektioner at vise
+skrev
+Rediger emne
+Dit svar blev gemt
+Dit svar blev tilføjet
+Dit forum er blevet tilføjet
+Hjælp
+Indtast et eller flere søgeord, hver skal være på mindst 4 tegn
+Begivenheder
+Går
+Interesseret
+Pastor
+inviteret
+Du skal
+Du er interesseret
+Start dato
+Slutdato
+Begivenhed
+Ingen begivenheder at vise
+Begivenheder, du måske kan lide
+Gående mennesker
+Interesserede mennesker
+Inviterede folk
+Din begivenhed blev tilføjet
+Din begivenhed blev gemt.
+Du er sikker på, at du vil slette denne begivenhed
+Indlæs mere
+Emne
+Gå
+oprettet en ny begivenhed
+Mine begivenheder
+er interesseret i din begivenhed &quot;{event_name}&quot;
+skal til din begivenhed &quot;{event_name}&quot;
+inviterede dig til begivenheden &quot;{event_name}&quot;
+svarede på dit emne
+Film
+Oversætte
+Genre
+Anbefalede
+Mest set
+Stjerner
+Ingen film at vise
+Producent
+Frigøre
+Kvalitet
+Mere som dette
+Tegnebog
+Byder
+Klik
+URL
+Publikum
+Vælg et billede
+Genopfyld min balance
+Blive ved
+Din saldo er blevet genopfyldt af
+Annoncering
+Er du sikker på, at du vil slette denne kampagne? Denne handling kan ikke fortrydes.
+Slet kampagne
+Ingen annoncer fundet. Opret ny annonce, og begynd at få trafik!
+Placering
+Sidebjælke
+Vælg en side, eller indtast et link til dit websted
+Historie
+Det maksimale antal kan ikke overstige 20 filer ad gangen!
+Din status er blevet tilføjet!
+Opret ny status
+Sponsoreret
+Din meddelelse er blevet sendt
+Skjul indlæg
+Din anmodning om bekræftelse vil snart blive taget i betragtning!
+Bekræftelse af profilen!
+Tillykke, din profil er verificeret!
+Upload dokumenter
+Upload venligst et billede med dit pas/id og dit særskilte billede
+Kopi af dit pas eller ID-kort
+Dit foto
+Vælg dit pas/id og billede!
+Pas/id-billedet skal være et billede
+Brugerbilledet skal være et billede
+Din anmodning blev sendt, i meget nær fremtid vil vi overveje det!
+delt
+Indlægget blev tilføjet til din tidslinje!
+Vigtig!
+Bemærk venligst, at hvis du ændrer brugernavnet, mister du bekræftelsen
+Hvem kan se mine venner?
+tilføjede din gruppeadministrator
+tilføjede din sideadministrator
+Ingen beskeder her endnu.
+Samtalen er blevet slettet!
+Tæt
+Afslut gruppe
+Ryd historik
+Gruppemedlemmer
+Tilføj deltager
+Annuller rapport
+Rapportér denne bruger
+Rapporter denne side
+Rapportér denne gruppe
+Du har allerede bedømt denne side!
+Bedømmelse
+Anmeldelser
